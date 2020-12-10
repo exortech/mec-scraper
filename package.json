@@ -1,0 +1,23 @@
+{
+  "name": "mec-scraper",
+  "version": "1.0.0",
+  "description": "Scrape mec.ca for changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exortech/mec-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exortech/mec-scraper/issues"
+  },
+  "homepage": "https://github.com/exortech/mec-scraper#readme",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}

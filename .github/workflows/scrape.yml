@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - name: Fetch latest data
-        run: |-
-          curl https://www.mec.ca/en/ > home.html
+      - name: Scrape home page
+        run: node scrapeHomepage.js > homepage.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
