@@ -15,14 +15,14 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Scrape home page
-        run: node scrapeHomepage.js > homepage.json
+        run: node scrapeHomepage.js > data/homepage.json
       - name: Scrape daily deals page
-        run: node scrapeDailyDeals.js > dailydeals.json
+        run: node scrapeDailyDeals.js > data/dailydeals.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
+          git add data
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
