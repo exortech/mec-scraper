@@ -16,6 +16,8 @@ jobs:
         run: npm install
       - name: Scrape home page
         run: node scrapeHomepage.js > homepage.json
+      - name: Scrape daily deals page
+        run: node scrapeDailyDeals.js > dailydeals.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

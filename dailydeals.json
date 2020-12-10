@@ -1,0 +1,27 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h0e/h79/9153011286046/20-058-WildWeeks-web-D47-PLP-DailyDeals-5x2-Nov27-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Today’s deal",
+		"tagline": "MEC cycling gear staff picks"
+	},
+	"products": [
+		{
+			"code": "6008-995",
+			"name": "MEC Midtown Helmet - Unisex",
+			"href": "/en/product/6008-995/Midtown-Helmet?colour=DNV01",
+			"price": "$24.97–$34.95"
+		},
+		{
+			"code": "5035-441",
+			"name": "MEC Aquanot Rolltop 20L Pannier - Unisex",
+			"href": "/en/product/5035-441/Aquanot-Rolltop-20L-Pannier?colour=BK000",
+			"price": "$79.97"
+		},
+		{
+			"code": "5046-959",
+			"name": "MEC Chilko Cycling Helmet - Children to Youths",
+			"href": "/en/product/5046-959/Chilko-Cycling-Helmet?colour=BK000",
+			"price": "$22.97–$32.95"
+		}
+	]
+}
