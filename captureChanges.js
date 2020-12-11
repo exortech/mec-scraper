@@ -3,11 +3,11 @@ const git = require('simple-git')()
 const diff = require('changeset')
 
 const source = 'homepage'
-const revision = 'HEAD~1'
+const revision = 'HEAD'
 
 const dataFilename = `./data/${source}.json`
 const changesFilename = `./data/${source}.changes.json`
-git.diff([revision, dataFilename]).then(homePageChanges => {
+git.diff([revision, '--', dataFilename]).then(homePageChanges => {
   if (!homePageChanges) return
 
   console.log('%s has changed. Retrieving prior version', dataFilename)
