@@ -1,7 +1,4 @@
-# MEC Scraper Home
+# MEC Time Machine
 
-## Home page changelog
-
-
-## Daily deals changelog
-
+- [Homepage changes](homepage.md)
+- [Daily deals](dailydeals.md)

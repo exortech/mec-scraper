@@ -5,6 +5,26 @@ const diff = require('changeset')
 const source = 'homepage'
 const revision = 'HEAD'
 
+const writeChangesDoc = (changeset) => {
+  const header = '# Homepage changes\n'
+  const tableHeader = '| Date | Changes |\n| --- | --- |'
+  const tableContents = Object.entries(changeset.changes).map(([ts, change]) => {
+    console.log(ts, change)
+    const timeString = new Date(change.ts).toLocaleString('en-CA')
+    const changes = []
+    if (change.hero) {
+      changes.push(`| ${timeString} | **New Hero:** ${change.hero.headline} - ${change.hero.tagline} <img src='${change.hero.img}' width='200' /> |`)
+    }
+    if (change.promos) {
+      change.promos.map(promo => {
+        changes.push(`| ${timeString} | **New Promo:** ${promo.cta} - ${promo.text} <img src='${promo.img}' width='200' /> |`)
+      })
+    }
+    return changes.join('\n')
+  }).join('\n')
+  return [header, tableHeader, tableContents].join('\n')
+}
+
 const dataFilename = `./data/${source}.json`
 const changesFilename = `./data/${source}.changes.json`
 git.diff([revision, '--', dataFilename]).then(homePageChanges => {
@@ -16,17 +36,19 @@ git.diff([revision, '--', dataFilename]).then(homePageChanges => {
     const current = require(dataFilename)
 
     const changes = diff(prior, current)
-    if (changes) {
-      const changeset = require(changesFilename)
-      const now = new Date()
-      changeset.changes[now.valueOf()] = {
-        ts: now.valueOf(),
-        hero: changes.find(c => c.key[0] === 'hero') ? current.hero : null,
-        promos: changes.find(c => c.key[0] === 'promos') ? current.promos : null
-      }
+    if (!changes) return
 
-      console.log('writing changes to %s', changesFilename)
-      fs.writeFileSync(changesFilename, JSON.stringify(changeset, null, '\t'))
+    const changeset = require(changesFilename)
+    const now = new Date()
+    console.log('Changes: %o', changes)
+    changeset.changes[now.valueOf()] = {
+      ts: now.valueOf(),
+      hero: changes.find(c => c.key[0] === 'hero') ? current.hero : null,
+      promos: current.promos.filter((promo, i) => changes.find(c => c.key[0] === 'promos' && c.key[1] === i.toString()))
     }
+    console.log('writing changes to %s', changesFilename)
+    fs.writeFileSync(changesFilename, JSON.stringify(changeset, null, '\t'))
+
+    fs.writeFileSync(`./docs/${source}.md`, writeChangesDoc(changeset))
   })
 })
