@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/exortech/mec-scraper#readme",
   "dependencies": {
-    "jsdom": "^16.4.0"
+    "changeset": "^0.2.4",
+    "jsdom": "^16.4.0",
+    "simple-git": "^2.26.0"
   }
 }
