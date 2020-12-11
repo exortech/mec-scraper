@@ -4,13 +4,5 @@
 		"headline": "Today’s deal",
 		"tagline": "MEC cycling gear staff picks"
 	},
-	"products": [
-		{
-			"idx": 0,
-			"code": "6008-995",
-			"name": "MEC Midtown Helmet - Unisex",
-			"href": "/en/product/6008-995/Midtown-Helmet?colour=DNV01",
-			"price": "$24.97–$34.95"
-		}
-	]
+	"products": []
 }
