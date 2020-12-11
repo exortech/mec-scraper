@@ -18,8 +18,8 @@ jobs:
         run: node lib/scrapeHomepage.js > data/homepage.json
       - name: Scrape daily deals page
         run: node lib/scrapeDailyDeals.js > data/dailydeals.json
-      - name: Capture changes
-        run: node lib/captureChanges.js
+      - name: Capture homepage changes
+        run: node lib/captureHomepageChanges.js
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
