@@ -2,16 +2,8 @@ const { JSDOM } = require('jsdom')
 
 const download = true
 
-const fromUri = (uri, options = {}) => {
-  return JSDOM.fromURL(uri, options)
-}
-
-const fromFile = (file, options = {}) => {
-  return JSDOM.fromFile(file, options)
-}
-
 const loadHomepage = () => {
-  return download ? fromUri('https://mec.ca/en/') : fromFile('home.html')
+  return download ? JSDOM.fromURL('https://mec.ca/en/') : JSDOM.fromFile('home.html')
 }
 
 const parseHomepage = (dom) => {

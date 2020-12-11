@@ -2,16 +2,10 @@ const { JSDOM } = require('jsdom')
 
 const download = true
 
-const fromUri = (uri, options = {}) => {
-  return JSDOM.fromURL(uri, options)
-}
-
-const fromFile = (file, options = {}) => {
-  return JSDOM.fromFile(file, options)
-}
-
 const loadDailyDeals = () => {
-  return download ? fromUri('https://www.mec.ca/en/products/c/100?f=CFSeasonalCollections%3Adaily+deals%3AfeatureCollection%3Aonsale') : fromFile('dailydeals.html')
+  return download
+    ? JSDOM.fromURL('https://www.mec.ca/en/products/c/100?f=CFSeasonalCollections%3Adaily+deals%3AfeatureCollection%3Aonsale')
+    : JSDOM.fromFile('dailydeals.html')
 }
 
 const parsePLP = (dom) => {
