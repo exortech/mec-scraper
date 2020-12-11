@@ -1,14 +1,14 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h17/h5c/9153311375390/20-054-Holiday-web-D26-homepg-hero-5x2-Dec1-EN.jpg?w=800&h=800&auto=format&q=60",
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/hd9/hb7/9155027599390/20-054-HolidayHoliday-web-D4.2-homepg-hero-5x2-Oct28-EN-R1.jpg?w=800&h=800&auto=format&q=60",
 		"headline": "Wrap up your gift list",
-		"tagline": "Spread cheer with outdoor gear. Discover this year's best gift ideas, backed by our Rocksolid Guarantee. Order before Dec. 11 for standard shipping to urban areas. "
+		"tagline": "Spread cheer with outdoor gear. Discover this year's best gift ideas, backed by our Rocksolid Guarantee. "
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h1a/h42/9153319895070/D62-cycling-EN.png",
-			"text": "Today only, daily deals on our cycling picks for the bike riders on your list.",
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/hff/9153319763998/D63-doggear-EN.png",
+			"text": "Today only, save on select dog gear to outfit your outdoor buddy for the holidays.",
 			"cta": "Shop today’s deal"
 		},
 		{
