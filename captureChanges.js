@@ -17,7 +17,7 @@ const writeChangesDoc = (changeset) => {
     }
     if (change.promos) {
       changes.push(...change.promos.map(promo => {
-        return `| ${timeString} | **New Promo:** ${promo.cta} - ${promo.text} <br /><img src='${promo.img}' width='200' /> |`
+        return `| ${timeString} | **New Promo #${promo.idx + 1}:** ${promo.cta} - ${promo.text} <br /><img src='${promo.img}' width='200' /> |`
       }))
     }
     return changes.join('\n')
