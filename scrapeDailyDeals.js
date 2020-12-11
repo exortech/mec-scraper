@@ -22,9 +22,9 @@ const parsePLP = (dom) => {
       headline: doc.querySelector('.hero__headline').textContent,
       tagline: doc.querySelector('.hero__tagline').textContent
     },
-    products: Array.from(doc.querySelectorAll('.flexigrid__tile')).map(product => {
-      // return product
+    products: Array.from(doc.querySelectorAll('.flexigrid__tile')).map((product, idx) => {
       return {
+        idx,
         code: product.getAttribute('data-griditem'),
         name: product.querySelector('.product__name__link').textContent,
         href: product.querySelector('.product__name__link').getAttribute('href'),

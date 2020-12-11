@@ -22,8 +22,9 @@ const parseHomepage = (dom) => {
       headline: doc.querySelector('.hero__headline').textContent,
       tagline: doc.querySelector('.hero__tagline').textContent
     },
-    promos: Array.from(doc.querySelectorAll('.promo')).map(promo => {
+    promos: Array.from(doc.querySelectorAll('.promo')).map((promo, idx) => {
       return {
+        idx,
         img: promo.querySelector('.promo__media').getAttribute('data-high-res-src'),
         text: promo.querySelector('.promo__caption').textContent,
         cta: promo.querySelector('.promo__actions__link').textContent
