@@ -36,6 +36,26 @@
 			"ts": 1607676099470,
 			"hero": null,
 			"products": []
+		},
+		"1607690652371": {
+			"ts": 1607690652371,
+			"hero": null,
+			"products": [
+				{
+					"idx": 0,
+					"code": "5063-978",
+					"name": "Canadian Canine Bonfire Jacket",
+					"href": "/en/product/5063-978/Bonfire-Jacket?colour=FRE17",
+					"price": "$99.97"
+				},
+				{
+					"idx": 1,
+					"code": "5063-984",
+					"name": "Canadian Canine Tundra Booties (Pair)",
+					"href": "/en/product/5063-984/Tundra-Booties-%28Pair%29?colour=TIG01",
+					"price": "$23.97"
+				}
+			]
 		}
 	}
 }
