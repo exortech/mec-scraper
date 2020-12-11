@@ -13,12 +13,12 @@ const writeChangesDoc = (changeset) => {
     const timeString = new Date(change.ts).toLocaleString('en-CA')
     const changes = []
     if (change.hero) {
-      changes.push(`| ${timeString} | **New Hero:** ${change.hero.headline} - ${change.hero.tagline} <img src='${change.hero.img}' width='200' /> |`)
+      changes.push(`| ${timeString} | **New Hero:** ${change.hero.headline} - ${change.hero.tagline} <br /><img src='${change.hero.img}' width='200' /> |`)
     }
     if (change.promos) {
-      change.promos.map(promo => {
-        changes.push(`| ${timeString} | **New Promo:** ${promo.cta} - ${promo.text} <img src='${promo.img}' width='200' /> |`)
-      })
+      changes.push(...change.promos.map(promo => {
+        return `| ${timeString} | **New Promo:** ${promo.cta} - ${promo.text} <br /><img src='${promo.img}' width='200' /> |`
+      }))
     }
     return changes.join('\n')
   }).join('\n')
@@ -49,6 +49,7 @@ git.diff([revision, '--', dataFilename]).then(homePageChanges => {
     console.log('writing changes to %s', changesFilename)
     fs.writeFileSync(changesFilename, JSON.stringify(changeset, null, '\t'))
 
-    fs.writeFileSync(`./docs/${source}.md`, writeChangesDoc(changeset))
+    const doc = writeChangesDoc(changeset)
+    fs.writeFileSync(`./docs/${source}.md`, doc)
   })
 })
