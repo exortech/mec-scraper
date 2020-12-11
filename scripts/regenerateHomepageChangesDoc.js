@@ -1,4 +1,4 @@
-const homepageChanges = require('./homepageChanges')
+const homepageChanges = require('../lib/homepageChanges')
 
 const changeset = homepageChanges.readChangeset()
 homepageChanges.writeChangesDoc(changeset)

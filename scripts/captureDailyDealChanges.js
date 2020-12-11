@@ -1,4 +1,4 @@
-const dailyDealChanges = require('./dailyDealChanges')
+const dailyDealChanges = require('../lib/dailyDealChanges')
 
 dailyDealChanges.detectChange().then(newChange => {
   if (!newChange) return

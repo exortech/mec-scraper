@@ -15,13 +15,13 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Scrape home page
-        run: node lib/scrapeHomepage.js > data/homepage.json
+        run: node scripts/scrapeHomepage.js > data/homepage.json
       - name: Scrape daily deals page
-        run: node lib/scrapeDailyDeals.js > data/dailydeals.json
+        run: node scripts/scrapeDailyDeals.js > data/dailydeals.json
       - name: Capture homepage changes
-        run: node lib/captureHomepageChanges.js
+        run: node scripts/captureHomepageChanges.js
       - name: Capture daily deal changes
-        run: node lib/captureDailyDealChanges.js
+        run: node scripts/captureDailyDealChanges.js
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

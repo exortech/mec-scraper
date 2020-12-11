@@ -1,4 +1,4 @@
-const homepageChanges = require('./homepageChanges')
+const homepageChanges = require('../lib/homepageChanges')
 
 homepageChanges.detectChange().then(newChange => {
   if (!newChange) return
