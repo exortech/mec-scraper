@@ -10,5 +10,9 @@
 | 2020-12-11, 4:44:12 a.m. | **New Product #1:** [5063-978 Canadian Canine Bonfire Jacket](/en/product/5063-978/Bonfire-Jacket?colour=FRE17) - $99.97 |
 | 2020-12-11, 4:44:12 a.m. | **New Product #2:** [5063-984 Canadian Canine Tundra Booties (Pair)](/en/product/5063-984/Tundra-Booties-%28Pair%29?colour=TIG01) - $23.97 |
 | 2020-12-11, 6:41:15 a.m. | **New Hero:** Today’s deal - Up to 30% off dog gear <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h0e/h79/9153011286046/20-058-WildWeeks-web-D47-PLP-DailyDeals-5x2-Nov27-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 2020-12-12, 12:38:33 a.m. | **No products shown!** |
+| 2020-12-12, 7:42:39 a.m. | **New Product #1:** [6000-584 MEC Trail Pack 18L - Unisex](/en/product/6000-584/Trail-Pack-18L?colour=AZR00) - $23.93–$26.97 |
+| 2020-12-12, 7:42:39 a.m. | **New Product #2:** [6000-583 MEC Trail 24 Pack - Unisex](/en/product/6000-583/Trail-24-Pack?colour=PPL56) - $29.93–$29.97 |
+| 2020-12-12, 7:42:39 a.m. | **New Product #3:** [6000-585 MEC Trail 30 Pack - Unisex](/en/product/6000-585/Trail-30-Pack?colour=PPL56) - $35.93–$35.97 |
 
 [Back to main page](index.md)
