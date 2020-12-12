@@ -7,18 +7,24 @@
 	"promos": [
 		{
 			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hac/h31/9155027173406/D64-packs-EN.png",
+			"text": "For one day only, save up to 40% off select backpacks.",
+			"cta": "Shop today’s deal"
+		},
+		{
+			"idx": 1,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc2/h5d/9155028385822/20-054-Holiday-web-D37-bestsellers-promo-EN.jpg",
 			"text": "These best-sellers are going fast, so don’t wait to pick them up.",
 			"cta": "Shop best-sellers"
 		},
 		{
-			"idx": 1,
+			"idx": 2,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h60/h61/9144793169950/20-052-BackcountrySki-Web-D2-Promo-5x2-Oct29-EN.jpg",
 			"text": "Gear up for wide open slopes and bottomless powder.",
 			"cta": "Shop backcountry ski"
 		},
 		{
-			"idx": 2,
+			"idx": 3,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
 			"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
 			"cta": "Shop our warmest boots"
