@@ -13,5 +13,6 @@
 | 2020-12-12, 4:59:23 a.m. | **New Promo #2:** Shop best-sellers - These best-sellers are going fast, so don’t wait to pick them up. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc2/h5d/9155028385822/20-054-Holiday-web-D37-bestsellers-promo-EN.jpg' width='200' /> |
 | 2020-12-12, 4:59:23 a.m. | **New Promo #3:** Shop backcountry ski - Gear up for wide open slopes and bottomless powder. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h60/h61/9144793169950/20-052-BackcountrySki-Web-D2-Promo-5x2-Oct29-EN.jpg' width='200' /> |
 | 2020-12-12, 4:59:23 a.m. | **New Promo #4:** Shop our warmest boots - Insulated, grippy footwear for stepping out confidently in the snow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg' width='200' /> |
+| 2020-12-13, 5:00:02 a.m. | **New Promo #1:** Shop today’s deal - Today only, save on our favourite winter footwear from Timberland and The North Face. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf2/hce/9155027304478/D65-winterboots-EN.png' width='200' /> |
 
 [Back to main page](index.md)
