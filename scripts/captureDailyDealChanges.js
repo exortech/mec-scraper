@@ -5,5 +5,5 @@ dailyDealChanges.detectChange().then(newChange => {
 
   const changeset = dailyDealChanges.updateChangeset(newChange)
 
-  dailyDealChanges.generateChangesDoc(changeset)
+  dailyDealChanges.writeChangesDoc(changeset)
 })

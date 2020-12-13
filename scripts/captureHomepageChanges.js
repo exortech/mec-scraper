@@ -5,5 +5,5 @@ homepageChanges.detectChange().then(newChange => {
 
   const changeset = homepageChanges.updateChangeset(newChange)
 
-  homepageChanges.generateChangesDoc(changeset)
+  homepageChanges.writeChangesDoc(changeset)
 })
