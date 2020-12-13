@@ -4,5 +4,27 @@
 		"headline": "Today’s deal",
 		"tagline": "Select winter boots"
 	},
-	"products": []
+	"products": [
+		{
+			"idx": 0,
+			"code": "6001-780",
+			"name": "Timberland Authentic Teddy Fleece Waterproof Fold-Down Boots - Women's",
+			"href": "/en/product/6001-780/Authentics-Teddy-Fleece-Waterproof-Fold-Down?colour=LBR00",
+			"price": "$99.97"
+		},
+		{
+			"idx": 1,
+			"code": "6001-120",
+			"name": "The North Face Shellista III Mid Waterproof Insulated Winter Boots - Women's",
+			"href": "/en/product/6001-120/Shellista-III-Mid-Waterproof-Insulated-Winter?colour=BK970",
+			"price": "$93.97"
+		},
+		{
+			"idx": 2,
+			"code": "6012-639",
+			"name": "Northside Frosty Boots - Infants to Children",
+			"href": "/en/product/6012-639/Frosty-Boots?colour=ONX00",
+			"price": "$23.97"
+		}
+	]
 }
