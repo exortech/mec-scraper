@@ -21,5 +21,8 @@
 | 12/13/2020, 3:35:36 PM | **New Product #3:** [6012-639 Northside Frosty Boots - Infants to Children](/en/product/6012-639/Frosty-Boots?colour=ONX00) - $23.97 |
 | 12/14/2020, 8:44:31 AM | **No products shown!** |
 | 12/14/2020, 12:46:23 PM | **New Hero:** Today’s deal - Up to 40% off MEC fleece pants <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h0e/h79/9153011286046/20-058-WildWeeks-web-D47-PLP-DailyDeals-5x2-Nov27-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 12/14/2020, 3:39:15 PM | **New Product #1:** [6004-824 MEC Trek Pants - Women's](/en/product/6004-824/Trek-Pants?colour=PNE00) - $41.97 |
+| 12/14/2020, 3:39:15 PM | **New Product #2:** [5042-134 MEC Trek Pants - Men's](/en/product/5042-134/Trek-Pants?colour=BK000) - $41.97 |
+| 12/14/2020, 3:39:15 PM | **New Product #3:** [6004-830 MEC Trek Pants - Men's](/en/product/6004-830/Trek-Pants?colour=PNE00) - $41.97 |
 
 [Back to main page](index.md)
