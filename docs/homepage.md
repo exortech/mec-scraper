@@ -17,5 +17,6 @@
 | 12/14/2020, 4:46:23 AM | **New Promo #1:** Shop today’s deal - Today only, save on warm, fuzzy MEC Fleece Pants, perfect for winter or working from home. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h2b/h66/9155029237790/D61-fleecepants-EN.png' width='200' /> |
 | 12/14/2020, 5:28:13 PM | **New Promo #3:** Shop all snowsports - Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg' width='200' /> |
 | 12/15/2020, 12:17:10 AM | **New Hero:** Wrap up your gift list - Spread cheer with outdoor gear. Discover this year's best gift ideas, backed by our Rocksolid Guarantee. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h17/h5c/9153311375390/20-054-Holiday-web-D26-homepg-hero-5x2-Dec1-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 12/15/2020, 4:46:33 AM | **New Promo #1:** Shop today’s deal - Save on select MEC toques – they make great stocking stuffers. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h86/hf5/9155463381022/D67-toques-EN.png' width='200' /> |
 
 [Back to main page](index.md)

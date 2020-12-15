@@ -25,5 +25,6 @@
 | 12/14/2020, 7:39:15 AM | **New Product #2:** [5042-134 MEC Trek Pants - Men's](/en/product/5042-134/Trek-Pants?colour=BK000) - $41.97 |
 | 12/14/2020, 7:39:15 AM | **New Product #3:** [6004-830 MEC Trek Pants - Men's](/en/product/6004-830/Trek-Pants?colour=PNE00) - $41.97 |
 | 12/15/2020, 12:42:19 AM | **No products shown!** |
+| 12/15/2020, 4:46:33 AM | **New Hero:** Today’s deal - Up to 40% MEC toques <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h0e/h79/9153011286046/20-058-WildWeeks-web-D47-PLP-DailyDeals-5x2-Nov27-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
