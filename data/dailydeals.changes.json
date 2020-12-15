@@ -261,6 +261,26 @@
 					"price": "$11.97"
 				}
 			]
+		},
+		"1608066747252": {
+			"ts": 1608066747252,
+			"hero": null,
+			"products": [
+				{
+					"idx": 1,
+					"code": "5061-866",
+					"name": "MEC Reversible Merino Toque - Unisex",
+					"href": "/en/product/5061-866/Reversible-Merino-Toque?colour=ASF01",
+					"price": "$14.97"
+				},
+				{
+					"idx": 2,
+					"code": "5061-865",
+					"name": "MEC PomPom Merino Toque - Unisex",
+					"href": "/en/product/5061-865/PomPom-Merino-Toque?colour=GBH02",
+					"price": "$13.93–$17.97"
+				}
+			]
 		}
 	}
 }

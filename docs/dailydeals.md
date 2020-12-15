@@ -34,5 +34,7 @@
 | 12/15/2020, 6:15:40 AM | **New Product #6:** [5061-888 MEC Cozy Pom Toque - Women's](/en/product/5061-888/Cozy-Pom-Toque?colour=PHE19) - $17.97 |
 | 12/15/2020, 6:15:40 AM | **New Product #7:** [5061-886 MEC Cozy Knit Toque - Women's](/en/product/5061-886/Cozy-Knit-Toque?colour=SQH01) - $14.97 |
 | 12/15/2020, 10:38:11 AM | **New Product #5:** [5061-869 MEC Maritime Merino Toque - Unisex](/en/product/5061-869/Maritime-Merino-Toque?colour=BK000) - $11.97 |
+| 12/15/2020, 1:12:27 PM | **New Product #2:** [5061-866 MEC Reversible Merino Toque - Unisex](/en/product/5061-866/Reversible-Merino-Toque?colour=ASF01) - $14.97 |
+| 12/15/2020, 1:12:27 PM | **New Product #3:** [5061-865 MEC PomPom Merino Toque - Unisex](/en/product/5061-865/PomPom-Merino-Toque?colour=GBH02) - $13.93–$17.97 |
 
 [Back to main page](index.md)
