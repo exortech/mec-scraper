@@ -4,5 +4,55 @@
 		"headline": "Today’s deal",
 		"tagline": "Up to 40% MEC toques"
 	},
-	"products": []
+	"products": [
+		{
+			"idx": 0,
+			"code": "5061-864",
+			"name": "MEC Relaxed Merino Toque - Unisex",
+			"href": "/en/product/5061-864/Relaxed-Merino-Toque?colour=SSB04",
+			"price": "$14.97"
+		},
+		{
+			"idx": 1,
+			"code": "5061-865",
+			"name": "MEC PomPom Merino Toque - Unisex",
+			"href": "/en/product/5061-865/PomPom-Merino-Toque?colour=GBH02",
+			"price": "$13.93–$17.97"
+		},
+		{
+			"idx": 2,
+			"code": "5061-866",
+			"name": "MEC Reversible Merino Toque - Unisex",
+			"href": "/en/product/5061-866/Reversible-Merino-Toque?colour=ASF01",
+			"price": "$14.97"
+		},
+		{
+			"idx": 3,
+			"code": "5061-745",
+			"name": "MEC Super Warm Wool Toque - Unisex",
+			"href": "/en/product/5061-745/Super-Warm-Wool-Toque?colour=PINE9",
+			"price": "$14.97"
+		},
+		{
+			"idx": 4,
+			"code": "5061-869",
+			"name": "MEC Maritime Merino Toque - Unisex",
+			"href": "/en/product/5061-869/Maritime-Merino-Toque?colour=HGH01",
+			"price": "$11.97"
+		},
+		{
+			"idx": 5,
+			"code": "5061-888",
+			"name": "MEC Cozy Pom Toque - Women's",
+			"href": "/en/product/5061-888/Cozy-Pom-Toque?colour=PHE19",
+			"price": "$17.97"
+		},
+		{
+			"idx": 6,
+			"code": "5061-886",
+			"name": "MEC Cozy Knit Toque - Women's",
+			"href": "/en/product/5061-886/Cozy-Knit-Toque?colour=SQH01",
+			"price": "$14.97"
+		}
+	]
 }

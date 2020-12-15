@@ -26,5 +26,12 @@
 | 12/14/2020, 7:39:15 AM | **New Product #3:** [6004-830 MEC Trek Pants - Men's](/en/product/6004-830/Trek-Pants?colour=PNE00) - $41.97 |
 | 12/15/2020, 12:42:19 AM | **No products shown!** |
 | 12/15/2020, 4:46:33 AM | **New Hero:** Today’s deal - Up to 40% MEC toques <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h0e/h79/9153011286046/20-058-WildWeeks-web-D47-PLP-DailyDeals-5x2-Nov27-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 12/15/2020, 6:15:40 AM | **New Product #1:** [5061-864 MEC Relaxed Merino Toque - Unisex](/en/product/5061-864/Relaxed-Merino-Toque?colour=SSB04) - $14.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #2:** [5061-865 MEC PomPom Merino Toque - Unisex](/en/product/5061-865/PomPom-Merino-Toque?colour=GBH02) - $13.93–$17.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #3:** [5061-866 MEC Reversible Merino Toque - Unisex](/en/product/5061-866/Reversible-Merino-Toque?colour=ASF01) - $14.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #4:** [5061-745 MEC Super Warm Wool Toque - Unisex](/en/product/5061-745/Super-Warm-Wool-Toque?colour=PINE9) - $14.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #5:** [5061-869 MEC Maritime Merino Toque - Unisex](/en/product/5061-869/Maritime-Merino-Toque?colour=HGH01) - $11.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #6:** [5061-888 MEC Cozy Pom Toque - Women's](/en/product/5061-888/Cozy-Pom-Toque?colour=PHE19) - $17.97 |
+| 12/15/2020, 6:15:40 AM | **New Product #7:** [5061-886 MEC Cozy Knit Toque - Women's](/en/product/5061-886/Cozy-Knit-Toque?colour=SQH01) - $14.97 |
 
 [Back to main page](index.md)
