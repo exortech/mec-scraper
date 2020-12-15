@@ -248,6 +248,19 @@
 					"price": "$14.97"
 				}
 			]
+		},
+		"1608057491403": {
+			"ts": 1608057491403,
+			"hero": null,
+			"products": [
+				{
+					"idx": 4,
+					"code": "5061-869",
+					"name": "MEC Maritime Merino Toque - Unisex",
+					"href": "/en/product/5061-869/Maritime-Merino-Toque?colour=BK000",
+					"price": "$11.97"
+				}
+			]
 		}
 	}
 }
