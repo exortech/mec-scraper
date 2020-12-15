@@ -111,6 +111,18 @@
 					"cta": "Shop today’s deal"
 				}
 			]
+		},
+		"1607995693501": {
+			"ts": 1607995693501,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+					"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+					"cta": "Shop all snowsports"
+				}
+			]
 		}
 	}
 }
