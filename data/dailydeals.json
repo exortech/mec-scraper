@@ -4,27 +4,5 @@
 		"headline": "Today’s deal",
 		"tagline": "Up to 40% off MEC fleece pants"
 	},
-	"products": [
-		{
-			"idx": 0,
-			"code": "6004-824",
-			"name": "MEC Trek Pants - Women's",
-			"href": "/en/product/6004-824/Trek-Pants?colour=PNE00",
-			"price": "$41.97"
-		},
-		{
-			"idx": 1,
-			"code": "5042-134",
-			"name": "MEC Trek Pants - Men's",
-			"href": "/en/product/5042-134/Trek-Pants?colour=BK000",
-			"price": "$41.97"
-		},
-		{
-			"idx": 2,
-			"code": "6004-830",
-			"name": "MEC Trek Pants - Men's",
-			"href": "/en/product/6004-830/Trek-Pants?colour=PNE00",
-			"price": "$41.97"
-		}
-	]
+	"products": []
 }
