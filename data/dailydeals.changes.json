@@ -301,6 +301,19 @@
 					"price": "$11.97"
 				}
 			]
+		},
+		"1608093687959": {
+			"ts": 1608093687959,
+			"hero": null,
+			"products": [
+				{
+					"idx": 0,
+					"code": "5061-864",
+					"name": "MEC Relaxed Merino Toque - Unisex",
+					"href": "/en/product/5061-864/Relaxed-Merino-Toque?colour=GRO02",
+					"price": "$14.97"
+				}
+			]
 		}
 	}
 }
