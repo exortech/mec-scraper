@@ -35,17 +35,17 @@
 		},
 		{
 			"idx": 4,
-			"code": "5061-869",
-			"name": "MEC Maritime Merino Toque - Unisex",
-			"href": "/en/product/5061-869/Maritime-Merino-Toque?colour=BK000",
-			"price": "$11.97"
-		},
-		{
-			"idx": 5,
 			"code": "5061-888",
 			"name": "MEC Cozy Pom Toque - Women's",
 			"href": "/en/product/5061-888/Cozy-Pom-Toque?colour=PHE19",
 			"price": "$17.97"
+		},
+		{
+			"idx": 5,
+			"code": "5061-869",
+			"name": "MEC Maritime Merino Toque - Unisex",
+			"href": "/en/product/5061-869/Maritime-Merino-Toque?colour=BK000",
+			"price": "$11.97"
 		},
 		{
 			"idx": 6,
