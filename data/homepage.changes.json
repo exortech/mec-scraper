@@ -192,6 +192,18 @@
 					"cta": "Shop new for fall"
 				}
 			]
+		},
+		"1608165501891": {
+			"ts": 1608165501891,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h80/h33/9155469606942/20-051-OutdoorLS-web-D33-promo-5x2-Dec15-EN.jpg",
+					"text": "Warm up to the season with fresh styles to adapt to the temps. ",
+					"cta": "Shop new for winter"
+				}
+			]
 		}
 	}
 }

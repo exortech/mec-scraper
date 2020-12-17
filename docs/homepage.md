@@ -24,5 +24,6 @@
 | 12/16/2020, 4:18:58 AM | **New Promo #2:** Shop all snowsports - Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg' width='200' /> |
 | 12/16/2020, 4:18:58 AM | **New Promo #3:** Shop our warmest boots - Insulated, grippy footwear for stepping out confidently in the snow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg' width='200' /> |
 | 12/16/2020, 4:18:58 AM | **New Promo #4:** Shop new for fall - Warm up to the season with fresh styles to adapt to the temps.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h80/h33/9155469606942/20-051-OutdoorLS-web-D33-promo-5x2-Dec15-EN.jpg' width='200' /> |
+| 12/16/2020, 4:38:21 PM | **New Promo #4:** Shop new for winter - Warm up to the season with fresh styles to adapt to the temps.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h80/h33/9155469606942/20-051-OutdoorLS-web-D33-promo-5x2-Dec15-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
