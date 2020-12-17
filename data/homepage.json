@@ -1,27 +1,27 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h08/heb/9147812413470/Holiday-homepage-5x2-update-EN.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Wrap up your gift list",
-		"tagline": "Spread cheer with outdoor gear. Discover this year's best gift ideas, backed by our Rocksolid Guarantee. Next-day store pickup is available on thousands of items."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/hc6/hfd/9155468001310/20-058-WildWeeks-Web-D71-PreBoxingDay-hero-5x2-Dec15-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Early Boxing Day deals on now!",
+		"tagline": "Fantastic deals on last-minute gifts, plus next-day store pickup is available on thousands of items."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc2/h5d/9155028385822/20-054-Holiday-web-D37-bestsellers-promo-EN.jpg",
-			"text": "These best-sellers are going fast, so don’t wait to pick them up.",
-			"cta": "Shop best-sellers"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfd/h5e/9155468656670/20-058-WildWeeks-Web-D71.2-PreBoxingDay-promo-Dec15-EN.jpg",
+			"text": "Rad stuff from popular brands including MEC, The North Face and Patagonia.",
+			"cta": "Shop early deals"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
-			"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
-			"cta": "Shop all snowsports"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd3/h50/9146291781662/20-054-Holiday-web-D2-promo-Phase1HappyHolidaysGuaranteed-5x2-Oct20-EN.jpg",
+			"text": "Gifts for family, friends and fresh-air fun – backed by our Rocksolid Guarantee.",
+			"cta": "Shop the gift guide"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
-			"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
-			"cta": "Shop our warmest boots"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+			"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+			"cta": "Shop all snowsports"
 		},
 		{
 			"idx": 3,
