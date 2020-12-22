@@ -347,6 +347,36 @@
 					"cta": "Shop all snowsports"
 				}
 			]
+		},
+		"1608645158239": {
+			"ts": 1608645158239,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h72/hf0/9156661149726/D72.1-HomepagePromo-Travel-EN.jpg",
+					"text": "Up to 30% off MEC travel essentials. Ends January 7. ",
+					"cta": "Shop deal"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd3/h50/9146291781662/20-054-Holiday-web-D2-promo-Phase1HappyHolidaysGuaranteed-5x2-Oct20-EN.jpg",
+					"text": "Gifts for family, friends and fresh-air fun – backed by our Rocksolid Guarantee.",
+					"cta": "Shop the gift guide"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+					"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+					"cta": "Shop all snowsports"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h80/h33/9155469606942/20-051-OutdoorLS-web-D33-promo-5x2-Dec15-EN.jpg",
+					"text": "Warm up to the season with fresh styles to adapt to the temps. ",
+					"cta": "Shop new for winter"
+				}
+			]
 		}
 	}
 }
