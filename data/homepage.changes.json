@@ -377,6 +377,36 @@
 					"cta": "Shop new for winter"
 				}
 			]
+		},
+		"1608673162357": {
+			"ts": 1608673162357,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd5/h7d/9156661018654/D72.1-HomepagePromo-Kids-EN.jpg",
+					"text": "For a limited time, save on MEC-Label for kids. Ends December 29.",
+					"cta": "Shop deal"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h72/hf0/9156661149726/D72.1-HomepagePromo-Travel-EN.jpg",
+					"text": "Up to 30% off MEC travel essentials. Ends January 7. ",
+					"cta": "Shop deal"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h2c/h0e/9075578470430/19-202-Holiday-web-D80-homepg-promo-GiftCards-5x2-Nov5-EN.jpg",
+					"text": "Eyeballing the size? Not sure what they’d like best? Gift cards let them choose their own adventure. ",
+					"cta": "Shop gift cards"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+					"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+					"cta": "Shop all snowsports"
+				}
+			]
 		}
 	}
 }
