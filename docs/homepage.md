@@ -52,5 +52,6 @@
 | 12/22/2020, 1:39:22 PM | **New Promo #3:** Shop gift cards - Eyeballing the size? Not sure what they’d like best? Gift cards let them choose their own adventure.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h2c/h0e/9075578470430/19-202-Holiday-web-D80-homepg-promo-GiftCards-5x2-Nov5-EN.jpg' width='200' /> |
 | 12/22/2020, 1:39:22 PM | **New Promo #4:** Shop all snowsports - Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg' width='200' /> |
 | 12/23/2020, 5:17:19 PM | **New Promo #2:** Shop limited time deal - Up to 30% off MEC travel essentials. Ends January 7.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h72/hf0/9156661149726/D72.1-HomepagePromo-Travel-EN.jpg' width='200' /> |
+| 12/24/2020, 11:34:08 AM | **New Promo #1:** Shop limited time deal - For a limited time, save on MEC-Label for kids. Ends December 29. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd5/h7d/9156661018654/D72.1-HomepagePromo-Kids-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
