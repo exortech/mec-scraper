@@ -461,6 +461,18 @@
 					"cta": "Shop limited time deal"
 				}
 			]
+		},
+		"1609266135608": {
+			"ts": 1609266135608,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h22/h27/9157820121118/D72.1-HomepagePromo-Climb-EN.jpg",
+					"text": "Limited time deals on Black Diamond, Petzl and Boreal. ",
+					"cta": "Shop limited time deal"
+				}
+			]
 		}
 	}
 }

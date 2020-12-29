@@ -57,5 +57,6 @@
 | 12/26/2020, 5:24:08 AM | **New Promo #2:** Shop limited time deal - Limited time savings on Merell, Timberland, Sorel, Columbia, and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h61/hc2/9157989924894/D72.1-HomepagePromo-Footwear-EN.jpg' width='200' /> |
 | 12/26/2020, 5:24:08 AM | **New Promo #3:** Shop limited time deal - Limited time deals on MEC, Rab, Cascade, Petzl and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h59/h72/9157819990046/D72.1-HomepagePromo-HikeCamp-EN.jpg' width='200' /> |
 | 12/26/2020, 5:24:08 AM | **New Promo #4:** Shop limited time deal - For a limited time, save on MEC-Label for kids. Ends December 29. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd5/h7d/9156661018654/D72.1-HomepagePromo-Kids-EN.jpg' width='200' /> |
+| 12/29/2020, 10:22:15 AM | **New Promo #4:** Shop limited time deal - Limited time deals on Black Diamond, Petzl and Boreal.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h22/h27/9157820121118/D72.1-HomepagePromo-Climb-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
