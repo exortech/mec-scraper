@@ -543,6 +543,34 @@
 					"cta": "Shop winter jackets"
 				}
 			]
+		},
+		"1611280034280": {
+			"ts": 1611280034280,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h55/h34/9164604145694/20-014-Misc-Intake-web-D65-homepage-CC-5x2-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Thousands of deals",
+				"tagline": "Act fast on end-of-season gear, clothing and footwear. Quantities are limited."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h62/h5d/9164604276766/20-014-Misc-Intake-web-D66-promo-jackets-EN.jpg",
+					"text": "Epic savings on insulated and waterproof layers. Limited quantities, so don’t miss out.",
+					"cta": "Shop jacket deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc9/he6/9164604899358/20-051-Outdoor-Lifestyle-web-D42-promo-gloves-EN.jpg",
+					"text": "Score hot deals on warm gloves, mitts and hats. Ends January 27.",
+					"cta": "Shop winter accessories"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+					"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+					"cta": "Shop all snowsports"
+				}
+			]
 		}
 	}
 }
