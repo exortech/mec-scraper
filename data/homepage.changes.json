@@ -571,6 +571,18 @@
 					"cta": "Shop all snowsports"
 				}
 			]
+		},
+		"1611821774548": {
+			"ts": 1611821774548,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg",
+					"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
+					"cta": "Shop kids’ deals"
+				}
+			]
 		}
 	}
 }

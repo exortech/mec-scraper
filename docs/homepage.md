@@ -71,5 +71,6 @@
 | 1/21/2021, 5:47:14 PM | **New Promo #1:** Shop jacket deals - Epic savings on insulated and waterproof layers. Limited quantities, so don’t miss out. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h62/h5d/9164604276766/20-014-Misc-Intake-web-D66-promo-jackets-EN.jpg' width='200' /> |
 | 1/21/2021, 5:47:14 PM | **New Promo #2:** Shop winter accessories - Score hot deals on warm gloves, mitts and hats. Ends January 27. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc9/he6/9164604899358/20-051-Outdoor-Lifestyle-web-D42-promo-gloves-EN.jpg' width='200' /> |
 | 1/21/2021, 5:47:14 PM | **New Promo #3:** Shop all snowsports - Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg' width='200' /> |
+| 1/28/2021, 12:16:14 AM | **New Promo #2:** Shop kids’ deals - Save big on essentials for young (and fast-growing) adventurers. Limited quantities. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
