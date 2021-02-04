@@ -1,27 +1,27 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h55/h34/9164604145694/20-014-Misc-Intake-web-D65-homepage-CC-5x2-EN.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Thousands of deals",
-		"tagline": "Act fast on end-of-season gear, clothing and footwear. Quantities are limited."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/hb8/hb4/9157986320414/20-062-NY-Winter-Train-web-D1-hero-5x2-Dec23.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Step into action",
+		"tagline": "Find technical shoes, warm layers and training electronics to keep moving all winter long."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h62/h5d/9164604276766/20-014-Misc-Intake-web-D66-promo-jackets-EN.jpg",
-			"text": "Epic savings on insulated and waterproof layers. Limited quantities, so don’t miss out.",
-			"cta": "Shop jacket deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h39/ha8/9145273679902/20-051-OutdoorLifestyle-D39-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
+			"text": "Find warm, waterproof jackets, parkas and puffers to keep out the chill.",
+			"cta": "Shop winter jackets"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg",
-			"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
-			"cta": "Shop kids’ deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6b/hde/9165986136094/20-052-Backcountry-Ski-web-D19-homepagepromo-familyday-EN.jpg",
+			"text": "Winter gear for everyone: boots, skis plus accessories. ",
+			"cta": "Shop all snowsports"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
-			"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
-			"cta": "Shop all snowsports"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg",
+			"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
+			"cta": "Shop kids’ deals"
 		},
 		{
 			"idx": 3,
