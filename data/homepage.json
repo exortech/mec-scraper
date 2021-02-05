@@ -1,0 +1,33 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/hb8/hb4/9157986320414/20-062-NY-Winter-Train-web-D1-hero-5x2-Dec23.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "For cold-weather fitness",
+		"tagline": "Grippy shoes, insulating layers and smart electronics."
+	},
+	"promos": [
+		{
+			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h39/ha8/9145273679902/20-051-OutdoorLifestyle-D39-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
+			"text": "Find warm, waterproof jackets, parkas and puffers to keep out the chill.",
+			"cta": "Shop winter jackets"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6b/hde/9165986136094/20-052-Backcountry-Ski-web-D19-homepagepromo-familyday-EN.jpg",
+			"text": "Winter gear for everyone: boots, skis plus accessories. ",
+			"cta": "Shop all snowsports"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg",
+			"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
+			"cta": "Shop kids’ deals"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
+			"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
+			"cta": "Shop our warmest boots"
+		}
+	]
+}
