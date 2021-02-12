@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/hb8/hb4/9157986320414/20-062-NY-Winter-Train-web-D1-hero-5x2-Dec23.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "For cold-weather fitness",
-		"tagline": "Grippy shoes, insulating layers and smart electronics."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h9e/h8a/9169261002782/21-05-Clearance-web-D1-6-hero-winterclearance-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Fresh deals for snow lovers.",
+		"tagline": "Sweet deals on best-selling winter gear – don’t wait until they melt away."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h39/ha8/9145273679902/20-051-OutdoorLifestyle-D39-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
-			"text": "Find warm, waterproof jackets, parkas and puffers to keep out the chill.",
-			"cta": "Shop winter jackets"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc4/9169260871710/20-051-OutdoorLifestyle-D32-Promo-5x2-Oct2-EN.jpg",
+			"text": "Get off-the-charts cozy in thick, super-soft layers.",
+			"cta": "Shop fleece, sweaters and hoodies"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6b/hde/9165986136094/20-052-Backcountry-Ski-web-D19-homepagepromo-familyday-EN.jpg",
-			"text": "Winter gear for everyone: boots, skis plus accessories. ",
-			"cta": "Shop all snowsports"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h06/h30/9169260740638/20-062-New-Year-Winter-Train-web-D11-running-promo-EN.jpg",
+			"text": "Grippy trail runners and cushy road runners to keep moving all season.",
+			"cta": "Shop running shoes"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/hbd/9164604407838/20-014-Misc-Intake-web-D67-promo-kidsgear-EN.jpg",
-			"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
-			"cta": "Shop kids’ deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hdc/he2/9169261395998/21-05-Clearance-web-D1-6-promo-baselayers-EN.jpg",
+			"text": "Save on warm layers for adults and kids.",
+			"cta": "Shop base layer deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
-			"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
-			"cta": "Shop our warmest boots"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd0/h98/9169261264926/21-05-Clearance-web-D1-6-promo-snowsports-EN.jpg",
+			"text": "Gear and clothing for playing outside.",
+			"cta": "Shop snowsports deals"
 		}
 	]
 }
