@@ -81,5 +81,8 @@
 | 2/12/2021, 10:39:39 AM | **New Promo #2:** Shop running shoes - Grippy trail runners and cushy road runners to keep moving all season. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h06/h30/9169260740638/20-062-New-Year-Winter-Train-web-D11-running-promo-EN.jpg' width='200' /> |
 | 2/12/2021, 10:39:39 AM | **New Promo #3:** Shop base layer deals - Save on warm layers for adults and kids. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdc/he2/9169261395998/21-05-Clearance-web-D1-6-promo-baselayers-EN.jpg' width='200' /> |
 | 2/12/2021, 10:39:39 AM | **New Promo #4:** Shop snowsports deals - Gear and clothing for playing outside. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd0/h98/9169261264926/21-05-Clearance-web-D1-6-promo-snowsports-EN.jpg' width='200' /> |
+| 2/18/2021, 9:36:31 AM | **New Hero:** Fresh deals for snow lovers - Sweet deals on best-selling winter gear – don’t wait until they melt away. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9e/h8a/9169261002782/21-05-Clearance-web-D1-6-hero-winterclearance-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 2/18/2021, 9:36:31 AM | **New Promo #2:** Shop our warmest boots - Insulated, grippy footwear for stepping out confidently in the snow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg' width='200' /> |
+| 2/18/2021, 9:36:31 AM | **New Promo #4:** Shop deals for kids - Big savings for small adventurers. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb8/hce/9172208189470/21-05-Clearance-web-D1-6-promo-kidsgear-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

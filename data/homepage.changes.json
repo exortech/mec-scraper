@@ -645,6 +645,28 @@
 					"cta": "Shop snowsports deals"
 				}
 			]
+		},
+		"1613669791592": {
+			"ts": 1613669791592,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h9e/h8a/9169261002782/21-05-Clearance-web-D1-6-hero-winterclearance-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Fresh deals for snow lovers",
+				"tagline": "Sweet deals on best-selling winter gear – don’t wait until they melt away."
+			},
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
+					"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
+					"cta": "Shop our warmest boots"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb8/hce/9172208189470/21-05-Clearance-web-D1-6-promo-kidsgear-EN.jpg",
+					"text": "Big savings for small adventurers.",
+					"cta": "Shop deals for kids"
+				}
+			]
 		}
 	}
 }
