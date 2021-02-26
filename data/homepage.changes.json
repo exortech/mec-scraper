@@ -667,6 +667,40 @@
 					"cta": "Shop deals for kids"
 				}
 			]
+		},
+		"1614300053068": {
+			"ts": 1614300053068,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/ha0/hff/9165986070558/20-052-Backcountry-Ski-web-D18-homepagehero.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Snow days",
+				"tagline": "Winter gear for everyone: boots, skis plus accessories."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/h4e/9177384812574/20-013-Traders-Web-D30-promo-Sept10-EN.jpg",
+					"text": "Just added, big time deals on outdoor gear. ",
+					"cta": "Shop deals now"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd6/h42/9177384943646/20-062-NY-Winter-Train-web-D2-promo-5x2-Dec23-EN.jpg",
+					"text": "Fresh air and fresh beginnings are just outside your door. Find gear to get out there.",
+					"cta": "Shop cold-weather training gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc4/9169260871710/20-051-OutdoorLifestyle-D32-Promo-5x2-Oct2-EN.jpg",
+					"text": "Get off-the-charts cozy in thick, super-soft layers.",
+					"cta": "Shop fleece, sweaters and hoodies"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg",
+					"text": "Insulated, grippy footwear for stepping out confidently in the snow.",
+					"cta": "Shop our warmest boots"
+				}
+			]
 		}
 	}
 }
