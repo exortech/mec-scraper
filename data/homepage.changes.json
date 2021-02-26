@@ -701,6 +701,15 @@
 					"cta": "Shop our warmest boots"
 				}
 			]
+		},
+		"1614367054767": {
+			"ts": 1614367054767,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h0b/hf7/9063504117790/19-226-Snowsports-Ski-and-Board-Web-D2-Snowsports-PLP-5x2.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Freedom is in the forecast",
+				"tagline": "Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more."
+			},
+			"promos": []
 		}
 	}
 }

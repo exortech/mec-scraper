@@ -89,5 +89,6 @@
 | 2/25/2021, 4:40:53 PM | **New Promo #2:** Shop cold-weather training gear - Fresh air and fresh beginnings are just outside your door. Find gear to get out there. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd6/h42/9177384943646/20-062-NY-Winter-Train-web-D2-promo-5x2-Dec23-EN.jpg' width='200' /> |
 | 2/25/2021, 4:40:53 PM | **New Promo #3:** Shop fleece, sweaters and hoodies - Get off-the-charts cozy in thick, super-soft layers. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc4/9169260871710/20-051-OutdoorLifestyle-D32-Promo-5x2-Oct2-EN.jpg' width='200' /> |
 | 2/25/2021, 4:40:53 PM | **New Promo #4:** Shop our warmest boots - Insulated, grippy footwear for stepping out confidently in the snow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd2/hb0/9140627439646/20-051-OutdoorLifestyle-D40-Homepagepromo-non-hero-5x2-Oct13-EN.jpg' width='200' /> |
+| 2/26/2021, 11:17:34 AM | **New Hero:** Freedom is in the forecast - Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h0b/hf7/9063504117790/19-226-Snowsports-Ski-and-Board-Web-D2-Snowsports-PLP-5x2.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
