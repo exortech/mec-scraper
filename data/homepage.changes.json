@@ -710,6 +710,28 @@
 				"tagline": "Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more."
 			},
 			"promos": []
+		},
+		"1614724787627": {
+			"ts": 1614724787627,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h95/haf/9179550416926/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "The path less travelled ",
+				"tagline": "New this spring: versatile pieces made more sustainably and designed to last."
+			},
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h70/h1c/9179552088094/21-04-Misc-Intake-web-D7-Arcteryx-promo-Mar-1-EN.jpg",
+					"text": "Deals on innovative apparel, packs and footwear. Select styles, ends March 30.",
+					"cta": "Shop Arc’teryx deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg",
+					"text": "Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories.",
+					"cta": "Shop all snowsports"
+				}
+			]
 		}
 	}
 }
