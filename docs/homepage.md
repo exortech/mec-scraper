@@ -95,5 +95,6 @@
 | 3/2/2021, 2:39:47 PM | **New Promo #4:** Shop all snowsports - Glide into a full selection of winter gear: snowshoes, XC or alpine skis and accessories. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf6/hb4/9155464724510/20-052-BackcountrySki-Web-D17-Promo-5x2-Dec11-EN.jpg' width='200' /> |
 | 3/2/2021, 10:15:12 PM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4f/h0c/9179553333278/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23v1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/2/2021, 10:37:54 PM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h95/haf/9179550416926/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 3/2/2021, 10:53:32 PM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4f/h0c/9179553333278/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23v1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
