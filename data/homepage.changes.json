@@ -867,6 +867,18 @@
 				"tagline": "New this spring: versatile pieces made more sustainably and designed to last."
 			},
 			"promos": []
+		},
+		"1615330576008": {
+			"ts": 1615330576008,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha1/he6/9132891504670/20-016-Cycle-web-D20.1-promo-Rain-5x2-Apr16-EN.jpg",
+					"text": "Stay dry and safe whatever the weather.",
+					"cta": "Shop wet weather cycling collection"
+				}
+			]
 		}
 	}
 }

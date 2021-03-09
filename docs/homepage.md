@@ -108,5 +108,6 @@
 | 3/3/2021, 7:13:36 AM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4f/h0c/9179553333278/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23v1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/3/2021, 7:35:21 AM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h95/haf/9179550416926/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/3/2021, 9:59:51 AM | **New Hero:** The path less travelled  - New this spring: versatile pieces made more sustainably and designed to last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4f/h0c/9179553333278/21-010-OutdoorLifestyle-Web-HomepageHero-D1-Feb23v1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 3/9/2021, 2:56:16 PM | **New Promo #4:** Shop wet weather cycling collection - Stay dry and safe whatever the weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha1/he6/9132891504670/20-016-Cycle-web-D20.1-promo-Rain-5x2-Apr16-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
