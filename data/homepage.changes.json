@@ -879,6 +879,36 @@
 					"cta": "Shop wet weather cycling collection"
 				}
 			]
+		},
+		"1615485706841": {
+			"ts": 1615485706841,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h73/hf1/9181414719518/21-010-OutdoorLifestyle-Web-HomepageNonHero-SpringLayers-D2-Feb23.jpg",
+					"text": "Combos for all weather, these trusty pieces are made from more sustainable materials. ",
+					"cta": "Shop spring layers"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h06/h30/9169260740638/20-062-New-Year-Winter-Train-web-D11-running-promo-EN.jpg",
+					"text": "Grippy trail runners and cushy road runners to keep moving all season.",
+					"cta": "Shop running shoes"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha1/he6/9132891504670/20-016-Cycle-web-D20.1-promo-Rain-5x2-Apr16-EN.jpg",
+					"text": "Stay dry and safe whatever the weather.",
+					"cta": "Shop wet weather cycling collection"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h70/h1c/9179552088094/21-04-Misc-Intake-web-D7-Arcteryx-promo-Mar-1-EN.jpg",
+					"text": "Deals on innovative apparel, packs and footwear. Select styles, ends March 30.",
+					"cta": "Shop Arc’teryx deals"
+				}
+			]
 		}
 	}
 }
