@@ -1,0 +1,33 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h16/h27/9182625431582/D1-HomepageHero-Countdown-to-camping.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Countdown to camping",
+		"tagline": "We’re ready to sip coffee outside, watch the sunset in our sleeping bag, and smell like a campfire. Are you?"
+	},
+	"promos": [
+		{
+			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb9/h5d/9182627168286/D4-HomepagePromo-Sleep-Gear-EN.jpg",
+			"text": "Go ultralight or ultra-cushy. Explore sleeping bags, pads and pillows for sweet dreams.",
+			"cta": "Shop camp sleeping gear"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd6/h8b/9182625628190/20-001-TrailHike-Web-D3-promo-footwear-5x2-Feb20-EN.jpg",
+			"text": "Happy feet make the miles fly by. Find your foundation for a great hike from the ground up.",
+			"cta": "Shop top trail footwear"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h73/hf1/9181414719518/21-010-OutdoorLifestyle-Web-HomepageNonHero-SpringLayers-D2-Feb23.jpg",
+			"text": "Combos for all weather, these trusty pieces are made from more sustainable materials. ",
+			"cta": "Shop spring layers"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+			"text": "A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come. ",
+			"cta": "Shop spring rain jackets"
+		}
+	]
+}
