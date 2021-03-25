@@ -943,6 +943,36 @@
 					"cta": "Shop spring rain jackets"
 				}
 			]
+		},
+		"1616692291675": {
+			"ts": 1616692291675,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h49/h4a/9183132155934/21-02-Camp-web-D18-promo-MECcampfaves-EN.jpg",
+					"text": "Happy camper alert: save on pillows, sleeping pads and more. Select items, ends April 7.",
+					"cta": "Shop MEC Label camp deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h44/hbb/9099696406558/20-016-Cycle-web-D20.3-promo-Safe-5x2-Apr16-EN.jpg",
+					"text": "Outfit your bike with all the bells and fenders — lights and bike locks too.",
+					"cta": "Shop ride safe collection"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h38/h76/9183132287006/20-015-OutdoorLS-web-D2-5x2-Mar6-R2-EN.jpg",
+					"text": "New this spring: versatile pieces made sustainably and designed to last. It’s not the hard way – it’s the better way. ",
+					"cta": "Shop spring collection"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd6/h8b/9182625628190/20-001-TrailHike-Web-D3-promo-footwear-5x2-Feb20-EN.jpg",
+					"text": "Happy feet make the miles fly by. Find your foundation for a great hike from the ground up.",
+					"cta": "Shop top trail footwear"
+				}
+			]
 		}
 	}
 }
