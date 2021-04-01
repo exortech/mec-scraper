@@ -1,8 +1,8 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h16/h27/9182625431582/D1-HomepageHero-Countdown-to-camping.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Countdown to camping",
-		"tagline": "We’re ready to sip coffee outside, watch the sunset in our sleeping bag, and smell like a campfire. Are you?"
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h72/he5/9184765837342/014-TrailHikeS21-Web-D1-HomepageHero-Mar23-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "The trail is the answer",
+		"tagline": "Set out on a spring hike to find nature and so much more – clarity, fresh air, freedom. "
 	},
 	"promos": [
 		{
@@ -13,21 +13,21 @@
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h44/hbb/9099696406558/20-016-Cycle-web-D20.3-promo-Safe-5x2-Apr16-EN.jpg",
-			"text": "Outfit your bike with all the bells and fenders — lights and bike locks too.",
-			"cta": "Shop ride safe collection"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h69/9184765902878/D6-HomepagePromo-longweekend-EN.jpg",
+			"text": "Choose store pickup to get set for outdoor hangouts and a full season of camping ahead.",
+			"cta": "Shop weekend camp collection"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h38/h76/9183132287006/20-015-OutdoorLS-web-D2-5x2-Mar6-R2-EN.jpg",
-			"text": "New this spring: versatile pieces made sustainably and designed to last. It’s not the hard way – it’s the better way. ",
-			"cta": "Shop spring collection"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg",
+			"text": "Get a taste of freedom with a responsive bike and lightweight kit.",
+			"cta": "Shop all cycling"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd6/h8b/9182625628190/20-001-TrailHike-Web-D3-promo-footwear-5x2-Feb20-EN.jpg",
-			"text": "Happy feet make the miles fly by. Find your foundation for a great hike from the ground up.",
-			"cta": "Shop top trail footwear"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+			"text": "A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come. ",
+			"cta": "Shop spring rain jackets"
 		}
 	]
 }
