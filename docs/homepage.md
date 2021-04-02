@@ -127,5 +127,6 @@
 | 4/1/2021, 9:55:25 AM | **New Promo #3:** Shop all cycling - Get a taste of freedom with a responsive bike and lightweight kit. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg' width='200' /> |
 | 4/1/2021, 9:55:25 AM | **New Promo #4:** Shop spring rain jackets - A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg' width='200' /> |
 | 4/1/2021, 11:21:29 PM | **New Hero:** The trail is the answer - Set out on a spring hike to find nature and so much more – clarity, fresh air, freedom.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hab/hf2/9184770490398/20-050-TrailHike-web-D22-hp-hero-5x2-Sept14.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 4/1/2021, 11:53:15 PM | **New Hero:** The trail is the answer - Set out on a spring hike to find nature and so much more – clarity, fresh air, freedom.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h72/he5/9184765837342/014-TrailHikeS21-Web-D1-HomepageHero-Mar23-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
