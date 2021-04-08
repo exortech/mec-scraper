@@ -1154,6 +1154,36 @@
 				"tagline": "Set out on a spring hike to find nature and so much more – clarity, fresh air, freedom. "
 			},
 			"promos": []
+		},
+		"1617866471450": {
+			"ts": 1617866471450,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h69/9184765902878/D6-HomepagePromo-longweekend-EN.jpg",
+					"text": "Choose store pickup to get set for outdoor hangouts and a full season of camping ahead.",
+					"cta": "Shop weekend camp collection"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg",
+					"text": "Get a taste of freedom with a responsive bike and lightweight kit.",
+					"cta": "Shop all cycling"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+					"text": "A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come. ",
+					"cta": "Shop spring rain jackets"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h2f/hf5/9186265727006/D3-HomepagePromo-Outdoor-Chef-EN.jpg",
+					"text": "Top picks and all-time favourite cooking gear to bring gourmet sizzle to camp.",
+					"cta": "Shop camp kitchen"
+				}
+			]
 		}
 	}
 }
