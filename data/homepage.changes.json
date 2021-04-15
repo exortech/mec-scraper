@@ -1208,6 +1208,34 @@
 					"cta": "Shop sustainably made products"
 				}
 			]
+		},
+		"1618502448705": {
+			"ts": 1618502448705,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h16/h27/9182625431582/D1-HomepageHero-Countdown-to-camping.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Countdown to camping",
+				"tagline": "We’re ready to sip coffee outside, watch the sunset in our sleeping bag, and smell like a campfire. Are you?"
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7a/h20/9186273689630/014-TrailHikeS21-Web-D3-ShopPromo-Mar23-EN.jpg",
+					"text": "Don't let a little mud stop you. Waterproof hiking footwear means smiles for miles.",
+					"cta": "Shop hiking footwear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+					"text": "A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come. ",
+					"cta": "Shop spring rain jackets"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h2f/hf5/9186265727006/D3-HomepagePromo-Outdoor-Chef-EN.jpg",
+					"text": "Top picks and all-time favourite cooking gear to bring gourmet sizzle to camp.",
+					"cta": "Shop camp kitchen"
+				}
+			]
 		}
 	}
 }
