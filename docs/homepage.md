@@ -159,5 +159,6 @@
 | 4/22/2021, 9:01:49 AM | **New Promo #2:** Shop tents and shelters - Your home in the woods awaits. Car camping, backpacking and everything in between.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h64/h2a/9187942072350/D9-HomepagePromo-All-tents-EN.jpg' width='200' /> |
 | 4/22/2021, 9:01:49 AM | **New Promo #3:** Shop all cycling - Get a taste of freedom with a responsive bike and lightweight kit. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg' width='200' /> |
 | 4/22/2021, 9:01:49 AM | **New Promo #4:** Shop sustainably made products - Feel great in organic cotton, recycled content, bluesign® approved materials and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf7/h2b/9186266808350/21-04-Misc-web-D8-earthday-promo-Apr6-EN.jpg' width='200' /> |
+| 4/27/2021, 10:55:42 AM | **New Promo #4:** Shop spring rain jackets - A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

@@ -1270,6 +1270,18 @@
 					"cta": "Shop sustainably made products"
 				}
 			]
+		},
+		"1619546142415": {
+			"ts": 1619546142415,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+					"text": "A well-made raincoat makes all the difference. Find yours for rainy seasons now and to come. ",
+					"cta": "Shop spring rain jackets"
+				}
+			]
 		}
 	}
 }
