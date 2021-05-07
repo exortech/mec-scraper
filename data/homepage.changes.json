@@ -1346,6 +1346,15 @@
 					"cta": "Shop spring layers"
 				}
 			]
+		},
+		"1620416219127": {
+			"ts": 1620416219127,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h37/he5/9191381565470/D5-HomepageHero-longweekend.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Countdown to long weekends",
+				"tagline": "Choose store pickup to get set for camp chair hangouts, card games in the tent, and s’mores for dinner."
+			},
+			"promos": []
 		}
 	}
 }
