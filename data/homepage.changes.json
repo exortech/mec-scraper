@@ -1355,6 +1355,28 @@
 				"tagline": "Choose store pickup to get set for camp chair hangouts, card games in the tent, and s’mores for dinner."
 			},
 			"promos": []
+		},
+		"1620888604492": {
+			"ts": 1620888604492,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h48/h72/9191392706590/002-Camping-D17-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "It’s just the beginning",
+				"tagline": "Everything you need for camping, all in one place – from sporks to sleeping bags."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg",
+					"text": "Feeling the urge to explore? A little pedalling opens up your world.",
+					"cta": "Shop bikes and gear"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg",
+					"text": "Run wild with shoes, running clothes and the latest tech to push your pace.",
+					"cta": "Shop trail run collection"
+				}
+			]
 		}
 	}
 }
