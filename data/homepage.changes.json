@@ -1377,6 +1377,36 @@
 					"cta": "Shop trail run collection"
 				}
 			]
+		},
+		"1621517966045": {
+			"ts": 1621517966045,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/haf/h6e/9193278636062/014-D19-TrailHike-Promo-EN.jpg",
+					"text": "Breathable layers and durable gear made to move with you on the trail.",
+					"cta": "Shop the trail collection"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg",
+					"text": "Feeling the urge to explore? A little pedalling opens up your world.",
+					"cta": "Shop bikes and gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg",
+					"text": "Now save 10% when you buy any MEC Label rain jacket and rain pants together. ",
+					"cta": "Shop rainwear"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg",
+					"text": "Hundreds of sweet clearance deals. Act fast – quantities are limited.",
+					"cta": "Shop all deals"
+				}
+			]
 		}
 	}
 }
