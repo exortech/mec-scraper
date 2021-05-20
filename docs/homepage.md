@@ -177,5 +177,6 @@
 | 5/20/2021, 6:39:26 AM | **New Promo #2:** Shop bikes and gear - Feeling the urge to explore? A little pedalling opens up your world. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg' width='200' /> |
 | 5/20/2021, 6:39:26 AM | **New Promo #3:** Shop rainwear - Now save 10% when you buy any MEC Label rain jacket and rain pants together.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc0/h13/9182625497118/20-015-OutdoorLS-web-D3-promo-rainjackets-5x2-Mar6-EN.jpg' width='200' /> |
 | 5/20/2021, 6:39:26 AM | **New Promo #4:** Shop all deals - Hundreds of sweet clearance deals. Act fast – quantities are limited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg' width='200' /> |
+| 5/20/2021, 10:59:12 AM | **New Promo #4:** Shop all deals - Hundreds of sweet deals. Act fast – quantities are limited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
