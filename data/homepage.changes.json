@@ -1431,6 +1431,30 @@
 					"cta": "Shop sustainable climb collection"
 				}
 			]
+		},
+		"1622132494042": {
+			"ts": 1622132494042,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg",
+					"text": "Hundreds of sweet deals. Act fast – quantities are limited.",
+					"cta": "Shop all deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h76/h51/9193800531998/21-019-Climb-2021-web-D5-promo-EN.jpg",
+					"text": "Tommy Caldwell’s picks: classic gear made with easier-on-the-environment materials.",
+					"cta": "Shop sustainable climb collection"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hdc/hb7/9193830809630/21-004-Misc-web-D13-NewArrives-promo-May11-EN.jpg",
+					"text": "Get first dibs on new styles and all the hottest tech. ",
+					"cta": "Shop new arrivals"
+				}
+			]
 		}
 	}
 }

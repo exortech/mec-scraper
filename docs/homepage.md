@@ -179,5 +179,8 @@
 | 5/20/2021, 6:39:26 AM | **New Promo #4:** Shop all deals - Hundreds of sweet clearance deals. Act fast – quantities are limited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg' width='200' /> |
 | 5/20/2021, 10:59:12 AM | **New Promo #4:** Shop all deals - Hundreds of sweet deals. Act fast – quantities are limited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg' width='200' /> |
 | 5/21/2021, 1:51:55 PM | **New Promo #2:** Shop sustainable climb collection - Tommy Caldwell’s picks: classic gear made with easier-on-the-environment materials. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h76/h51/9193800531998/21-019-Climb-2021-web-D5-promo-EN.jpg' width='200' /> |
+| 5/27/2021, 9:21:34 AM | **New Promo #2:** Shop all deals - Hundreds of sweet deals. Act fast – quantities are limited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h81/9193278832670/004-MiscProjects-D14-Promobox-Clearance-EN.jpg' width='200' /> |
+| 5/27/2021, 9:21:34 AM | **New Promo #3:** Shop sustainable climb collection - Tommy Caldwell’s picks: classic gear made with easier-on-the-environment materials. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h76/h51/9193800531998/21-019-Climb-2021-web-D5-promo-EN.jpg' width='200' /> |
+| 5/27/2021, 9:21:34 AM | **New Promo #4:** Shop new arrivals - Get first dibs on new styles and all the hottest tech.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdc/hb7/9193830809630/21-004-Misc-web-D13-NewArrives-promo-May11-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
