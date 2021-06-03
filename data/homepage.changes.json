@@ -1455,6 +1455,40 @@
 					"cta": "Shop new arrivals"
 				}
 			]
+		},
+		"1622741403540": {
+			"ts": 1622741403540,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h1e/h27/9195771265054/014-D18-TrailHike-Hero.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Get set for summer hikes",
+				"tagline": "Breathable layers and durable gear made to move with you on the trail. "
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/had/9195771723806/21-02-Camp-web-D3-HomepagePromo-Outdoor-Chef-EN.jpg",
+					"text": "When you see the MEC logo, you know it’s made to last.",
+					"cta": "Shop MEC camping gear"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg",
+					"text": "Feeling the urge to explore? A little pedalling opens up your world.",
+					"cta": "Shop bikes and gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg",
+					"text": "Run wild with shoes, running clothes and the latest tech to push your pace.",
+					"cta": "Shop trail run collection"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h76/h51/9193800531998/21-019-Climb-2021-web-D5-promo-EN.jpg",
+					"text": "Tommy Caldwell’s picks: classic gear made with easier-on-the-environment materials.",
+					"cta": "Shop sustainable climb collection"
+				}
+			]
 		}
 	}
 }
