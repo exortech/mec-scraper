@@ -187,5 +187,6 @@
 | 6/3/2021, 10:30:03 AM | **New Promo #2:** Shop bikes and gear - Feeling the urge to explore? A little pedalling opens up your world. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg' width='200' /> |
 | 6/3/2021, 10:30:03 AM | **New Promo #3:** Shop trail run collection - Run wild with shoes, running clothes and the latest tech to push your pace. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg' width='200' /> |
 | 6/3/2021, 10:30:03 AM | **New Promo #4:** Shop sustainable climb collection - Tommy Caldwell’s picks: classic gear made with easier-on-the-environment materials. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h76/h51/9193800531998/21-019-Climb-2021-web-D5-promo-EN.jpg' width='200' /> |
+| 6/4/2021, 6:15:26 PM | **New Promo #4:** Shop stuff for dads - Gifts that go with fresh air, corny jokes and quality time together. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hcc/h1b/9196590104606/21-004-Misc-Web-D21-promo-fathersday-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
