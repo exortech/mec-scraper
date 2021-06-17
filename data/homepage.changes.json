@@ -1664,6 +1664,22 @@
 				"tagline": "Find watersports gear, sandals, hammocks, coolers and more. "
 			},
 			"promos": []
+		},
+		"1623913562244": {
+			"ts": 1623913562244,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h48/h72/9191392706590/002-Camping-D17-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "It’s just the beginning",
+				"tagline": "Everything you need for camping, all in one place – from sporks to sleeping bags."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg",
+					"text": "Feeling the urge to explore? A little pedalling opens up your world.",
+					"cta": "Shop bikes and gear"
+				}
+			]
 		}
 	}
 }
