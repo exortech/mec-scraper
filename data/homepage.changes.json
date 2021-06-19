@@ -1680,6 +1680,18 @@
 					"cta": "Shop bikes and gear"
 				}
 			]
+		},
+		"1624144412500": {
+			"ts": 1624144412500,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg",
+					"text": "Run wild with shoes, running clothes and the latest tech to push your pace.",
+					"cta": "Shop trail run collection"
+				}
+			]
 		}
 	}
 }

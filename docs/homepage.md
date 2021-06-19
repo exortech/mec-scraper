@@ -209,5 +209,6 @@
 | 6/16/2021, 5:20:59 AM | **New Hero:** Brighten up summer - Find watersports gear, sandals, hammocks, coolers and more.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h12/h89/9198592360478/21-02-Camp-web-D53-HomepageHerov1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 6/17/2021, 12:06:02 AM | **New Hero:** It’s just the beginning - Everything you need for camping, all in one place – from sporks to sleeping bags. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h48/h72/9191392706590/002-Camping-D17-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 6/17/2021, 12:06:02 AM | **New Promo #1:** Shop bikes and gear - Feeling the urge to explore? A little pedalling opens up your world. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9d/h4d/9191379271710/20-016-Cycle-Web-D55-Homepage-nonhero-5x2-May27-EN.jpg' width='200' /> |
+| 6/19/2021, 4:13:32 PM | **New Promo #4:** Shop trail run collection - Run wild with shoes, running clothes and the latest tech to push your pace. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
