@@ -1692,6 +1692,28 @@
 					"cta": "Shop trail run collection"
 				}
 			]
+		},
+		"1624553757400": {
+			"ts": 1624553757400,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h37/he5/9191381565470/D5-HomepageHero-longweekend.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Countdown to weekends",
+				"tagline": "Choose store pickup to get set for camp chair hangouts, card games in the tent, and s’mores for dinner."
+			},
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/h33/9201140891678/21-04-Misc-web-D20-Large-Clearance-EN.jpg",
+					"text": "Sizzling savings for summer weekends. Limited quantities.",
+					"cta": "Shop all deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd1/hd0/9201141022750/21-04-Misc-web-D23-Kids-Deals-EN.jpg",
+					"text": "Save big on essentials for young (and fast-growing) adventurers. Limited quantities.",
+					"cta": "Shop kids’ deals"
+				}
+			]
 		}
 	}
 }
