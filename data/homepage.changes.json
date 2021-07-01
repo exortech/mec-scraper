@@ -1714,6 +1714,24 @@
 					"cta": "Shop kids’ deals"
 				}
 			]
+		},
+		"1625123893119": {
+			"ts": 1625123893119,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg",
+					"text": "Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.   ",
+					"cta": "Shop climbing gear"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h65/he2/9202720997406/Salomon-EN.jpg",
+					"text": "Snap up special deals on Salomon. Ends July 5, while quantities last. ",
+					"cta": "Shop Salomon deals"
+				}
+			]
 		}
 	}
 }

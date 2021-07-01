@@ -213,5 +213,7 @@
 | 6/24/2021, 9:55:57 AM | **New Hero:** Countdown to weekends - Choose store pickup to get set for camp chair hangouts, card games in the tent, and s’mores for dinner. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h37/he5/9191381565470/D5-HomepageHero-longweekend.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 6/24/2021, 9:55:57 AM | **New Promo #3:** Shop all deals - Sizzling savings for summer weekends. Limited quantities. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/h33/9201140891678/21-04-Misc-web-D20-Large-Clearance-EN.jpg' width='200' /> |
 | 6/24/2021, 9:55:57 AM | **New Promo #4:** Shop kids’ deals - Save big on essentials for young (and fast-growing) adventurers. Limited quantities. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd1/hd0/9201141022750/21-04-Misc-web-D23-Kids-Deals-EN.jpg' width='200' /> |
+| 7/1/2021, 12:18:13 AM | **New Promo #2:** Shop climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
+| 7/1/2021, 12:18:13 AM | **New Promo #4:** Shop Salomon deals - Snap up special deals on Salomon. Ends July 5, while quantities last.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h65/he2/9202720997406/Salomon-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
