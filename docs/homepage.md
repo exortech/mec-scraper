@@ -215,5 +215,6 @@
 | 6/24/2021, 9:55:57 AM | **New Promo #4:** Shop kids’ deals - Save big on essentials for young (and fast-growing) adventurers. Limited quantities. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd1/hd0/9201141022750/21-04-Misc-web-D23-Kids-Deals-EN.jpg' width='200' /> |
 | 7/1/2021, 12:18:13 AM | **New Promo #2:** Shop climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
 | 7/1/2021, 12:18:13 AM | **New Promo #4:** Shop Salomon deals - Snap up special deals on Salomon. Ends July 5, while quantities last.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h65/he2/9202720997406/Salomon-EN.jpg' width='200' /> |
+| 7/5/2021, 4:54:22 PM | **New Hero:** Backcountry camp essentials - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hf3/h91/9202726043678/D11-HomepageHero-Backpacking-gear.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
