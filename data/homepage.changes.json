@@ -2127,6 +2127,22 @@
 					"cta": "Shop rock climbing gear"
 				}
 			]
+		},
+		"1625604333677": {
+			"ts": 1625604333677,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/ha3/h89/9202726535198/D11-HomepageHero-Backpacking-v3.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Backcountry camp essentials",
+				"tagline": "Lightweight and technical gear to take a walk on the wild side, then sleep there too."
+			},
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg",
+					"text": "Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.   ",
+					"cta": "Shop climbing gear"
+				}
+			]
 		}
 	}
 }
