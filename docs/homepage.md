@@ -227,5 +227,6 @@
 | 7/5/2021, 10:11:44 PM | **New Hero:** Backcountry camp essentials - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/ha3/h89/9202726535198/D11-HomepageHero-Backpacking-v3.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 7/5/2021, 10:27:19 PM | **New Hero:** Backcountry camp essentials - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hf3/h91/9202726043678/D11-HomepageHero-Backpacking-gear.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 7/5/2021, 10:35:18 PM | **New Hero:** Backcountry camp essentials - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/ha3/h89/9202726535198/D11-HomepageHero-Backpacking-v3.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 7/5/2021, 10:44:05 PM | **New Hero:** Backcountry camp essentials - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hf3/h91/9202726043678/D11-HomepageHero-Backpacking-gear.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
