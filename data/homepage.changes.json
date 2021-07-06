@@ -1862,6 +1862,15 @@
 				"tagline": "Lightweight and technical gear to take a walk on the wild side, then sleep there too."
 			},
 			"promos": []
+		},
+		"1625553704304": {
+			"ts": 1625553704304,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/ha3/h89/9202726535198/D11-HomepageHero-Backpacking-v3.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Backcountry camp essentials",
+				"tagline": "Lightweight and technical gear to take a walk on the wild side, then sleep there too."
+			},
+			"promos": []
 		}
 	}
 }
