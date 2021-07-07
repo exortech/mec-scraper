@@ -2407,6 +2407,18 @@
 					"cta": "Shop climbing gear"
 				}
 			]
+		},
+		"1625642895330": {
+			"ts": 1625642895330,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg",
+					"text": "Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.   ",
+					"cta": "Shop rock climbing gear"
+				}
+			]
 		}
 	}
 }
