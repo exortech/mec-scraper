@@ -290,5 +290,6 @@
 | 7/6/2021, 10:44:10 PM | **New Promo #2:** Shop rock climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
 | 7/6/2021, 11:13:59 PM | **New Promo #2:** Shop climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
 | 7/7/2021, 12:28:15 AM | **New Promo #2:** Shop rock climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
+| 7/7/2021, 12:44:14 AM | **New Promo #2:** Shop climbing gear - Go-to shoes for hard redpoints or all-day routes, plus rock pro, harnesses, bouldering gear and chalk.    <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h50/hb4/9202721194014/21-019-Climb-D6-HomepagePromo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
