@@ -2569,6 +2569,36 @@
 					"cta": "Explore kayak gear online"
 				}
 			]
+		},
+		"1626368075575": {
+			"ts": 1626368075575,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/h6e/9204811399198/D24-HomepagePromo-SummerLifestyle-EN1.jpg",
+					"text": "Go all out in these ready-for-summer styles.",
+					"cta": "Shop summer clothing"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg",
+					"text": "Get a taste of freedom with a responsive bike and lightweight kit.",
+					"cta": "Shop all cycling"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h3d/h64/9202737381406/21-004-MISC-D27-Kayak-Promobox-EN.jpg",
+					"text": "New boats are landing in time for summer. Pre-shop online, check stock at your local MEC and visit the store to complete your kayak purchase.  ",
+					"cta": "Explore kayak gear online"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg",
+					"text": "Run wild with shoes, running clothes and the latest tech to push your pace.",
+					"cta": "Shop trail run collection"
+				}
+			]
 		}
 	}
 }
