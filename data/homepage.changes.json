@@ -2599,6 +2599,34 @@
 					"cta": "Shop trail run collection"
 				}
 			]
+		},
+		"1626962047608": {
+			"ts": 1626962047608,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h4a/h98/9206679896094/D20-CapsuleCollection-hero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Anniversary collection",
+				"tagline": "Iconic designs, heritage favourites, throwback colours. It's the best of the last 50 years, back for a limited time."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha8/ha1/9206679961630/21-002-Camp-D1-CarCamping-EN.jpg",
+					"text": "Getting outside feels good, especially when you pack a roomy tent, full-size pillow and extra-large marshmallows.",
+					"cta": "Shop car camping collection"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he4/hf2/9132883804190/20-050-TrailHike-web-D27-footwear-promo-5x2-Sep2-EN.jpg",
+					"text": "Durable day hikers and supportive soles to keep moving, exploring and getting outside.",
+					"cta": "Shop boots and shoes"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha0/h71/9206680092702/20-014-Misc-web-D49-promo-watersports-5x2-EN.jpg",
+					"text": "Glide along the shoreline, go for a family paddle and don’t forget your water shoes. ",
+					"cta": "Shop all watersports"
+				}
+			]
 		}
 	}
 }
