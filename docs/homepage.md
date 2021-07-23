@@ -312,5 +312,6 @@
 | 7/22/2021, 6:54:07 AM | **New Promo #1:** Shop car camping collection - Getting outside feels good, especially when you pack a roomy tent, full-size pillow and extra-large marshmallows. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha8/ha1/9206679961630/21-002-Camp-D1-CarCamping-EN.jpg' width='200' /> |
 | 7/22/2021, 6:54:07 AM | **New Promo #2:** Shop boots and shoes - Durable day hikers and supportive soles to keep moving, exploring and getting outside. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he4/hf2/9132883804190/20-050-TrailHike-web-D27-footwear-promo-5x2-Sep2-EN.jpg' width='200' /> |
 | 7/22/2021, 6:54:07 AM | **New Promo #3:** Shop all watersports - Glide along the shoreline, go for a family paddle and don’t forget your water shoes.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha0/h71/9206680092702/20-014-Misc-web-D49-promo-watersports-5x2-EN.jpg' width='200' /> |
+| 7/22/2021, 11:42:17 PM | **New Hero:** Anniversary collection - Iconic designs, heritage favourites, throwback colours. It's the best of the last 50 years, back for a limited time. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/ha2/h17/9206682222622/D20-CapsuleCollection-hero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
