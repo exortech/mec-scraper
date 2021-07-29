@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/ha2/h17/9206682222622/D20-CapsuleCollection-hero-EN.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Anniversary collection",
-		"tagline": "Iconic designs, heritage favourites, throwback colours. It's the best of the last 50 years, back for a limited time."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h6f/h91/9207960633374/21-027-D19-Mountain-Days-Homepage-desktop-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "It’s go time",
+		"tagline": "It’s our anniversary savings event (and we know how to party). Celebrate 50 years of MEC with wild deals."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha8/ha1/9206679961630/21-002-Camp-D1-CarCamping-EN.jpg",
-			"text": "Getting outside feels good, especially when you pack a roomy tent, full-size pillow and extra-large marshmallows.",
-			"cta": "Shop car camping collection"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h48/h00/9207960764446/21-027-D20-MountainDays-FootwearPromobox-EN.jpg",
+			"text": "Save big from the ground up.",
+			"cta": "Shop footwear deals"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he4/hf2/9132883804190/20-050-TrailHike-web-D27-footwear-promo-5x2-Sep2-EN.jpg",
-			"text": "Durable day hikers and supportive soles to keep moving, exploring and getting outside.",
-			"cta": "Shop boots and shoes"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hff/h91/9207960895518/21-027-D21-MountainDays-CampPromobox-EN.jpg",
+			"text": "Camp deals coming in hot. ",
+			"cta": "Shop camp deals"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha0/h71/9206680092702/20-014-Misc-web-D49-promo-watersports-5x2-EN.jpg",
-			"text": "Glide along the shoreline, go for a family paddle and don’t forget your water shoes. ",
-			"cta": "Shop all watersports"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg",
+			"text": "Iconic designs and heritage favourites are back, but not for long.",
+			"cta": "Shop anniversary collection"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/hcc/9191377895454/014-TrailRun-Web-D09-HomepagePromo-EN.jpg",
-			"text": "Run wild with shoes, running clothes and the latest tech to push your pace.",
-			"cta": "Shop trail run collection"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg",
+			"text": "Get a taste of freedom with a responsive bike and lightweight kit.",
+			"cta": "Shop all cycling"
 		}
 	]
 }
