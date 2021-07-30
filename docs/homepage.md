@@ -336,5 +336,6 @@
 | 7/29/2021, 5:17:57 AM | **New Promo #2:** Shop camp deals - Camp deals coming in hot.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hff/h91/9207960895518/21-027-D21-MountainDays-CampPromobox-EN.jpg' width='200' /> |
 | 7/29/2021, 5:17:57 AM | **New Promo #3:** Shop anniversary collection - Iconic designs and heritage favourites are back, but not for long. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg' width='200' /> |
 | 7/29/2021, 5:17:57 AM | **New Promo #4:** Shop all cycling - Get a taste of freedom with a responsive bike and lightweight kit. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/h3e/9184766033950/20-016-Cycle-web-D49-promo-road-5x2-May5-EN.jpg' width='200' /> |
+| 7/30/2021, 12:36:05 AM | **New Hero:** It’s go time - It’s our anniversary savings event (and we know how to party). Celebrate 50 years of MEC with wild deals. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4c/hee/9207963910174/Mountaindays-ENv1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
