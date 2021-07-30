@@ -2949,6 +2949,24 @@
 				"tagline": "It’s our anniversary savings event (and we know how to party). Celebrate 50 years of MEC with wild deals."
 			},
 			"promos": []
+		},
+		"1627688224837": {
+			"ts": 1627688224837,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h28/h54/9207966662686/20-042-MtnDays-web-D17-promo-MEC-5x2-July20-EN.jpg",
+					"text": "MEC classics, now at an even better value.",
+					"cta": "Shop MEC Label deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg",
+					"text": "Iconic designs and heritage favourites are back, but not for long.",
+					"cta": "Shop anniversary collection"
+				}
+			]
 		}
 	}
 }
