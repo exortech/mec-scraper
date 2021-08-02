@@ -2967,6 +2967,18 @@
 					"cta": "Shop anniversary collection"
 				}
 			]
+		},
+		"1627921753147": {
+			"ts": 1627921753147,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg",
+					"text": "Steep markdowns on iconic styles.",
+					"cta": "Shop Patagonia deals"
+				}
+			]
 		}
 	}
 }

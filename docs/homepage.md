@@ -351,5 +351,6 @@
 | 7/30/2021, 7:24:19 AM | **New Hero:** It’s go time - It’s our anniversary savings event (and we know how to party). Celebrate 50 years of MEC with wild deals. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4c/hee/9207963910174/Mountaindays-ENv1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 7/30/2021, 4:37:04 PM | **New Promo #3:** Shop MEC Label deals - MEC classics, now at an even better value. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h28/h54/9207966662686/20-042-MtnDays-web-D17-promo-MEC-5x2-July20-EN.jpg' width='200' /> |
 | 7/30/2021, 4:37:04 PM | **New Promo #4:** Shop anniversary collection - Iconic designs and heritage favourites are back, but not for long. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg' width='200' /> |
+| 8/2/2021, 9:29:13 AM | **New Promo #3:** Shop Patagonia deals - Steep markdowns on iconic styles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
