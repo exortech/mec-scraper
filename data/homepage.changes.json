@@ -2979,6 +2979,36 @@
 					"cta": "Shop Patagonia deals"
 				}
 			]
+		},
+		"1628182536324": {
+			"ts": 1628182536324,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg",
+					"text": "Iconic designs and heritage favourites are back, but not for long.",
+					"cta": "Shop anniversary collection"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5f/hbd/9207970627614/21-02-Camp-web-D3-HomepagePromo-Outdoor-Chef-EN.jpg",
+					"text": "When you see the MEC logo, you know it’s made to last.",
+					"cta": "Shop MEC camping gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/he5/9207966793758/21-027-D26-Kids-Gear-promo-box-EN.jpg",
+					"text": "Save big on essentials for young (and fast-growing) adventurers. ",
+					"cta": "Shop deals for kids"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg",
+					"text": "Steep markdowns on iconic styles.",
+					"cta": "Shop Patagonia deals"
+				}
+			]
 		}
 	}
 }

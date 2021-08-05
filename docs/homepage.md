@@ -352,5 +352,9 @@
 | 7/30/2021, 4:37:04 PM | **New Promo #3:** Shop MEC Label deals - MEC classics, now at an even better value. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h28/h54/9207966662686/20-042-MtnDays-web-D17-promo-MEC-5x2-July20-EN.jpg' width='200' /> |
 | 7/30/2021, 4:37:04 PM | **New Promo #4:** Shop anniversary collection - Iconic designs and heritage favourites are back, but not for long. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg' width='200' /> |
 | 8/2/2021, 9:29:13 AM | **New Promo #3:** Shop Patagonia deals - Steep markdowns on iconic styles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg' width='200' /> |
+| 8/5/2021, 9:55:36 AM | **New Promo #1:** Shop anniversary collection - Iconic designs and heritage favourites are back, but not for long. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5d/hba/9207961026590/D21-CapsuleCollection-promo-EN.jpg' width='200' /> |
+| 8/5/2021, 9:55:36 AM | **New Promo #2:** Shop MEC camping gear - When you see the MEC logo, you know it’s made to last. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5f/hbd/9207970627614/21-02-Camp-web-D3-HomepagePromo-Outdoor-Chef-EN.jpg' width='200' /> |
+| 8/5/2021, 9:55:36 AM | **New Promo #3:** Shop deals for kids - Save big on essentials for young (and fast-growing) adventurers.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/he5/9207966793758/21-027-D26-Kids-Gear-promo-box-EN.jpg' width='200' /> |
+| 8/5/2021, 9:55:36 AM | **New Promo #4:** Shop Patagonia deals - Steep markdowns on iconic styles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
