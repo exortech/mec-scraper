@@ -3021,6 +3021,18 @@
 					"cta": "Shop everyday essentials"
 				}
 			]
+		},
+		"1628638764227": {
+			"ts": 1628638764227,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/ha3/9207977115678/21-026-D06-BackToBasics-HomepagePromo-Footwear-EN.jpg",
+					"text": "Comfy boots and shoes up for anything – including unpredictable weather.",
+					"cta": "Shop everyday footwear"
+				}
+			]
 		}
 	}
 }
