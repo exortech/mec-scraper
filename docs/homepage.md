@@ -358,5 +358,8 @@
 | 8/5/2021, 9:55:36 AM | **New Promo #4:** Shop Patagonia deals - Steep markdowns on iconic styles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdd/h32/9207966924830/21-027-MountainDays-PLP-Promobox-D25-EN.jpg' width='200' /> |
 | 8/5/2021, 3:47:31 PM | **New Promo #1:** Shop everyday essentials - Super versatile, smart details. Get set for back to school, back to work and your version of back to normal.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb0/hec/9207973838878/21-026-D11-BackToBasics-HomepagePromo-EN.jpg' width='200' /> |
 | 8/10/2021, 4:39:24 PM | **New Promo #1:** Shop everyday footwear - Comfy boots and shoes up for anything – including unpredictable weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/ha3/9207977115678/21-026-D06-BackToBasics-HomepagePromo-Footwear-EN.jpg' width='200' /> |
+| 8/12/2021, 9:17:07 AM | **New Promo #2:** Shop back to school essentials - Wildly durable jackets, packs, boots and more for back to school success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
+| 8/12/2021, 9:17:07 AM | **New Promo #3:** Shop travel deals - Places to see, savings to snag.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h47/h3b/9207979900958/21-027-D28-Travel-Gear-promo-box-EN.jpg' width='200' /> |
+| 8/12/2021, 9:17:07 AM | **New Promo #4:** Shop cycle deals - Score deals on bike accessories, clothing and safety gear.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h64/h4b/9207979769886/21-027-D28-Cycling-promo-box-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

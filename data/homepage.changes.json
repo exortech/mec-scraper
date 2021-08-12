@@ -3033,6 +3033,30 @@
 					"cta": "Shop everyday footwear"
 				}
 			]
+		},
+		"1628785027758": {
+			"ts": 1628785027758,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
+					"text": "Wildly durable jackets, packs, boots and more for back to school success.",
+					"cta": "Shop back to school essentials"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h47/h3b/9207979900958/21-027-D28-Travel-Gear-promo-box-EN.jpg",
+					"text": "Places to see, savings to snag. ",
+					"cta": "Shop travel deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h64/h4b/9207979769886/21-027-D28-Cycling-promo-box-EN.jpg",
+					"text": "Score deals on bike accessories, clothing and safety gear. ",
+					"cta": "Shop cycle deals"
+				}
+			]
 		}
 	}
 }
