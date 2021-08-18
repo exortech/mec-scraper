@@ -3057,6 +3057,15 @@
 					"cta": "Shop cycle deals"
 				}
 			]
+		},
+		"1629260097914": {
+			"ts": 1629260097914,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h4c/hee/9207963910174/Mountaindays-ENv1.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "It’s go time",
+				"tagline": "Celebrate 50 years of MEC with wild deals and one-day free shipping."
+			},
+			"promos": []
 		}
 	}
 }
