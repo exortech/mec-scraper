@@ -362,5 +362,6 @@
 | 8/12/2021, 9:17:07 AM | **New Promo #3:** Shop travel deals - Places to see, savings to snag.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h47/h3b/9207979900958/21-027-D28-Travel-Gear-promo-box-EN.jpg' width='200' /> |
 | 8/12/2021, 9:17:07 AM | **New Promo #4:** Shop cycle deals - Score deals on bike accessories, clothing and safety gear.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h64/h4b/9207979769886/21-027-D28-Cycling-promo-box-EN.jpg' width='200' /> |
 | 8/17/2021, 9:14:57 PM | **New Hero:** It’s go time - Celebrate 50 years of MEC with wild deals and one-day free shipping. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4c/hee/9207963910174/Mountaindays-ENv1.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 8/17/2021, 10:27:10 PM | **New Hero:** Savings + Free Shipping - Celebrate 50 years of MEC with wild deals and one-day free shipping. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9b/hea/9210616414238/027-D42-MtnDays-FreeShippingOffer-0818-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
