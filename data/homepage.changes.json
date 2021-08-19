@@ -3075,6 +3075,40 @@
 				"tagline": "Celebrate 50 years of MEC with wild deals and one-day free shipping."
 			},
 			"promos": []
+		},
+		"1629357064526": {
+			"ts": 1629357064526,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h85/hdf/9210624311326/21-026-D24-BackToBasics-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Not your basic basics",
+				"tagline": "Free shipping extended to Aug 19. Get set for your version of back to normal. "
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
+					"text": "Wildly durable jackets, packs, boots and more for back to school success.",
+					"cta": "Shop back to school essentials"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6c/h05/9210624180254/21-026-D08-BackToBasics-HomepagePromo-Cycling-EN.jpg",
+					"text": "Navigate the bike lane with versatile gear that goes the extra mile.",
+					"cta": "Shop bike commute essentials"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6e/hd6/9210624442398/21-027-D28-Clothing-promo-box-EN.jpg",
+					"text": "Just the right layers. Just the right price.",
+					"cta": "Shop clothing deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hff/h91/9207960895518/21-027-D21-MountainDays-CampPromobox-EN.jpg",
+					"text": "Camp deals coming in hot. ",
+					"cta": "Shop camp deals"
+				}
+			]
 		}
 	}
 }

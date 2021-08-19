@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h9b/hea/9210616414238/027-D42-MtnDays-FreeShippingOffer-0818-EN.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Savings + Free Shipping",
-		"tagline": "Celebrate 50 years of MEC with wild deals and one-day free shipping."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h85/hdf/9210624311326/21-026-D24-BackToBasics-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Not your basic basics",
+		"tagline": "Free shipping extended to Aug 19. Get set for your version of back to normal. "
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/ha3/9207977115678/21-026-D06-BackToBasics-HomepagePromo-Footwear-EN.jpg",
-			"text": "Comfy boots and shoes up for anything – including unpredictable weather.",
-			"cta": "Shop everyday footwear"
-		},
-		{
-			"idx": 1,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
 			"text": "Wildly durable jackets, packs, boots and more for back to school success.",
 			"cta": "Shop back to school essentials"
 		},
 		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6c/h05/9210624180254/21-026-D08-BackToBasics-HomepagePromo-Cycling-EN.jpg",
+			"text": "Navigate the bike lane with versatile gear that goes the extra mile.",
+			"cta": "Shop bike commute essentials"
+		},
+		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h47/h3b/9207979900958/21-027-D28-Travel-Gear-promo-box-EN.jpg",
-			"text": "Places to see, savings to snag. ",
-			"cta": "Shop travel deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6e/hd6/9210624442398/21-027-D28-Clothing-promo-box-EN.jpg",
+			"text": "Just the right layers. Just the right price.",
+			"cta": "Shop clothing deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h64/h4b/9207979769886/21-027-D28-Cycling-promo-box-EN.jpg",
-			"text": "Score deals on bike accessories, clothing and safety gear. ",
-			"cta": "Shop cycle deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hff/h91/9207960895518/21-027-D21-MountainDays-CampPromobox-EN.jpg",
+			"text": "Camp deals coming in hot. ",
+			"cta": "Shop camp deals"
 		}
 	]
 }
