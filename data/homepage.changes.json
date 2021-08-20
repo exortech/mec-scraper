@@ -3127,6 +3127,15 @@
 					"cta": "Shop clothing deals"
 				}
 			]
+		},
+		"1629432876482": {
+			"ts": 1629432876482,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h09/h5b/9210625687582/21-026-D12-HomepageHero.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Not your basic basics",
+				"tagline": "Super versatile, smart details. Get set for back to school, back to work and your version of back to normal."
+			},
+			"promos": []
 		}
 	}
 }
