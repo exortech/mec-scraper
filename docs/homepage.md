@@ -381,5 +381,6 @@
 | 8/26/2021, 7:54:26 AM | **New Promo #4:** Shop everyday footwear - Comfy boots and shoes up for anything – including unpredictable weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/ha3/9207977115678/21-026-D06-BackToBasics-HomepagePromo-Footwear-EN.jpg' width='200' /> |
 | 8/26/2021, 8:48:13 AM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 | 8/26/2021, 9:54:54 AM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
+| 8/26/2021, 10:45:40 AM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
