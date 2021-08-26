@@ -3166,6 +3166,40 @@
 					"cta": "Shop clothing deals"
 				}
 			]
+		},
+		"1629989666117": {
+			"ts": 1629989666117,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h3d/hdd/9210632110110/20-027-D41-MtnDays-web-HomepageHero-EndOfSummer-5x2-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Now or never deals",
+				"tagline": "The perfect finish to a wild season. Snag last chance deals while you can."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfa/h22/9210631847966/21-027-D42-HomepagePromoBox-Camp-EN.jpg",
+					"text": "Get ‘em now. Deals picked for campers, limited quantities, ends September 8. ",
+					"cta": "Shop MEC camp deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h28/haf/9210631913502/21-027-D43-HomepagePromoBox-Climbing-EN.jpg",
+					"text": "Rare deals on climbing gear. Ends soon, rack them up before they’re gone. ",
+					"cta": "Shop climbing deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
+					"text": "Unlock the secret to back to school success: warm, dry kids who play outside in any weather.",
+					"cta": "Shop kids’ rain wear"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/ha3/9207977115678/21-026-D06-BackToBasics-HomepagePromo-Footwear-EN.jpg",
+					"text": "Comfy boots and shoes up for anything – including unpredictable weather.",
+					"cta": "Shop everyday footwear"
+				}
+			]
 		}
 	}
 }
