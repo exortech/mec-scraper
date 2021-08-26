@@ -371,5 +371,6 @@
 | 8/19/2021, 9:59:40 AM | **New Promo #3:** Shop backcountry camping gear - Lightweight and technical gear to take a walk on the wild side, then sleep there too. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha0/h59/9189968019486/D10-HomepagePromo-Backcountry-gear-EN.jpg' width='200' /> |
 | 8/19/2021, 9:59:40 AM | **New Promo #4:** Shop clothing deals - Just the right layers. Just the right price. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h6e/hd6/9210624442398/21-027-D28-Clothing-promo-box-EN.jpg' width='200' /> |
 | 8/19/2021, 9:14:36 PM | **New Hero:** Not your basic basics - Super versatile, smart details. Get set for back to school, back to work and your version of back to normal. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h09/h5b/9210625687582/21-026-D12-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 8/26/2021, 7:11:11 AM | **New Promo #1:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
