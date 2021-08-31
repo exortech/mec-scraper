@@ -3404,6 +3404,18 @@
 					"cta": "Shop kids’ rain wear"
 				}
 			]
+		},
+		"1630394758480": {
+			"ts": 1630394758480,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg",
+					"text": "Unlock the secret to back to school success: warm, dry kids who play outside in any weather.",
+					"cta": "Shop kids’ outerwear"
+				}
+			]
 		}
 	}
 }
