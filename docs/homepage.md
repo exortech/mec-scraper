@@ -387,5 +387,6 @@
 | 8/26/2021, 12:24:16 PM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h58/h01/9207979638814/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 | 8/26/2021, 12:44:21 PM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 | 8/30/2021, 6:39:56 PM | **New Promo #3:** Shop kids’ outerwear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
+| 8/30/2021, 7:56:46 PM | **New Promo #3:** Shop kids’ rain wear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
