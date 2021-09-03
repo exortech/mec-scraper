@@ -409,5 +409,6 @@
 | 9/2/2021, 9:18:24 AM | **New Promo #2:** Shop MEC camp deals - Get ‘em now. Deals picked for campers, limited quantities, ends September 8.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfa/h22/9210631847966/21-027-D42-HomepagePromoBox-Camp-EN.jpg' width='200' /> |
 | 9/2/2021, 9:18:24 AM | **New Promo #3:** Shop everyday essentials - Versatile layers you’ll wear all week – and designed to be easier on the earth. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7a/hf2/9213005889566/21-026-D16-BackToBasics-HomepagePromo-EN.jpg' width='200' /> |
 | 9/2/2021, 9:18:24 AM | **New Promo #4:** Shop kids’ outerwear - Unlock the secret to back to school success: warm, dry kids who play outside in any weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/hee/9210635485214/21-026-D13-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
+| 9/3/2021, 1:44:12 PM | **New Promo #4:** Shop back to school essentials - Wildly durable jackets, packs, boots and more for back to school success.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

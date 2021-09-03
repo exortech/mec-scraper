@@ -3542,6 +3542,18 @@
 					"cta": "Shop kids’ outerwear"
 				}
 			]
+		},
+		"1630701852100": {
+			"ts": 1630701852100,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
+					"text": "Wildly durable jackets, packs, boots and more for back to school success. ",
+					"cta": "Shop back to school essentials"
+				}
+			]
 		}
 	}
 }
