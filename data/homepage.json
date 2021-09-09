@@ -1,33 +1,21 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h3d/hdd/9210632110110/20-027-D41-MtnDays-web-HomepageHero-EndOfSummer-5x2-EN.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Now or never deals",
-		"tagline": "The perfect finish to a wild season. Snag last chance deals while you can."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h86/h91/9214317264926/031-FallOuterwear-D01-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Fall outerwear favourites",
+		"tagline": "The best for fall, all in one place. Discover stormproof jackets, warm layers and weather-ready footwear."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h8a/hee/9213006020638/21-027-D39-Osprey-promo-box-EN.jpg",
-			"text": "Save on well-crafted packs made to go far. Ends September 9. Limited quantities. ",
-			"cta": "Shop Osprey packs"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h92/hdb/9214317395998/21-026-D20-BackToBasics-HomepagePromo-Fleece-EN.jpg",
+			"text": "So many fleece-abilities. Stay cozy on commutes, weekend hikes and more. ",
+			"cta": "Shop fleece and sweaters"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfa/h22/9210631847966/21-027-D42-HomepagePromoBox-Camp-EN.jpg",
-			"text": "Get ‘em now. Deals picked for campers, limited quantities, ends September 8. ",
-			"cta": "Shop MEC camp deals"
-		},
-		{
-			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7a/hf2/9213005889566/21-026-D16-BackToBasics-HomepagePromo-EN.jpg",
-			"text": "Versatile layers you’ll wear all week – and designed to be easier on the earth.",
-			"cta": "Shop everyday essentials"
-		},
-		{
-			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
-			"text": "Wildly durable jackets, packs, boots and more for back to school success. ",
-			"cta": "Shop back to school essentials"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg",
+			"text": "Counting steps is just the start. See the latest tech for everyday life.",
+			"cta": "Shop activity trackers"
 		}
 	]
 }

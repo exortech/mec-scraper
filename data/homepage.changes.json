@@ -3554,6 +3554,28 @@
 					"cta": "Shop back to school essentials"
 				}
 			]
+		},
+		"1631200324607": {
+			"ts": 1631200324607,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h86/h91/9214317264926/031-FallOuterwear-D01-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Fall outerwear favourites",
+				"tagline": "The best for fall, all in one place. Discover stormproof jackets, warm layers and weather-ready footwear."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h92/hdb/9214317395998/21-026-D20-BackToBasics-HomepagePromo-Fleece-EN.jpg",
+					"text": "So many fleece-abilities. Stay cozy on commutes, weekend hikes and more. ",
+					"cta": "Shop fleece and sweaters"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg",
+					"text": "Counting steps is just the start. See the latest tech for everyday life.",
+					"cta": "Shop activity trackers"
+				}
+			]
 		}
 	}
 }
