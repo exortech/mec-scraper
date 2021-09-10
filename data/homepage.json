@@ -16,6 +16,18 @@
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg",
 			"text": "Counting steps is just the start. See the latest tech for everyday life.",
 			"cta": "Shop activity trackers"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
+			"text": "Wildly durable jackets, packs, boots and more for back to school success. ",
+			"cta": "Shop back to school essentials"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg",
+			"text": "Need a hand? Book a free expert session to get up to speed on bike trainer apps and tech while you shop.",
+			"cta": "Shop bike trainers and accessories"
 		}
 	]
 }
