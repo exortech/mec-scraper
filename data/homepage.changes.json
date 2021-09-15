@@ -3726,6 +3726,18 @@
 					"cta": "Shop activity trackers"
 				}
 			]
+		},
+		"1631732215868": {
+			"ts": 1631732215868,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg",
+					"text": "Counting steps is just the start. See the latest tech for everyday life.",
+					"cta": "Shop activity trackers"
+				}
+			]
 		}
 	}
 }
