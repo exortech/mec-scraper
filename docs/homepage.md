@@ -416,5 +416,6 @@
 | 9/10/2021, 10:27:24 AM | **New Promo #3:** Shop back to school essentials - Wildly durable jackets, packs, boots and more for back to school success.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg' width='200' /> |
 | 9/10/2021, 10:27:24 AM | **New Promo #4:** Shop bike trainers and accessories - Need a hand? Book a free expert session to get up to speed on bike trainer apps and tech while you shop. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg' width='200' /> |
 | 9/15/2021, 6:54:09 AM | **New Promo #2:** Shop activity trackers - The latest tech for everyday life + save on Garmin for limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
+| 9/15/2021, 7:10:39 AM | **New Promo #2:** Shop activity trackers - Counting steps is just the start. See the latest tech for everyday life. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
