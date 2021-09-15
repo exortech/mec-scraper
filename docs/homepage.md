@@ -420,5 +420,6 @@
 | 9/15/2021, 7:35:30 AM | **New Promo #2:** Shop activity trackers - The latest tech for everyday life + save on Garmin for limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 | 9/15/2021, 7:44:13 AM | **New Promo #2:** Shop activity trackers - Counting steps is just the start. See the latest tech for everyday life. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 | 9/15/2021, 7:54:29 AM | **New Promo #2:** Shop activity trackers - The latest tech for everyday life + save on Garmin for limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
+| 9/15/2021, 8:11:51 AM | **New Promo #2:** Shop activity trackers - Counting steps is just the start. See the latest tech for everyday life. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
