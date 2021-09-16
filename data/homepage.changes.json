@@ -3798,6 +3798,30 @@
 					"cta": "Shop activity trackers"
 				}
 			]
+		},
+		"1631801484658": {
+			"ts": 1631801484658,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha9/hb5/9214336827422/031-FallOuterwear-D07-HomepageNonHero-Jackets-EN.jpg",
+					"text": "Jackets you can wear all day, every day, everywhere.",
+					"cta": "Shop fall jackets"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb5/hff/9214336958494/031-FallOuterwear-D12-HomepageNonHero-Footwear-EN.jpg",
+					"text": "Designed to take rain, puddles and salty muck in stride.",
+					"cta": "Shop fall footwear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h34/h1e/9214338990110/D32-Travel-EN.jpg",
+					"text": "Bags, packs and kit for visiting places you’ve been dreaming of.",
+					"cta": "Shop travel gear"
+				}
+			]
 		}
 	}
 }

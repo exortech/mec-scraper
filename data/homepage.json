@@ -7,21 +7,21 @@
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h92/hdb/9214317395998/21-026-D20-BackToBasics-HomepagePromo-Fleece-EN.jpg",
-			"text": "So many fleece-abilities. Stay cozy on commutes, weekend hikes and more. ",
-			"cta": "Shop fleece and sweaters"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha9/hb5/9214336827422/031-FallOuterwear-D07-HomepageNonHero-Jackets-EN.jpg",
+			"text": "Jackets you can wear all day, every day, everywhere.",
+			"cta": "Shop fall jackets"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg",
-			"text": "The latest tech for everyday life + save on Garmin for limited time.",
-			"cta": "Shop activity trackers"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb5/hff/9214336958494/031-FallOuterwear-D12-HomepageNonHero-Footwear-EN.jpg",
+			"text": "Designed to take rain, puddles and salty muck in stride.",
+			"cta": "Shop fall footwear"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h40/h38/9213016899614/21-026-D09-BackToBasics-HomepagePromo-Kids-EN.jpg",
-			"text": "Wildly durable jackets, packs, boots and more for back to school success. ",
-			"cta": "Shop back to school essentials"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h34/h1e/9214338990110/D32-Travel-EN.jpg",
+			"text": "Bags, packs and kit for visiting places you’ve been dreaming of.",
+			"cta": "Shop travel gear"
 		},
 		{
 			"idx": 3,

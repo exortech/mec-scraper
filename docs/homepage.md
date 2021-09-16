@@ -432,5 +432,8 @@
 | 9/15/2021, 4:39:56 PM | **New Promo #2:** Shop activity trackers - The latest tech for everyday life + save on Garmin for limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 | 9/15/2021, 5:40:25 PM | **New Promo #2:** Shop activity trackers - Counting steps is just the start. See the latest tech for everyday life. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
 | 9/15/2021, 6:48:39 PM | **New Promo #2:** Shop activity trackers - The latest tech for everyday life + save on Garmin for limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h99/h70/9214317527070/21-026-D22-BackToBasics-HomepagePromo-ActivityTrackers-EN.jpg' width='200' /> |
+| 9/16/2021, 7:11:24 AM | **New Promo #1:** Shop fall jackets - Jackets you can wear all day, every day, everywhere. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/hb5/9214336827422/031-FallOuterwear-D07-HomepageNonHero-Jackets-EN.jpg' width='200' /> |
+| 9/16/2021, 7:11:24 AM | **New Promo #2:** Shop fall footwear - Designed to take rain, puddles and salty muck in stride. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb5/hff/9214336958494/031-FallOuterwear-D12-HomepageNonHero-Footwear-EN.jpg' width='200' /> |
+| 9/16/2021, 7:11:24 AM | **New Promo #3:** Shop travel gear - Bags, packs and kit for visiting places you’ve been dreaming of. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h34/h1e/9214338990110/D32-Travel-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
