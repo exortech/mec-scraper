@@ -3952,6 +3952,15 @@
 					"cta": "Shop Arc’teryx"
 				}
 			]
+		},
+		"1634253100256": {
+			"ts": 1634253100256,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Snow ready",
+				"tagline": "Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more."
+			},
+			"promos": []
 		}
 	}
 }
