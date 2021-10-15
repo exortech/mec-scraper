@@ -457,5 +457,6 @@
 | 10/14/2021, 4:11:40 PM | **New Hero:** Snow ready - Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 10/14/2021, 4:30:42 PM | **New Hero:** Snow ready - All the gear you need to explore mountains of deep, fresh snow. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 10/14/2021, 9:14:59 PM | **New Hero:** Snow ready - Wish you were out there? Get going with nimble skis, responsive boots, warm layers and more. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 10/14/2021, 9:42:20 PM | **New Hero:** Snow ready - All the gear you need to explore mountains of deep, fresh snow. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
