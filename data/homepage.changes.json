@@ -3988,6 +3988,18 @@
 				"tagline": "All the gear you need to explore mountains of deep, fresh snow."
 			},
 			"promos": []
+		},
+		"1634305289042": {
+			"ts": 1634305289042,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg",
+					"text": "Warm, waterproof and grippy for snowy trails or icy sidewalks.",
+					"cta": "Shop winter footwear"
+				}
+			]
 		}
 	}
 }
