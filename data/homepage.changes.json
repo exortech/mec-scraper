@@ -4000,6 +4000,18 @@
 					"cta": "Shop winter footwear"
 				}
 			]
+		},
+		"1634318200349": {
+			"ts": 1634318200349,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg",
+					"text": "Complete ride setups to transportable roller systems that make your indoor hours count.",
+					"cta": "Shop bike trainers and accessories"
+				}
+			]
 		}
 	}
 }
