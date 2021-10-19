@@ -460,5 +460,6 @@
 | 10/14/2021, 9:42:20 PM | **New Hero:** Snow ready - All the gear you need to explore mountains of deep, fresh snow. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 10/15/2021, 6:41:29 AM | **New Promo #2:** Shop winter footwear - Warm, waterproof and grippy for snowy trails or icy sidewalks. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg' width='200' /> |
 | 10/15/2021, 10:16:40 AM | **New Promo #3:** Shop bike trainers and accessories - Complete ride setups to transportable roller systems that make your indoor hours count. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg' width='200' /> |
+| 10/19/2021, 9:51:55 AM | **New Hero:** Return to the mountain - The mountain is back – for good. See what the peaks in our logo mean for what's next. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hb5/h92/9218603483166/21-039-D03-Rebrand-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
