@@ -4021,6 +4021,36 @@
 				"tagline": "The mountain is back – for good. See what the peaks in our logo mean for what's next."
 			},
 			"promos": []
+		},
+		"1634837882844": {
+			"ts": 1634837882844,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg",
+					"text": "New skis and new tech for wide open slopes and bottomless pow.",
+					"cta": "Shop backcountry ski"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg",
+					"text": "Boots, snowshoes and warm layers are all you need to start exploring.",
+					"cta": "Shop snowshoe gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg",
+					"text": "Warm, waterproof and grippy for snowy trails or icy sidewalks.",
+					"cta": "Shop winter footwear"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h72/10079598379038/21-036-Snowshop-D2.1-Avalanche-Saftey-Promo-EN.jpg",
+					"text": "Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs.",
+					"cta": "Shop avalanche safety gear"
+				}
+			]
 		}
 	}
 }
