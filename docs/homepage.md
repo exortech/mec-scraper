@@ -465,5 +465,6 @@
 | 10/21/2021, 10:38:02 AM | **New Promo #2:** Shop snowshoe gear - Boots, snowshoes and warm layers are all you need to start exploring. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg' width='200' /> |
 | 10/21/2021, 10:38:02 AM | **New Promo #3:** Shop winter footwear - Warm, waterproof and grippy for snowy trails or icy sidewalks. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg' width='200' /> |
 | 10/21/2021, 10:38:02 AM | **New Promo #4:** Shop avalanche safety gear - Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h61/h72/10079598379038/21-036-Snowshop-D2.1-Avalanche-Saftey-Promo-EN.jpg' width='200' /> |
+| 10/25/2021, 7:11:23 AM | **New Hero:** 25% off starts now - Fleece deals on select styles start today, online only. It’s the coziest week of the year. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h34/h12/10087325761566/21-028-Holiday-Fleeceweek-Web-D1-HPHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
