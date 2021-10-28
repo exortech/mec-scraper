@@ -7,27 +7,27 @@
 	"promos": [
 		{
 			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg",
+			"text": "Discover the best picks for classic, skate or off-track skiers this season.",
+			"cta": "Shop Nordic ski"
+		},
+		{
+			"idx": 1,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg",
 			"text": "New skis and new tech for wide open slopes and bottomless pow.",
 			"cta": "Shop backcountry ski"
 		},
 		{
-			"idx": 1,
+			"idx": 2,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg",
 			"text": "Boots, snowshoes and warm layers are all you need to start exploring.",
 			"cta": "Shop snowshoe gear"
 		},
 		{
-			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg",
-			"text": "Warm, waterproof and grippy for snowy trails or icy sidewalks.",
-			"cta": "Shop winter footwear"
-		},
-		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h72/10079598379038/21-036-Snowshop-D2.1-Avalanche-Saftey-Promo-EN.jpg",
-			"text": "Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs.",
-			"cta": "Shop avalanche safety gear"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg",
+			"text": "Complete ride setups to transportable roller systems that make your indoor hours count.",
+			"cta": "Shop bike trainers and accessories"
 		}
 	]
 }
