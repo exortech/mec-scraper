@@ -471,5 +471,6 @@
 | 10/28/2021, 7:29:24 AM | **New Promo #2:** Shop backcountry ski - New skis and new tech for wide open slopes and bottomless pow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg' width='200' /> |
 | 10/28/2021, 7:29:24 AM | **New Promo #3:** Shop snowshoe gear - Boots, snowshoes and warm layers are all you need to start exploring. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg' width='200' /> |
 | 10/28/2021, 7:29:24 AM | **New Promo #4:** Shop bike trainers and accessories - Complete ride setups to transportable roller systems that make your indoor hours count. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h91/h51/9214327291934/21-038-D3-Indoor-Trainer-Promo-EN.jpg' width='200' /> |
+| 10/28/2021, 9:19:29 AM | **New Hero:** 25% off fleece faves - Online and in stores, it’s the coziest week of the year. Until October 31, select styles only.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h34/h12/10087325761566/21-028-Holiday-Fleeceweek-Web-D1-HPHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
