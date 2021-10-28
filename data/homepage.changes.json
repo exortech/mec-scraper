@@ -4108,6 +4108,18 @@
 				"tagline": "Online and in stores, it’s the coziest week of the year. Until October 31, select styles only. "
 			},
 			"promos": []
+		},
+		"1635440032624": {
+			"ts": 1635440032624,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
+					"text": "Winter warmth starts with the clothing layer next to your skin.",
+					"cta": "Shop base layers"
+				}
+			]
 		}
 	}
 }
