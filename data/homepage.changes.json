@@ -4120,6 +4120,15 @@
 					"cta": "Shop base layers"
 				}
 			]
+		},
+		"1635554306227": {
+			"ts": 1635554306227,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h74/h04/10088055635998/21-028-Holiday-Fleeceweek-Web-D6-HPHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Move fast for 25% off",
+				"tagline": "What’s all the fuzz about? It's the final days of fleece week. Ends October 31, select styles only. "
+			},
+			"promos": []
 		}
 	}
 }
