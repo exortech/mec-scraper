@@ -474,5 +474,6 @@
 | 10/28/2021, 9:19:29 AM | **New Hero:** 25% off fleece faves - Online and in stores, it’s the coziest week of the year. Until October 31, select styles only.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h34/h12/10087325761566/21-028-Holiday-Fleeceweek-Web-D1-HPHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 10/28/2021, 9:53:52 AM | **New Promo #2:** Shop base layers - Winter warmth starts with the clothing layer next to your skin. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png' width='200' /> |
 | 10/29/2021, 5:38:26 PM | **New Hero:** Move fast for 25% off - What’s all the fuzz about? It's the final days of fleece week. Ends October 31, select styles only.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h74/h04/10088055635998/21-028-Holiday-Fleeceweek-Web-D6-HPHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 11/1/2021, 12:12:39 AM | **New Hero:** Snow ready - All the gear you need to explore mountains of deep, fresh snow. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)

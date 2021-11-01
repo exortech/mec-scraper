@@ -4129,6 +4129,15 @@
 				"tagline": "What’s all the fuzz about? It's the final days of fleece week. Ends October 31, select styles only. "
 			},
 			"promos": []
+		},
+		"1635750759707": {
+			"ts": 1635750759707,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h85/h8f/9218590179358/21-036-Snowshop-Web-D1-HomepageHero.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Snow ready",
+				"tagline": "All the gear you need to explore mountains of deep, fresh snow."
+			},
+			"promos": []
 		}
 	}
 }
