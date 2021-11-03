@@ -319,6 +319,15 @@
 			"ts": 1608108022392,
 			"hero": null,
 			"products": []
+		},
+		"1635958524537": {
+			"ts": 1635958524537,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h48/he6/9196587188254/21-004-Misc-Web-D22-PLP-fathersday.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Gifts for snow lovers",
+				"tagline": "Impossible to buy for? Not with this list. Discover hand-picked ideas they’ll use over and over again."
+			},
+			"products": []
 		}
 	}
 }

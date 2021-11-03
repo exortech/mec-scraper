@@ -40,5 +40,6 @@
 | 12/15/2020, 7:25:35 PM | **New Product #6:** [5061-869 MEC Maritime Merino Toque - Unisex](/en/product/5061-869/Maritime-Merino-Toque?colour=BK000) - $11.97 |
 | 12/15/2020, 8:41:27 PM | **New Product #1:** [5061-864 MEC Relaxed Merino Toque - Unisex](/en/product/5061-864/Relaxed-Merino-Toque?colour=GRO02) - $14.97 |
 | 12/16/2020, 12:40:22 AM | **No products shown!** |
+| 11/3/2021, 9:55:24 AM | **New Hero:** Gifts for snow lovers - Impossible to buy for? Not with this list. Discover hand-picked ideas they’ll use over and over again. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h48/he6/9196587188254/21-004-Misc-Web-D22-PLP-fathersday.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
