@@ -480,5 +480,7 @@
 | 11/4/2021, 7:54:21 AM | **New Promo #2:** Shop outerwear and accessories - Stand your ground in insulated layers from cutting-edge brands. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h6f/hbd/9218590343198/036-Snowshop-D2.1-promobox-EN.jpg' width='200' /> |
 | 11/4/2021, 7:54:21 AM | **New Promo #3:** Shop kids’ winter warmth - Clothing and footwear to keep the snowy fun going. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h6c/haa/10089623584798/021-036-Snowshop-Web-D17-Winterwarmkids-Promo-EN.jpg' width='200' /> |
 | 11/4/2021, 7:54:21 AM | **New Promo #4:** Shop snowshoe gear - Boots, snowshoes and warm layers are all you need to start exploring. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg' width='200' /> |
+| 11/4/2021, 10:17:34 AM | **New Promo #1:** Shop avalanche safety gear - Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8e/h65/10089635053598/036-Snowshop-D2.2-promobox-EN.jpg' width='200' /> |
+| 11/4/2021, 10:17:34 AM | **New Promo #2:** Shop outerwear and accessories - Stand your ground in insulated layers from cutting-edge brands. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
