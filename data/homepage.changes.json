@@ -4138,6 +4138,40 @@
 				"tagline": "All the gear you need to explore mountains of deep, fresh snow."
 			},
 			"promos": []
+		},
+		"1636037661900": {
+			"ts": 1636037661900,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h31/h59/10089633054750/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Gift guide",
+				"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h72/10079598379038/21-036-Snowshop-D2.1-Avalanche-Saftey-Promo-EN.jpg",
+					"text": "Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs.",
+					"cta": "Shop avalanche safety gear"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6f/hbd/9218590343198/036-Snowshop-D2.1-promobox-EN.jpg",
+					"text": "Stand your ground in insulated layers from cutting-edge brands.",
+					"cta": "Shop outerwear and accessories"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h6c/haa/10089623584798/021-036-Snowshop-Web-D17-Winterwarmkids-Promo-EN.jpg",
+					"text": "Clothing and footwear to keep the snowy fun going.",
+					"cta": "Shop kids’ winter warmth"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg",
+					"text": "Boots, snowshoes and warm layers are all you need to start exploring.",
+					"cta": "Shop snowshoe gear"
+				}
+			]
 		}
 	}
 }
