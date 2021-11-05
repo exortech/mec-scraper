@@ -4217,6 +4217,15 @@
 				"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
 			},
 			"promos": []
+		},
+		"1636087359287": {
+			"ts": 1636087359287,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h31/h59/10089633054750/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Gift guide",
+				"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
+			},
+			"promos": []
 		}
 	}
 }
