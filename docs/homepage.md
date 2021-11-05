@@ -484,5 +484,6 @@
 | 11/4/2021, 10:17:34 AM | **New Promo #2:** Shop outerwear and accessories - Stand your ground in insulated layers from cutting-edge brands. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg' width='200' /> |
 | 11/4/2021, 6:42:35 PM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 11/4/2021, 7:44:05 PM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h31/h59/10089633054750/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
+| 11/4/2021, 9:15:29 PM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
