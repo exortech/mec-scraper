@@ -4415,6 +4415,24 @@
 				"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
 			},
 			"promos": []
+		},
+		"1636736036883": {
+			"ts": 1636736036883,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
+					"text": "Winter warmth starts with the clothing layer next to your skin.",
+					"cta": "Shop base layers"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h81/h7a/10089756590110/002-Camping-Web-D2-WinterCamping-Promo-EN.jpg",
+					"text": "The right gear for warm sleeps and waking to the magic of year-round camping. ",
+					"cta": "Shop winter camping"
+				}
+			]
 		}
 	}
 }

@@ -507,5 +507,7 @@
 | 11/5/2021, 8:48:45 AM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 11/5/2021, 9:19:18 AM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h31/h59/10089633054750/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 11/5/2021, 10:18:23 AM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
+| 11/12/2021, 8:53:56 AM | **New Promo #1:** Shop base layers - Winter warmth starts with the clothing layer next to your skin. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png' width='200' /> |
+| 11/12/2021, 8:53:56 AM | **New Promo #3:** Shop winter camping - The right gear for warm sleeps and waking to the magic of year-round camping.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h81/h7a/10089756590110/002-Camping-Web-D2-WinterCamping-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
