@@ -1,0 +1,33 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/haa/h8c/10091713658910/HolidayEarlyBlackFriday-HomepageHero-EN.png?w=800&h=800&auto=format&q=60",
+		"headline": "Early Black Friday",
+		"tagline": "You get first pick of the deals – while they last."
+	},
+	"promos": [
+		{
+			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png",
+			"text": "Renowned in the mountains and ready to hike and climb. Ends Nov 29.",
+			"cta": "Shop Black Diamond deals"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h4e/hdf/10091713527838/028-Holiday-EarlyBlackFriday-Promobox-Kids-EN.png",
+			"text": "Get ready to bundle! Deals from MEC, The North Face and more.",
+			"cta": "Shop kids’ deals"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png",
+			"text": "Limited time deals from Garmin. Ends Nov 29. ",
+			"cta": "Shop Garmin deals"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h88/hef/10091713363998/028-Holiday-EarlyBlackFriday-Promobox-Gregory-EN.png",
+			"text": "Great designs for getting off the grid. Ends Nov 22.",
+			"cta": "Shop Gregory deals"
+		}
+	]
+}
