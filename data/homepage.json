@@ -7,27 +7,27 @@
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
-			"text": "Winter warmth starts with the clothing layer next to your skin.",
-			"cta": "Shop base layers"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png",
+			"text": "Renowned in the mountains and ready to hike and climb. Ends Nov 29.",
+			"cta": "Shop Black Diamond deals"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg",
-			"text": "Stand your ground in insulated layers from cutting-edge brands.",
-			"cta": "Shop outerwear and accessories"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h4e/hdf/10091713527838/028-Holiday-EarlyBlackFriday-Promobox-Kids-EN.png",
+			"text": "Get ready to bundle! Deals from MEC, The North Face and more.",
+			"cta": "Shop kids’ deals"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h81/h7a/10089756590110/002-Camping-Web-D2-WinterCamping-Promo-EN.jpg",
-			"text": "The right gear for warm sleeps and waking to the magic of year-round camping. ",
-			"cta": "Shop winter camping"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png",
+			"text": "Limited time deals from Garmin. Ends Nov 29. ",
+			"cta": "Shop Garmin deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h74/hc0/10081111638046/21-036-Snowshop-D7.1-Snowrshoe-Promo-EN.jpg",
-			"text": "Boots, snowshoes and warm layers are all you need to start exploring.",
-			"cta": "Shop snowshoe gear"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h88/hef/10091713363998/028-Holiday-EarlyBlackFriday-Promobox-Gregory-EN.png",
+			"text": "Great designs for getting off the grid. Ends Nov 22.",
+			"cta": "Shop Gregory deals"
 		}
 	]
 }
