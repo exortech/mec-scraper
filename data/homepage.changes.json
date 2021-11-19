@@ -4433,6 +4433,15 @@
 					"cta": "Shop winter camping"
 				}
 			]
+		},
+		"1637334754841": {
+			"ts": 1637334754841,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/haa/h8c/10091713658910/HolidayEarlyBlackFriday-HomepageHero-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Early Black Friday",
+				"tagline": "You get first pick of the deals – while they last."
+			},
+			"promos": []
 		}
 	}
 }
