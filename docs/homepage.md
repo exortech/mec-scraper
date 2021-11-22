@@ -518,5 +518,7 @@
 | 11/22/2021, 7:57:30 AM | **New Promo #2:** Shop Black Diamond deals - Renowned in the mountains and ready to hike and climb. Ends Nov 29. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png' width='200' /> |
 | 11/22/2021, 7:57:30 AM | **New Promo #3:** Shop kids’ deals - Get ready to bundle! Deals from MEC, The North Face and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h4e/hdf/10091713527838/028-Holiday-EarlyBlackFriday-Promobox-Kids-EN.png' width='200' /> |
 | 11/22/2021, 7:57:30 AM | **New Promo #4:** Shop Garmin deals - Limited time deals from Garmin. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png' width='200' /> |
+| 11/22/2021, 1:26:19 PM | **New Promo #2:** Shop Garmin deals - Limited time deals from Garmin. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png' width='200' /> |
+| 11/22/2021, 1:26:19 PM | **New Promo #4:** Shop Black Diamond deals - Renowned in the mountains and ready to hike and climb. Ends Nov 29. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png' width='200' /> |
 
 [Back to main page](index.md)

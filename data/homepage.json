@@ -13,9 +13,9 @@
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png",
-			"text": "Renowned in the mountains and ready to hike and climb. Ends Nov 29.",
-			"cta": "Shop Black Diamond deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png",
+			"text": "Limited time deals from Garmin. Ends Nov 29. ",
+			"cta": "Shop Garmin deals"
 		},
 		{
 			"idx": 2,
@@ -25,9 +25,9 @@
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc0/h84/10091713986590/028-Holiday-EarlyBlackFriday-PromoBox-Garmin-EN-EN.png",
-			"text": "Limited time deals from Garmin. Ends Nov 29. ",
-			"cta": "Shop Garmin deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png",
+			"text": "Renowned in the mountains and ready to hike and climb. Ends Nov 29.",
+			"cta": "Shop Black Diamond deals"
 		}
 	]
 }
