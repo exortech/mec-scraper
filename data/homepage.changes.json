@@ -4520,6 +4520,28 @@
 					"cta": "Shop Black Diamond deals"
 				}
 			]
+		},
+		"1637684481042": {
+			"ts": 1637684481042,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/haa/h8c/10091713658910/HolidayEarlyBlackFriday-HomepageHero-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Black Friday week",
+				"tagline": "You get first pick of the deals – while they last."
+			},
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png",
+					"text": "Adventure-ready pieces that can take you anywhere. Ends Nov 29. ",
+					"cta": "Shop The North Face deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png",
+					"text": "Save on packs made to go far. Only until Nov 29. ",
+					"cta": "Shop Osprey deals"
+				}
+			]
 		}
 	}
 }
