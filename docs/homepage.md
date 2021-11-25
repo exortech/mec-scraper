@@ -528,5 +528,6 @@
 | 11/25/2021, 8:22:06 AM | **New Promo #2:** Shop Arc’teryx deals - Save on technical clothing, packs and footwear until Dec 2. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h5f/hb5/10092629983262/028-Holiday-BlackFriday-Promobox-Arc-terix-EN.jpg' width='200' /> |
 | 11/25/2021, 8:22:06 AM | **New Promo #3:** Shop The North Face deals - Adventure-ready pieces that can take you anywhere. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png' width='200' /> |
 | 11/25/2021, 8:22:06 AM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png' width='200' /> |
+| 11/25/2021, 9:23:02 AM | **New Hero:** Irresistible deals on now - So good, you need to see them yourself. Limited quantities.  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hb0/hbd/10092629491742/Holiday-BlackFriday-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
