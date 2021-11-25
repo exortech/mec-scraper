@@ -4542,6 +4542,15 @@
 					"cta": "Shop Osprey deals"
 				}
 			]
+		},
+		"1637855358414": {
+			"ts": 1637855358414,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/hb0/hbd/10092629491742/Holiday-BlackFriday-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Black Friday week",
+				"tagline": "You get first pick of the deals – while they last."
+			},
+			"promos": []
 		}
 	}
 }

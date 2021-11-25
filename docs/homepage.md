@@ -523,5 +523,6 @@
 | 11/23/2021, 8:21:21 AM | **New Hero:** Black Friday week - You get first pick of the deals – while they last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/haa/h8c/10091713658910/HolidayEarlyBlackFriday-HomepageHero-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 11/23/2021, 8:21:21 AM | **New Promo #2:** Shop The North Face deals - Adventure-ready pieces that can take you anywhere. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png' width='200' /> |
 | 11/23/2021, 8:21:21 AM | **New Promo #3:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png' width='200' /> |
+| 11/25/2021, 7:49:18 AM | **New Hero:** Black Friday week - You get first pick of the deals – while they last. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hb0/hbd/10092629491742/Holiday-BlackFriday-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
