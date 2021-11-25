@@ -7,27 +7,27 @@
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h65/h1c/10091723325470/028-Holiday-EarlyBlackFriday-Promobox-Sockweek-EN.png",
-			"text": "It’s sock week until Nov 30. Plus, $2 from each pair goes to the Canadian Parks & Wilderness Society. ",
-			"cta": "Shop Smartwool socks"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha8/h23/10092629852190/028-Holiday-BlackFriday-Promobox-MEC-EN.jpg",
+			"text": "Save now and stock up for starry-night adventures.",
+			"cta": "Shop MEC camping deals"
 		},
 		{
 			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5f/hb5/10092629983262/028-Holiday-BlackFriday-Promobox-Arc-terix-EN.jpg",
+			"text": "Save on technical clothing, packs and footwear until Dec 2.",
+			"cta": "Shop Arc’teryx deals"
+		},
+		{
+			"idx": 2,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png",
 			"text": "Adventure-ready pieces that can take you anywhere. Ends Nov 29. ",
 			"cta": "Shop The North Face deals"
 		},
 		{
-			"idx": 2,
+			"idx": 3,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png",
 			"text": "Save on packs made to go far. Only until Nov 29. ",
 			"cta": "Shop Osprey deals"
-		},
-		{
-			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7c/ha5/10091713232926/028-Holiday-EarlyBlackFriday-Promobox-BlackDiamond-EN.png",
-			"text": "Renowned in the mountains and ready to hike and climb. Ends Nov 29.",
-			"cta": "Shop Black Diamond deals"
 		}
 	]
 }
