@@ -4860,6 +4860,24 @@
 					"cta": "Shop Osprey deals"
 				}
 			]
+		},
+		"1637943584683": {
+			"ts": 1637943584683,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png",
+					"text": "Adventure-ready pieces that can take you anywhere. Ends Nov 29. ",
+					"cta": "Shop The North Face deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png",
+					"text": "Save on packs made to go far. Only until Nov 29. ",
+					"cta": "Shop Osprey deals"
+				}
+			]
 		}
 	}
 }
