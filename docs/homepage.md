@@ -553,5 +553,7 @@
 | 11/26/2021, 12:55:17 AM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf5/h23/10092631654430/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg' width='200' /> |
 | 11/26/2021, 1:54:08 AM | **New Promo #3:** Shop The North Face deals - Adventure-ready pieces that can take you anywhere. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h10/h87/10091729551390/028-Holiday-EarlyBlackFriday-Promobox-TNF-EN.png' width='200' /> |
 | 11/26/2021, 1:54:08 AM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/he7/10091729682462/028-Holiday-EarlyBlackFriday-Promobox-Osprey-EN.png' width='200' /> |
+| 11/26/2021, 2:35:27 AM | **New Promo #3:** Shop The North Face deals - Adventure-ready pieces that can take you anywhere. Ends Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfd/hb7/10092631523358/028-Holiday-BlackFriday-Promobox-TNF-EN.jpg' width='200' /> |
+| 11/26/2021, 2:35:27 AM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf5/h23/10092631654430/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
