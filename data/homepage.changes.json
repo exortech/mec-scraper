@@ -4908,6 +4908,18 @@
 					"cta": "Shop Osprey deals"
 				}
 			]
+		},
+		"1637963653017": {
+			"ts": 1637963653017,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf5/h23/10092631654430/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg",
+					"text": "Save on packs made to go far. Only until Nov 29. ",
+					"cta": "Shop Osprey deals"
+				}
+			]
 		}
 	}
 }
