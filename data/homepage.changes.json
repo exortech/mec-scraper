@@ -4956,6 +4956,15 @@
 					"cta": "Shop Osprey deals"
 				}
 			]
+		},
+		"1638159356750": {
+			"ts": 1638159356750,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/hfc/haa/10092644663326/028-40-CyberMonday-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Free shipping today only",
+				"tagline": "Last chance for Black Friday deals, plus orders ship free across Canada – Conditions apply."
+			},
+			"promos": []
 		}
 	}
 }

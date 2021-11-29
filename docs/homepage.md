@@ -568,5 +568,6 @@
 | 11/26/2021, 2:11:50 PM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/haf/h1f/10092637716510/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg' width='200' /> |
 | 11/26/2021, 2:54:22 PM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf5/h23/10092631654430/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg' width='200' /> |
 | 11/26/2021, 3:31:18 PM | **New Promo #4:** Shop Osprey deals - Save on packs made to go far. Only until Nov 29.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/haf/h1f/10092637716510/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg' width='200' /> |
+| 11/28/2021, 8:15:56 PM | **New Hero:** Free shipping today only - Last chance for Black Friday deals, plus orders ship free across Canada – Conditions apply. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hfc/haa/10092644663326/028-40-CyberMonday-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
