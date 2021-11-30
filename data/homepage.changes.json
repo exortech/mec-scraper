@@ -5565,6 +5565,36 @@
 					"cta": "Shop The North Face deals"
 				}
 			]
+		},
+		"1638239220257": {
+			"ts": 1638239220257,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h5f/hb5/10092629983262/028-Holiday-BlackFriday-Promobox-Arc-terix-EN.jpg",
+					"text": "Save on technical clothing, packs and footwear until Dec 2.",
+					"cta": "Shop Arc’teryx deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha8/h23/10092629852190/028-Holiday-BlackFriday-Promobox-MEC-EN.jpg",
+					"text": "Save now and stock up for starry-night adventures.",
+					"cta": "Shop MEC camping deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/haf/h1f/10092637716510/028-Holiday-BlackFriday-Promobox-Osprey-EN.jpg",
+					"text": "Save on packs made to go far. Only until Nov 29. ",
+					"cta": "Shop Osprey deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfd/hb7/10092631523358/028-Holiday-BlackFriday-Promobox-TNF-EN.jpg",
+					"text": "Adventure-ready pieces that can take you anywhere. Ends Nov 29. ",
+					"cta": "Shop The North Face deals"
+				}
+			]
 		}
 	}
 }
