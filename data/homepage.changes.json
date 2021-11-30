@@ -5685,6 +5685,40 @@
 					"cta": "Shop The North Face deals"
 				}
 			]
+		},
+		"1638283150169": {
+			"ts": 1638283150169,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h8d/hbf/10093969244190/21-028-D52-GivingTuesday-HomepageHero-EN.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Giving back to the outdoors",
+				"tagline": "Giving Tuesday and sock week: the perfect pair. $2 from each Smartwool sock sale goes to CPAWS (up to $10,000) – just one way we’re giving back this year."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg",
+					"text": "New skis and new tech for wide open slopes and bottomless pow.",
+					"cta": "Shop backcountry ski"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h8e/h65/10089635053598/036-Snowshop-D2.2-promobox-EN.jpg",
+					"text": "Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs.",
+					"cta": "Shop avalanche safety gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
+					"text": "Winter warmth starts with the clothing layer next to your skin.",
+					"cta": "Shop base layers"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg",
+					"text": "Stand your ground in insulated layers from cutting-edge brands.",
+					"cta": "Shop outerwear and accessories"
+				}
+			]
 		}
 	}
 }
