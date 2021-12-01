@@ -670,5 +670,6 @@
 | 11/30/2021, 6:39:10 AM | **New Promo #2:** Shop avalanche safety gear - Essential for winter riders in the backcountry: beacons, shovels, probes and avi packs. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8e/h65/10089635053598/036-Snowshop-D2.2-promobox-EN.jpg' width='200' /> |
 | 11/30/2021, 6:39:10 AM | **New Promo #3:** Shop base layers - Winter warmth starts with the clothing layer next to your skin. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png' width='200' /> |
 | 11/30/2021, 6:39:10 AM | **New Promo #4:** Shop outerwear and accessories - Stand your ground in insulated layers from cutting-edge brands. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg' width='200' /> |
+| 12/1/2021, 7:13:06 AM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
