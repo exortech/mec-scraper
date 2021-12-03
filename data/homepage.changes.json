@@ -5728,6 +5728,18 @@
 				"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
 			},
 			"promos": []
+		},
+		"1638551949672": {
+			"ts": 1638551949672,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg",
+					"text": "an’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only. ",
+					"cta": "Shop Garmin deals"
+				}
+			]
 		}
 	}
 }
