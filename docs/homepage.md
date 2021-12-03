@@ -672,5 +672,6 @@
 | 11/30/2021, 6:39:10 AM | **New Promo #4:** Shop outerwear and accessories - Stand your ground in insulated layers from cutting-edge brands. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h30/hc4/10089634529310/021-036-Snowshop-Web-D18-Winterwarmadults-Promo-EN.jpg' width='200' /> |
 | 12/1/2021, 7:13:06 AM | **New Hero:** Gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 12/3/2021, 9:19:09 AM | **New Promo #3:** Shop Garmin deals - an’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg' width='200' /> |
+| 12/3/2021, 9:57:29 AM | **New Promo #3:** Shop Garmin deals - Can’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

@@ -5740,6 +5740,18 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1638554249976": {
+			"ts": 1638554249976,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg",
+					"text": "Can’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only. ",
+					"cta": "Shop Garmin deals"
+				}
+			]
 		}
 	}
 }
