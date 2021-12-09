@@ -5752,6 +5752,30 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1639061769636": {
+			"ts": 1639061769636,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg",
+					"text": "Warm, waterproof and grippy for snowy trails or icy sidewalks.",
+					"cta": "Shop winter footwear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
+					"text": "Winter warmth starts with the clothing layer next to your skin.",
+					"cta": "Shop base layers"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg",
+					"text": "Can’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only. ",
+					"cta": "Shop Garmin deals"
+				}
+			]
 		}
 	}
 }
