@@ -676,5 +676,6 @@
 | 12/9/2021, 6:56:09 AM | **New Promo #2:** Shop winter footwear - Warm, waterproof and grippy for snowy trails or icy sidewalks. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg' width='200' /> |
 | 12/9/2021, 6:56:09 AM | **New Promo #3:** Shop base layers - Winter warmth starts with the clothing layer next to your skin. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png' width='200' /> |
 | 12/9/2021, 6:56:09 AM | **New Promo #4:** Shop Garmin deals - Can’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg' width='200' /> |
+| 12/13/2021, 3:12:30 PM | **New Promo #2:** Shop trainers and accessories - Wahoo and Tacx Trainers for smart indoor riding, plus luxe liner shorts for hours in the saddle. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/hc1/10095162982430/021-038-IndoorTrainers-Web-D5-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

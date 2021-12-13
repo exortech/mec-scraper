@@ -5776,6 +5776,18 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1639437150786": {
+			"ts": 1639437150786,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/hc1/10095162982430/021-038-IndoorTrainers-Web-D5-Promo-EN.jpg",
+					"text": "Wahoo and Tacx Trainers for smart indoor riding, plus luxe liner shorts for hours in the saddle.",
+					"cta": "Shop trainers and accessories"
+				}
+			]
 		}
 	}
 }
