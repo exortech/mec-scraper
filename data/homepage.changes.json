@@ -5810,6 +5810,18 @@
 					"cta": "Shop base layers"
 				}
 			]
+		},
+		"1639670255030": {
+			"ts": 1639670255030,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hab/10096044933150/21-028-Web-D57-Promo-GiftGuide-EN.jpg",
+					"text": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures.",
+					"cta": "Explore the gift guide"
+				}
+			]
 		}
 	}
 }
