@@ -1,8 +1,8 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h9d/he9/10089743515678/028-HomePageHero-GiftGuide-EN.png?w=800&h=800&auto=format&q=60",
-		"headline": "Gift guide",
-		"tagline": "Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/hc0/h0a/10096040476702/21-045-Earlyboxingweek-phaseone-HomepageHero-EN.png?w=800&h=800&auto=format&q=60",
+		"headline": "It’s on!",
+		"tagline": "Early bird gets the deals. Save big on rad stuff from brands like MEC, The North Face, Prana and more."
 	},
 	"promos": [
 		{
@@ -19,15 +19,15 @@
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
-			"text": "Winter warmth starts with the clothing layer next to your skin.",
-			"cta": "Shop base layers"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg",
+			"text": "Find all the right layers for wicking moisture and blocking cold winds.",
+			"cta": "Shop Nordic ski"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h7b/hc2/10093988741150/21-028-Web-D56-Promo-Garmin-EN.jpg",
-			"text": "Can’t miss deals on select Fenix, Forerunner and Instinct watches. Limited time only. ",
-			"cta": "Shop Garmin deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png",
+			"text": "Winter warmth starts with the clothing layer next to your skin.",
+			"cta": "Shop base layers"
 		}
 	]
 }
