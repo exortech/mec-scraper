@@ -681,5 +681,6 @@
 | 12/16/2021, 7:35:48 AM | **New Promo #3:** Shop Nordic ski - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
 | 12/16/2021, 7:35:48 AM | **New Promo #4:** Shop base layers - Winter warmth starts with the clothing layer next to your skin. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hde/10088052588574/MicrosoftTeams-image-12-.png' width='200' /> |
 | 12/16/2021, 7:57:35 AM | **New Promo #1:** Explore the gift guide - Discover our hand-picked gift ideas for all kinds of activities, budgets and adventures. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he6/hab/10096044933150/21-028-Web-D57-Promo-GiftGuide-EN.jpg' width='200' /> |
+| 12/16/2021, 7:12:20 PM | **New Promo #3:** Shop cross-country ski gear - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
