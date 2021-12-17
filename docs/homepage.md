@@ -705,5 +705,6 @@
 | 12/17/2021, 2:54:34 AM | **New Promo #3:** Shop Nordic ski - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
 | 12/17/2021, 3:54:20 AM | **New Promo #3:** Shop cross-country ski gear - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
 | 12/17/2021, 4:19:35 AM | **New Promo #3:** Shop Nordic ski - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
+| 12/17/2021, 5:31:27 AM | **New Promo #3:** Shop cross-country ski gear - Find all the right layers for wicking moisture and blocking cold winds. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
