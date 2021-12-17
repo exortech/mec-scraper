@@ -5882,6 +5882,18 @@
 					"cta": "Shop cross-country ski gear"
 				}
 			]
+		},
+		"1639718266489": {
+			"ts": 1639718266489,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha9/h2e/10088049180702/021-036-Snowshop-Web-D9-NordicSki-Promo-EN.jpg",
+					"text": "Find all the right layers for wicking moisture and blocking cold winds.",
+					"cta": "Shop Nordic ski"
+				}
+			]
 		}
 	}
 }
