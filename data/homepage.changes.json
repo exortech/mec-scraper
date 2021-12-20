@@ -6218,6 +6218,18 @@
 					"cta": "Send e-gift cards"
 				}
 			]
+		},
+		"1640039609520": {
+			"ts": 1640039609520,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he0/hc1/10095162982430/021-038-IndoorTrainers-Web-D5-Promo-EN.jpg",
+					"text": "Wahoo and Tacx Trainers for smart indoor riding, plus luxe liner shorts for hours in the saddle.",
+					"cta": "Shop trainers and accessories"
+				}
+			]
 		}
 	}
 }

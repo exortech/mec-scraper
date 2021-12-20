@@ -715,5 +715,6 @@
 | 12/20/2021, 11:54:31 AM | **New Promo #1:** Shop MEC clothing deals - Deep deals on layers you’ll use year-round. Get ‘em before they’re gone.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h85/h92/10096040607774/21-045-Earlyboxingweek-phaseone-Promobox-MECclothing-EN.png' width='200' /> |
 | 12/20/2021, 11:54:31 AM | **New Promo #2:** Shop MEC kids’ rainwear deals - Savings for soggy days ahead (tip: pick up a few sizes while they last).  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc2/hdb/10096040738846/21-045-Earlyboxingweek-phaseone-Promobox-Kidsclothing-EN.png' width='200' /> |
 | 12/20/2021, 11:54:31 AM | **New Promo #4:** Send e-gift cards - Send an e-gift card, choose the delivery date, and it's that easy. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he2/h3c/10096048078878/21-028-Web-D58-Promo-E-giftcards-EN.jpg' width='200' /> |
+| 12/20/2021, 2:33:29 PM | **New Promo #3:** Shop trainers and accessories - Wahoo and Tacx Trainers for smart indoor riding, plus luxe liner shorts for hours in the saddle. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he0/hc1/10095162982430/021-038-IndoorTrainers-Web-D5-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
