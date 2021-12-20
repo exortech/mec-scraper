@@ -6194,6 +6194,30 @@
 					"cta": "Shop cross-country ski gear"
 				}
 			]
+		},
+		"1640030071280": {
+			"ts": 1640030071280,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h85/h92/10096040607774/21-045-Earlyboxingweek-phaseone-Promobox-MECclothing-EN.png",
+					"text": "Deep deals on layers you’ll use year-round. Get ‘em before they’re gone. ",
+					"cta": "Shop MEC clothing deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc2/hdb/10096040738846/21-045-Earlyboxingweek-phaseone-Promobox-Kidsclothing-EN.png",
+					"text": "Savings for soggy days ahead (tip: pick up a few sizes while they last). ",
+					"cta": "Shop MEC kids’ rainwear deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he2/h3c/10096048078878/21-028-Web-D58-Promo-E-giftcards-EN.jpg",
+					"text": "Send an e-gift card, choose the delivery date, and it's that easy.",
+					"cta": "Send e-gift cards"
+				}
+			]
 		}
 	}
 }
