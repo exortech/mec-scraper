@@ -721,5 +721,7 @@
 | 12/26/2021, 7:34:54 AM | **New Promo #2:** Shop winter clothing deals - Snow-worthy layers from brands we love. Ends December 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfb/h0f/10096054534174/21-045-BoxingWeek-Phasetwo-Promobox-WinterClothing-EN.png' width='200' /> |
 | 12/26/2021, 7:34:54 AM | **New Promo #3:** Shop climbing deals - Hey, big sender. Snap up essential gear, ends December 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h2b/h6e/10096054861854/21-045-BoxingWeek-Phasetwo-Promobox-Climbing-EN.png' width='200' /> |
 | 12/26/2021, 7:34:54 AM | **New Promo #4:** Shop winter footwear deals - Hot deals on Timberland, Baffin and more. Ends December 31.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8c/h23/10096054992926/21-045-BoxingWeek-Phasetwo-Promobox-Footwear-EN.png' width='200' /> |
+| 12/26/2021, 7:48:58 AM | **New Promo #1:** Shop winter clothing deals - Snow-worthy layers from brands we love. Ends December 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfb/h0f/10096054534174/21-045-BoxingWeek-Phasetwo-Promobox-WinterClothing-EN.png' width='200' /> |
+| 12/26/2021, 7:48:58 AM | **New Promo #2:** Shop camping deals - Amp up your camp set-up. Save on MEC, MSR, Osprey and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8c/hec/10096054796318/21-045-BoxingWeek-Phasetwo-Promobox-Camping-EN.png' width='200' /> |
 
 [Back to main page](index.md)
