@@ -6309,6 +6309,36 @@
 				"tagline": ""
 			},
 			"promos": []
+		},
+		"1641056155494": {
+			"ts": 1641056155494,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h00/h52/10098589794334/047-NewYears-JanuaryClearance-PromoBox-Acteryx-EN.png",
+					"text": "High-end performance, plus sweet savings. Ends January 18.",
+					"cta": "Shop Arc’teryx deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc9/10098589925406/047-NewYears-DayofSale-PromoBOx-BD-EN.png",
+					"text": "Superior gear for people who run, climb and ski. ",
+					"cta": "Shop Black Diamond deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hbc/hda/10098590973982/052-SnowShop2-D1-Promobox-EN.png",
+					"text": "Snowshoes and winter hiking gear to outfit any mini winter adventure.",
+					"cta": "Shop winter weekends"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h98/h3c/10098592317470/21-048-WinterTraining-Web-D7-Promo-EN.jpg",
+					"text": "Gear and training solutions for your home setup – prepare for real rock or gym goals.",
+					"cta": "Shop indoor climbing gear"
+				}
+			]
 		}
 	}
 }

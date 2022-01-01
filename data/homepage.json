@@ -7,27 +7,27 @@
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h8c/hec/10096054796318/21-045-BoxingWeek-Phasetwo-Promobox-Camping-EN.png",
-			"text": "Amp up your camp set-up. Save on MEC, MSR, Osprey and more.",
-			"cta": "Shop camping deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h00/h52/10098589794334/047-NewYears-JanuaryClearance-PromoBox-Acteryx-EN.png",
+			"text": "High-end performance, plus sweet savings. Ends January 18.",
+			"cta": "Shop Arc’teryx deals"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfb/h0f/10096054534174/21-045-BoxingWeek-Phasetwo-Promobox-WinterClothing-EN.png",
-			"text": "Snow-worthy layers from brands we love. Ends December 31.",
-			"cta": "Shop winter clothing deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc9/10098589925406/047-NewYears-DayofSale-PromoBOx-BD-EN.png",
+			"text": "Superior gear for people who run, climb and ski. ",
+			"cta": "Shop Black Diamond deals"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h2b/h6e/10096054861854/21-045-BoxingWeek-Phasetwo-Promobox-Climbing-EN.png",
-			"text": "Hey, big sender. Snap up essential gear, ends December 31.",
-			"cta": "Shop climbing deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hbc/hda/10098590973982/052-SnowShop2-D1-Promobox-EN.png",
+			"text": "Snowshoes and winter hiking gear to outfit any mini winter adventure.",
+			"cta": "Shop winter weekends"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h8c/h23/10096054992926/21-045-BoxingWeek-Phasetwo-Promobox-Footwear-EN.png",
-			"text": "Hot deals on Timberland, Baffin and more. Ends December 31. ",
-			"cta": "Shop winter footwear deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h98/h3c/10098592317470/21-048-WinterTraining-Web-D7-Promo-EN.jpg",
+			"text": "Gear and training solutions for your home setup – prepare for real rock or gym goals.",
+			"cta": "Shop indoor climbing gear"
 		}
 	]
 }
