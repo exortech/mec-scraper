@@ -725,5 +725,6 @@
 | 12/26/2021, 7:48:58 AM | **New Promo #2:** Shop camping deals - Amp up your camp set-up. Save on MEC, MSR, Osprey and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8c/hec/10096054796318/21-045-BoxingWeek-Phasetwo-Promobox-Camping-EN.png' width='200' /> |
 | 12/30/2021, 5:51:46 PM | **New Promo #1:** Shop camping deals - Amp up your camp set-up. Save on MEC, MSR, Osprey and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h8c/hec/10096054796318/21-045-BoxingWeek-Phasetwo-Promobox-Camping-EN.png' width='200' /> |
 | 12/30/2021, 5:51:46 PM | **New Promo #2:** Shop winter clothing deals - Snow-worthy layers from brands we love. Ends December 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfb/h0f/10096054534174/21-045-BoxingWeek-Phasetwo-Promobox-WinterClothing-EN.png' width='200' /> |
+| 12/31/2021, 6:36:23 PM | **New Hero:** New year’s offer -  <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h34/h5c/10096064888862/047-NewYears-DayofSale-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)

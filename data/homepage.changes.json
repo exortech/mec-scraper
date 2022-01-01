@@ -6300,6 +6300,15 @@
 					"cta": "Shop winter clothing deals"
 				}
 			]
+		},
+		"1641004583526": {
+			"ts": 1641004583526,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h34/h5c/10096064888862/047-NewYears-DayofSale-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "New year’s offer",
+				"tagline": ""
+			},
+			"promos": []
 		}
 	}
 }
