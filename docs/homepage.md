@@ -730,5 +730,6 @@
 | 1/1/2022, 8:55:55 AM | **New Promo #2:** Shop Black Diamond deals - Superior gear for people who run, climb and ski.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0e/hc9/10098589925406/047-NewYears-DayofSale-PromoBOx-BD-EN.png' width='200' /> |
 | 1/1/2022, 8:55:55 AM | **New Promo #3:** Shop winter weekends - Snowshoes and winter hiking gear to outfit any mini winter adventure. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hbc/hda/10098590973982/052-SnowShop2-D1-Promobox-EN.png' width='200' /> |
 | 1/1/2022, 8:55:55 AM | **New Promo #4:** Shop indoor climbing gear - Gear and training solutions for your home setup – prepare for real rock or gym goals. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h98/h3c/10098592317470/21-048-WinterTraining-Web-D7-Promo-EN.jpg' width='200' /> |
+| 1/2/2022, 12:14:57 AM | **New Hero:** New year’s clearance - We’re making room for fresh gear, which means major deals for you. Once it’s gone, it’s gone for good. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h07/hcc/10098591105054/047-NewYears-JanuaryClearance-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
