@@ -6360,6 +6360,18 @@
 					"cta": "Shop deals on pants"
 				}
 			]
+		},
+		"1641486522963": {
+			"ts": 1641486522963,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png",
+					"text": "Perfect your layering system and save on select brands – don’t miss out.",
+					"cta": "Shop deals on jackets"
+				}
+			]
 		}
 	}
 }
