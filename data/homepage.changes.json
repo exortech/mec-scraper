@@ -6372,6 +6372,18 @@
 					"cta": "Shop deals on jackets"
 				}
 			]
+		},
+		"1641576862769": {
+			"ts": 1641576862769,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg",
+					"text": "New skis and new tech for wide open slopes and bottomless pow.",
+					"cta": "Shop backcountry ski"
+				}
+			]
 		}
 	}
 }

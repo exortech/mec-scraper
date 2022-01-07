@@ -733,5 +733,6 @@
 | 1/2/2022, 12:14:57 AM | **New Hero:** New year’s clearance - We’re making room for fresh gear, which means major deals for you. Once it’s gone, it’s gone for good. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h07/hcc/10098591105054/047-NewYears-JanuaryClearance-Homepage-Header-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 1/4/2022, 2:33:39 PM | **New Promo #2:** Shop deals on pants - Stretchy, cozy or waterproof – take your pick from some of our fave brands.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h31/hd7/10098596904990/047-NewYears-JanuaryClearance-PromoBox-Pantss-EN.png' width='200' /> |
 | 1/6/2022, 8:28:42 AM | **New Promo #1:** Shop deals on jackets - Perfect your layering system and save on select brands – don’t miss out. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png' width='200' /> |
+| 1/7/2022, 9:34:22 AM | **New Promo #3:** Shop backcountry ski - New skis and new tech for wide open slopes and bottomless pow. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hcb/h1d/10077938221086/21-036-Snowshop-D5.1-SnowrReady-Promo-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
