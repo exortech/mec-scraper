@@ -740,5 +740,6 @@
 | 1/13/2022, 7:59:06 AM | **New Promo #2:** Shop winter footwear - Warm, waterproof and grippy for snowy trails or icy sidewalks. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg' width='200' /> |
 | 1/13/2022, 7:59:06 AM | **New Promo #3:** Shop deals on jackets - Perfect your layering system and save on select brands – don’t miss out. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png' width='200' /> |
 | 1/13/2022, 7:59:06 AM | **New Promo #4:** Shop deals on pants - Stretchy, cozy or waterproof – take your pick from some of our fave brands.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h31/hd7/10098596904990/047-NewYears-JanuaryClearance-PromoBox-Pantss-EN.png' width='200' /> |
+| 1/18/2022, 7:37:18 AM | **New Promo #1:** Shop cross-country skiing - More stuff in stock and ready to glide. Shop online or see options in store. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)

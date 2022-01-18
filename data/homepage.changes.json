@@ -6427,6 +6427,18 @@
 					"cta": "Shop deals on pants"
 				}
 			]
+		},
+		"1642520238776": {
+			"ts": 1642520238776,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg",
+					"text": "More stuff in stock and ready to glide. Shop online or see options in store.",
+					"cta": "Shop cross-country skiing"
+				}
+			]
 		}
 	}
 }
