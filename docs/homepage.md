@@ -741,5 +741,7 @@
 | 1/13/2022, 7:59:06 AM | **New Promo #3:** Shop deals on jackets - Perfect your layering system and save on select brands – don’t miss out. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png' width='200' /> |
 | 1/13/2022, 7:59:06 AM | **New Promo #4:** Shop deals on pants - Stretchy, cozy or waterproof – take your pick from some of our fave brands.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h31/hd7/10098596904990/047-NewYears-JanuaryClearance-PromoBox-Pantss-EN.png' width='200' /> |
 | 1/18/2022, 7:37:18 AM | **New Promo #1:** Shop cross-country skiing - More stuff in stock and ready to glide. Shop online or see options in store. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg' width='200' /> |
+| 1/19/2022, 10:35:26 AM | **New Promo #3:** Shop MEC camp deals - Save on select packs and tents to get your summer setup dialed now. Select styles ends Jan 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h07/h6a/10100639268894/21-054-LastChance-D11-Promo-EN.jpg' width='200' /> |
+| 1/19/2022, 10:35:26 AM | **New Promo #4:** Shop deals on jackets - Perfect your layering system and save on select brands – don’t miss out. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png' width='200' /> |
 
 [Back to main page](index.md)
