@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h49/heb/10098614894622/21-048-WinterTraining-Web-D7-IndoorBike-Hero.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "Gear up for goals",
-		"tagline": "Find indoor cycling gear to boost fitness, build stamina, and make big riding goals a reality."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h9f/h2c/10100642316318/21-054-TheDeepWinterSale-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60",
+		"headline": "700 + new deals",
+		"tagline": "We’re keeping it fresh with great finds from top brands. Speed is your friend here."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg",
-			"text": "More stuff in stock and ready to glide. Shop online or see options in store.",
-			"cta": "Shop cross-country skiing"
-		},
-		{
-			"idx": 1,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h94/h4d/9218593685534/21-036-Snowshop-Web-D14-Promo-WinterFootwear-EN.jpg",
 			"text": "Warm, waterproof and grippy for snowy trails or icy sidewalks.",
 			"cta": "Shop winter footwear"
 		},
 		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg",
+			"text": "More stuff in stock and ready to glide. Shop online or see options in store.",
+			"cta": "Shop cross-country skiing"
+		},
+		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h07/h6a/10100639268894/21-054-LastChance-D11-Promo-EN.jpg",
-			"text": "Save on select packs and tents to get your summer setup dialed now. Select styles ends Jan 31.",
-			"cta": "Shop MEC camp deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png",
+			"text": "Our top picks for slick streets and snowy places.",
+			"cta": "Shop The North Face deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h77/hd6/10098602639390/047-NewYears-JanuaryClearance-PromoBox-Jackets-EN.png",
-			"text": "Perfect your layering system and save on select brands – don’t miss out.",
-			"cta": "Shop deals on jackets"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h07/h6a/10100639268894/21-054-LastChance-D11-Promo-EN.jpg",
+			"text": "Save on select packs and tents to get your summer setup dialed now. Select styles ends Jan 31.",
+			"cta": "Shop MEC camp deals"
 		}
 	]
 }
