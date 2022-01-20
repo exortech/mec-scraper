@@ -748,5 +748,7 @@
 | 1/20/2022, 7:46:25 AM | **New Promo #2:** Shop cross-country skiing - More stuff in stock and ready to glide. Shop online or see options in store. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc6/h92/10100637466654/052-SnowShop2-D3-Promobox-EN.jpg' width='200' /> |
 | 1/20/2022, 7:46:25 AM | **New Promo #3:** Shop The North Face deals - Our top picks for slick streets and snowy places. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png' width='200' /> |
 | 1/20/2022, 7:46:25 AM | **New Promo #4:** Shop MEC camp deals - Save on select packs and tents to get your summer setup dialed now. Select styles ends Jan 31. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h07/h6a/10100639268894/21-054-LastChance-D11-Promo-EN.jpg' width='200' /> |
+| 1/20/2022, 9:07:50 AM | **New Promo #3:** Shop snowsports - Snowshoes and ski gear for backcountry and cross-country now in stock. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h79/h21/10100645298206/052-SnowShop2-D4-Promobox-EN.jpg' width='200' /> |
+| 1/20/2022, 9:07:50 AM | **New Promo #4:** Shop The North Face deals - Our top picks for slick streets and snowy places. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png' width='200' /> |
 
 [Back to main page](index.md)
