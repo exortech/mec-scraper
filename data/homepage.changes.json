@@ -6509,6 +6509,36 @@
 					"cta": "Shop The North Face deals"
 				}
 			]
+		},
+		"1642703725069": {
+			"ts": 1642703725069,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hee/h78/10100646576158/MicrosoftTeams-image-19-.png",
+					"text": "Grab great deals on skis and snowsports while they last. ",
+					"cta": "Shop snowsports deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png",
+					"text": "Our top picks for slick streets and snowy places.",
+					"cta": "Shop The North Face deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h01/h05/10100645527582/21-054-TheDeepWinterSale-Promobox-D11-EN.png",
+					"text": "Save on select packs and tents to get your summer setup dialed now. Select styles ends Jan 31.",
+					"cta": "Shop MEC camp deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h79/h21/10100645298206/052-SnowShop2-D4-Promobox-EN.jpg",
+					"text": "Snowshoes and ski gear for backcountry and cross-country now in stock.",
+					"cta": "Shop snowsports"
+				}
+			]
 		}
 	}
 }
