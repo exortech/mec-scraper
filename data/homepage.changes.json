@@ -6557,6 +6557,18 @@
 					"cta": "Shop snowsports deals"
 				}
 			]
+		},
+		"1642790093603": {
+			"ts": 1642790093603,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h62/h24/10100649361438/21-054-TheDeepWinterSale-Promobox-D10-EN.png",
+					"text": "Save on parkas and raincoats from MEC, Indyeva, Arc’teryx and more. Because T-shirt weather is months away. ",
+					"cta": "Shop outerwear deals"
+				}
+			]
 		}
 	}
 }

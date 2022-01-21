@@ -756,5 +756,6 @@
 | 1/20/2022, 10:35:25 AM | **New Promo #4:** Shop snowsports - Snowshoes and ski gear for backcountry and cross-country now in stock. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h79/h21/10100645298206/052-SnowShop2-D4-Promobox-EN.jpg' width='200' /> |
 | 1/20/2022, 11:27:57 AM | **New Promo #1:** Shop The North Face deals - Our top picks for slick streets and snowy places. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png' width='200' /> |
 | 1/20/2022, 11:27:57 AM | **New Promo #2:** Shop snowsports deals - Grab great deals on skis and snowsports while they last.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h72/h92/10100647690270/MicrosoftTeams-image-21-.png' width='200' /> |
+| 1/21/2022, 10:34:53 AM | **New Promo #3:** Shop outerwear deals - Save on parkas and raincoats from MEC, Indyeva, Arc’teryx and more. Because T-shirt weather is months away.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h62/h24/10100649361438/21-054-TheDeepWinterSale-Promobox-D10-EN.png' width='200' /> |
 
 [Back to main page](index.md)
