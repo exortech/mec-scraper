@@ -6569,6 +6569,15 @@
 					"cta": "Shop outerwear deals"
 				}
 			]
+		},
+		"1643116062319": {
+			"ts": 1643116062319,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h35/h89/10101704687646/MicrosoftTeams-image-25-.png?w=800&h=800&auto=format&q=60",
+				"headline": "MEC Apex Collection",
+				"tagline": "Mountain classics, reimagined. Meet our new backcountry ski touring system for deep days and human-powered adventures."
+			},
+			"promos": []
 		}
 	}
 }
