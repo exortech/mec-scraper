@@ -6578,6 +6578,24 @@
 				"tagline": "Mountain classics, reimagined. Meet our new backcountry ski touring system for deep days and human-powered adventures."
 			},
 			"promos": []
+		},
+		"1643150420266": {
+			"ts": 1643150420266,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h72/h92/10100647690270/MicrosoftTeams-image-21-.png",
+					"text": "Grab great deals on skis and snowsports while they last. ",
+					"cta": "Shop snowsports deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h78/he3/10100642512926/21-054-TheDeepWinterSale-Promobox-D4-EN.png",
+					"text": "Our top picks for slick streets and snowy places.",
+					"cta": "Shop The North Face deals"
+				}
+			]
 		}
 	}
 }
