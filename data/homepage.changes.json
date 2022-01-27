@@ -6596,6 +6596,30 @@
 					"cta": "Shop The North Face deals"
 				}
 			]
+		},
+		"1643302199741": {
+			"ts": 1643302199741,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h62/h24/10100649361438/21-054-TheDeepWinterSale-Promobox-D10-EN.png",
+					"text": "Save on parkas and raincoats from MEC, Indyeva, Arc’teryx and more. Because T-shirt weather is months away. ",
+					"cta": "Shop outerwear deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h35/hd3/10101709275166/21-054-TheDeepWinterSale-Promobox-D17-EN.jpg",
+					"text": "Select styles are on sale and ready to stomp through snowdrifts.",
+					"cta": "Shop winter footwear"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd8/h47/10101709406238/21-054-TheDeepWinterSale-Promobox-D16-EN.jpg",
+					"text": "The forecast includes increasing savings and warm, dry kids all day.",
+					"cta": "Shop kids’ deals"
+				}
+			]
 		}
 	}
 }
