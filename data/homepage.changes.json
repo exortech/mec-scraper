@@ -6632,6 +6632,18 @@
 					"cta": "Shop snowsports deals"
 				}
 			]
+		},
+		"1643671798376": {
+			"ts": 1643671798376,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h49/hb0/10101715238942/053-GarminLaunch-D1-promobox-EN-opt02.jpg",
+					"text": "The latest Fenix 7 and Epix watches are here. See why everyone’s excited.",
+					"cta": "Shop Garmin"
+				}
+			]
 		}
 	}
 }

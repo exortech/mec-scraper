@@ -764,5 +764,6 @@
 | 1/27/2022, 8:49:59 AM | **New Promo #3:** Shop winter footwear - Select styles are on sale and ready to stomp through snowdrifts. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h35/hd3/10101709275166/21-054-TheDeepWinterSale-Promobox-D17-EN.jpg' width='200' /> |
 | 1/27/2022, 8:49:59 AM | **New Promo #4:** Shop kids’ deals - The forecast includes increasing savings and warm, dry kids all day. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd8/h47/10101709406238/21-054-TheDeepWinterSale-Promobox-D16-EN.jpg' width='200' /> |
 | 1/28/2022, 6:10:56 AM | **New Promo #1:** Shop snowsports deals - Grab great deals on snowsports gear and winter accessories while they last. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h72/h92/10100647690270/MicrosoftTeams-image-21-.png' width='200' /> |
+| 1/31/2022, 3:29:58 PM | **New Promo #4:** Shop Garmin - The latest Fenix 7 and Epix watches are here. See why everyone’s excited. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h49/hb0/10101715238942/053-GarminLaunch-D1-promobox-EN-opt02.jpg' width='200' /> |
 
 [Back to main page](index.md)
