@@ -6644,6 +6644,18 @@
 					"cta": "Shop Garmin"
 				}
 			]
+		},
+		"1643824455290": {
+			"ts": 1643824455290,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h90/hbd/10101718843422/053-GarminLaunch-D3-promobox-EN.jpg",
+					"text": "Fresh from Garmin: inReach Mini 2, plus new Fenix 7 watches.",
+					"cta": "Shop Garmin"
+				}
+			]
 		}
 	}
 }
