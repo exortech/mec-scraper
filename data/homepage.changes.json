@@ -6689,6 +6689,15 @@
 				"tagline": "We’re keeping it fresh with great finds from top brands. Speed is your friend here."
 			},
 			"promos": []
+		},
+		"1643929799231": {
+			"ts": 1643929799231,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h9f/h2c/10100642316318/21-054-TheDeepWinterSale-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Fresh gear added",
+				"tagline": "A flurry of new deals. It’s game on for great end-of-season savings."
+			},
+			"promos": []
 		}
 	}
 }
