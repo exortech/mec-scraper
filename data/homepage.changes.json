@@ -6680,6 +6680,15 @@
 					"cta": "Shop outerwear deals"
 				}
 			]
+		},
+		"1643909245546": {
+			"ts": 1643909245546,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h9f/h2c/10100642316318/21-054-TheDeepWinterSale-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "700 + new deals",
+				"tagline": "We’re keeping it fresh with great finds from top brands. Speed is your friend here."
+			},
+			"promos": []
 		}
 	}
 }
