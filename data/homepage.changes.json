@@ -6890,6 +6890,18 @@
 					"cta": "Shop camp deals"
 				}
 			]
+		},
+		"1643973510920": {
+			"ts": 1643973510920,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h9e/h6c/10101725265950/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg",
+					"text": "Save on packs, sleeping gear and camp kitchen supplies to dial your setup.",
+					"cta": "Shop camp deals"
+				}
+			]
 		}
 	}
 }
