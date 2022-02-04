@@ -773,5 +773,6 @@
 | 2/3/2022, 3:09:59 PM | **New Hero:** Fresh gear added - A flurry of new deals. It’s game on for great end-of-season savings. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h9f/h2c/10100642316318/21-054-TheDeepWinterSale-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 2/3/2022, 8:54:12 PM | **New Promo #2:** Shop camp deals - Save on packs, sleeping gear and camp kitchen supplies to dial your setup. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/h6c/10101725265950/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
 | 2/3/2022, 9:09:24 PM | **New Promo #2:** Shop camp deals - Save on select packs and tents to get your summer setup dialed now. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h33/hd6/10101719957534/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
+| 2/3/2022, 9:20:16 PM | **New Promo #2:** Shop camp deals - Save on packs, sleeping gear and camp kitchen supplies to dial your setup. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/h6c/10101725265950/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
