@@ -792,5 +792,6 @@
 | 2/4/2022, 5:10:54 AM | **New Promo #2:** Shop camp deals - Save on packs, sleeping gear and camp kitchen supplies to dial your setup. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/h6c/10101725265950/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
 | 2/4/2022, 5:22:18 AM | **New Promo #2:** Shop camp deals - Save on select packs and tents to get your summer setup dialed now. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h33/hd6/10101719957534/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
 | 2/4/2022, 5:44:21 AM | **New Promo #2:** Shop camp deals - Save on packs, sleeping gear and camp kitchen supplies to dial your setup. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h9e/h6c/10101725265950/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
+| 2/4/2022, 6:09:36 AM | **New Promo #2:** Shop camp deals - Save on select packs and tents to get your summer setup dialed now. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h33/hd6/10101719957534/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
