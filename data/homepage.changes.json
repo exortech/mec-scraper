@@ -6734,6 +6734,18 @@
 					"cta": "Shop camp deals"
 				}
 			]
+		},
+		"1643952486209": {
+			"ts": 1643952486209,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h33/hd6/10101719957534/21-054-TheDeepWinterSale-Promobox-D15-EN.jpg",
+					"text": "Save on select packs and tents to get your summer setup dialed now.",
+					"cta": "Shop camp deals"
+				}
+			]
 		}
 	}
 }
