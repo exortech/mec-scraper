@@ -803,5 +803,6 @@
 | 2/10/2022, 6:10:53 AM | **New Promo #3:** Shop outerwear deals - Save on parkas and raincoats from MEC, Indyeva, Arc’teryx and more. Because T-shirt weather is months away.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h62/h24/10100649361438/21-054-TheDeepWinterSale-Promobox-D10-EN.png' width='200' /> |
 | 2/10/2022, 6:10:53 AM | **New Promo #4:** Shop kids’ deals - The forecast includes increasing savings and warm, dry kids all day. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd8/h47/10101709406238/21-054-TheDeepWinterSale-Promobox-D16-EN.jpg' width='200' /> |
 | 2/17/2022, 8:47:26 AM | **New Hero:** Dig in - Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h00/ha2/10105375948830/22-012-FebruaryClearance-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
+| 2/17/2022, 9:25:25 AM | **New Hero:** 1400+ fresh deals - Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h00/ha2/10105375948830/22-012-FebruaryClearance-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
