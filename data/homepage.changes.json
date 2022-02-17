@@ -7064,6 +7064,36 @@
 				"tagline": "Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast."
 			},
 			"promos": []
+		},
+		"1645130158752": {
+			"ts": 1645130158752,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he5/h85/10105381027870/21-012-FebruaryClearance-Promobox-D4-EN.jpg",
+					"text": "Step into savings from Keen, Timberland and Salomon. Winter boots, hikers, runners and kids’ styles too.",
+					"cta": "Shop footwear deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf4/h9d/10105381290014/21-012-FebruaryClearance-Promobox-D5-EN.jpg",
+					"text": "Whoa. Stock up and save your socks off.",
+					"cta": "Shop sock special"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h63/he8/10105381158942/21-012-FebruaryClearance-Promobox-D7-EN.jpg",
+					"text": "Stay dry, keep warm, and save a few bucks to splurge on the fancy trail mix.",
+					"cta": "Shop MEC deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+					"text": "Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.  ",
+					"cta": "See what’s new"
+				}
+			]
 		}
 	}
 }

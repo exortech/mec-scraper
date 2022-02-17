@@ -7,27 +7,27 @@
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
-			"text": "Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.  ",
-			"cta": "See what’s new"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he5/h85/10105381027870/21-012-FebruaryClearance-Promobox-D4-EN.jpg",
+			"text": "Step into savings from Keen, Timberland and Salomon. Winter boots, hikers, runners and kids’ styles too.",
+			"cta": "Shop footwear deals"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf9/hc3/10101730541598/026-FamilyDay-D1-Promobox-EN.jpg",
-			"text": "Get set to chase sunny breaks and gear up for weekend escapes.  ",
-			"cta": "Winter weekends collection"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf4/h9d/10105381290014/21-012-FebruaryClearance-Promobox-D5-EN.jpg",
+			"text": "Whoa. Stock up and save your socks off.",
+			"cta": "Shop sock special"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h62/h24/10100649361438/21-054-TheDeepWinterSale-Promobox-D10-EN.png",
-			"text": "Save on parkas and raincoats from MEC, Indyeva, Arc’teryx and more. Because T-shirt weather is months away. ",
-			"cta": "Shop outerwear deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h63/he8/10105381158942/21-012-FebruaryClearance-Promobox-D7-EN.jpg",
+			"text": "Stay dry, keep warm, and save a few bucks to splurge on the fancy trail mix.",
+			"cta": "Shop MEC deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd8/h47/10101709406238/21-054-TheDeepWinterSale-Promobox-D16-EN.jpg",
-			"text": "The forecast includes increasing savings and warm, dry kids all day.",
-			"cta": "Shop kids’ deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+			"text": "Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.  ",
+			"cta": "See what’s new"
 		}
 	]
 }
