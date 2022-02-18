@@ -810,5 +810,6 @@
 | 2/17/2022, 12:35:58 PM | **New Promo #4:** See what’s new - Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
 | 2/18/2022, 6:54:16 AM | **New Hero:** 1400+ fresh deals - Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hae/h00/10105381421086/22-012-FebruaryClearance-Homepage-D1-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 2/18/2022, 7:45:59 AM | **New Hero:** 1400+ fresh deals - Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h00/ha2/10105375948830/22-012-FebruaryClearance-Homepage-D1-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
+| 2/18/2022, 7:54:59 AM | **New Hero:** 1400+ fresh deals - Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hae/h00/10105381421086/22-012-FebruaryClearance-Homepage-D1-EN.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
