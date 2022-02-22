@@ -7472,6 +7472,18 @@
 				"tagline": "Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast."
 			},
 			"promos": []
+		},
+		"1645561846518": {
+			"ts": 1645561846518,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png",
+					"text": "Now’s your chance. Deals on Patagonia, The North Face, Houdini + more. ",
+					"cta": "Shop outerwear deals"
+				}
+			]
 		}
 	}
 }
