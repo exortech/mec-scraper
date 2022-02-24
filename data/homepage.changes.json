@@ -7484,6 +7484,30 @@
 					"cta": "Shop outerwear deals"
 				}
 			]
+		},
+		"1645717596621": {
+			"ts": 1645717596621,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png",
+					"text": "Now’s your chance. Deals on Patagonia, The North Face, Houdini + more. ",
+					"cta": "Shop outerwear deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hd8/h4a/10105390071838/21-012-FebruaryClearance-Promobox-D8-EN.jpg",
+					"text": "Glide-worthy layers from B Daehlie, Craft, Salomon and more.",
+					"cta": "Shop Nordic deals"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h1a/h65/10105389809694/21-001-Rain-D4-Promobox-MEC-Label-rainwear-EN.jpg",
+					"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+					"cta": "Shop MEC Label rainwear"
+				}
+			]
 		}
 	}
 }
