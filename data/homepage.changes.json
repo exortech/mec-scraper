@@ -7520,6 +7520,18 @@
 					"cta": "Shop outerwear deals"
 				}
 			]
+		},
+		"1645814190806": {
+			"ts": 1645814190806,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha1/hd8/10105395806238/21-004-HikeSpring-D1-Promobox-HikeFootwear-EN.jpg",
+					"text": "Find the perfect footwear for a few hours of hiking or a long-distance mission. ",
+					"cta": "Shop hiking boots and shoes"
+				}
+			]
 		}
 	}
 }
