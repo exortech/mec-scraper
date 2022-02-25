@@ -854,5 +854,6 @@
 | 2/24/2022, 7:46:36 AM | **New Promo #1:** Shop outerwear deals - Now’s your chance. Deals on Patagonia, The North Face, Houdini + more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png' width='200' /> |
 | 2/24/2022, 7:46:36 AM | **New Promo #2:** Shop Nordic deals - Glide-worthy layers from B Daehlie, Craft, Salomon and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hd8/h4a/10105390071838/21-012-FebruaryClearance-Promobox-D8-EN.jpg' width='200' /> |
 | 2/24/2022, 7:46:36 AM | **New Promo #3:** Shop MEC Label rainwear - Technical fabrics made to hike in the rain or pedal through puddles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1a/h65/10105389809694/21-001-Rain-D4-Promobox-MEC-Label-rainwear-EN.jpg' width='200' /> |
+| 2/25/2022, 6:11:37 AM | **New Promo #1:** Shop outerwear deals - Now’s your chance. Deals on Patagonia, Salomon, The North Face + more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png' width='200' /> |
 
 [Back to main page](index.md)
