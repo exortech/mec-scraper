@@ -7532,6 +7532,18 @@
 					"cta": "Shop hiking boots and shoes"
 				}
 			]
+		},
+		"1645884738861": {
+			"ts": 1645884738861,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h0f/10105396723742/22-001-Rain-D4-Promobox-MEC-Label-rainwear-ENv1.jpg",
+					"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+					"cta": "Shop MEC Label rainwear"
+				}
+			]
 		}
 	}
 }
