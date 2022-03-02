@@ -7544,6 +7544,18 @@
 					"cta": "Shop MEC Label rainwear"
 				}
 			]
+		},
+		"1646239652066": {
+			"ts": 1646239652066,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0b/h60/10105400098846/21-012-FebruaryClearance-Promobox-D10-EN.jpg",
+					"text": "Deals from great ski brands: Salomon, Atomic, K2 and ZAG Skis. Act fast and pickup new sticks.",
+					"cta": "Shop snowsport deals"
+				}
+			]
 		}
 	}
 }
