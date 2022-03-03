@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/hde/h13/10105383190558/22-012-FebruaryClearance-Homepage-D1-ENv1.jpg?w=800&h=800&auto=format&q=60",
-		"headline": "1400+ fresh deals",
-		"tagline": "Our steepest winter savings. Uncover plenty of gems from 150+ brands we love, all going fast."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h4b/h28/10105401016350/004-HikeRun-Homepage-D2.png?w=800&h=800&auto=format&q=60",
+		"headline": "New gear for new views",
+		"tagline": "Hiking essentials for an early season walk in the woods and exploring trails all year long."
 	},
 	"promos": [
 		{
 			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg",
+			"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+			"cta": "Shop waterproof collection"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha1/hd8/10105395806238/21-004-HikeSpring-D1-Promobox-HikeFootwear-EN.jpg",
+			"text": "Find the perfect footwear for a few hours of hiking or a long-distance mission. ",
+			"cta": "Shop hiking boots and shoes"
+		},
+		{
+			"idx": 2,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png",
 			"text": "Now’s your chance. Deals on Patagonia, Salomon, The North Face + more.",
 			"cta": "Shop outerwear deals"
 		},
 		{
-			"idx": 1,
+			"idx": 3,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0b/h60/10105400098846/21-012-FebruaryClearance-Promobox-D10-EN.jpg",
 			"text": "Deals from great ski brands: Salomon, Atomic, K2 and ZAG Skis. Act fast and pickup new sticks.",
 			"cta": "Shop snowsport deals"
-		},
-		{
-			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h0f/10105396723742/22-001-Rain-D4-Promobox-MEC-Label-rainwear-ENv1.jpg",
-			"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
-			"cta": "Shop MEC Label rainwear"
-		},
-		{
-			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/ha1/hd8/10105395806238/21-004-HikeSpring-D1-Promobox-HikeFootwear-EN.jpg",
-			"text": "Find the perfect footwear for a few hours of hiking or a long-distance mission. ",
-			"cta": "Shop hiking boots and shoes"
 		}
 	]
 }
