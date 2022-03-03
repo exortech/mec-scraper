@@ -863,5 +863,6 @@
 | 3/3/2022, 7:46:51 AM | **New Promo #2:** Shop hiking boots and shoes - Find the perfect footwear for a few hours of hiking or a long-distance mission.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/ha1/hd8/10105395806238/21-004-HikeSpring-D1-Promobox-HikeFootwear-EN.jpg' width='200' /> |
 | 3/3/2022, 7:46:51 AM | **New Promo #3:** Shop outerwear deals - Now’s your chance. Deals on Patagonia, Salomon, The North Face + more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h52/hed/10105386500126/21-012-FebruaryClearance-Promobox-D3-ENv1.png' width='200' /> |
 | 3/3/2022, 7:46:51 AM | **New Promo #4:** Shop snowsport deals - Deals from great ski brands: Salomon, Atomic, K2 and ZAG Skis. Act fast and pickup new sticks. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0b/h60/10105400098846/21-012-FebruaryClearance-Promobox-D10-EN.jpg' width='200' /> |
+| 3/3/2022, 11:35:07 AM | **New Promo #3:** Shop new gear - Hot gear for warming days. Get a first look at the latest camping gear, cycling kit and spring footwear. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h17/h18/10105402195998/006-NewGear-D7-Promobox-EN.png' width='200' /> |
 
 [Back to main page](index.md)
