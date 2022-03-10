@@ -7674,6 +7674,18 @@
 					"cta": "See what’s new"
 				}
 			]
+		},
+		"1646942069472": {
+			"ts": 1646942069472,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+					"text": "Just in. Top picks from MEC, Hydro Flask, Outdoor Research, Sea To Summit and Scarpa for hiking trails and sleeping under stars. ",
+					"cta": "See what’s new"
+				}
+			]
 		}
 	}
 }
