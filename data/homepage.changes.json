@@ -7602,6 +7602,30 @@
 					"cta": "Shop new gear"
 				}
 			]
+		},
+		"1646929084894": {
+			"ts": 1646929084894,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h67/hfc/10108650323998/21-004-Rain-D4-Promobox-RunCollection-EN.jpg",
+					"text": "Find your rhythm with new running tech and layers that wick, stretch and support your stride. ",
+					"cta": "Shop run collection"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg",
+					"text": "Crank up your training routine and prepare for dry rock and sending weather.",
+					"cta": "Shop climbing"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+					"text": "Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.  ",
+					"cta": "See what’s new"
+				}
+			]
 		}
 	}
 }
