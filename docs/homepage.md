@@ -867,5 +867,6 @@
 | 3/10/2022, 8:18:04 AM | **New Promo #2:** Shop run collection - Find your rhythm with new running tech and layers that wick, stretch and support your stride.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h67/hfc/10108650323998/21-004-Rain-D4-Promobox-RunCollection-EN.jpg' width='200' /> |
 | 3/10/2022, 8:18:04 AM | **New Promo #3:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
 | 3/10/2022, 8:18:04 AM | **New Promo #4:** See what’s new - Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
+| 3/10/2022, 10:48:50 AM | **New Promo #4:** See what’s new - Just in. Top picks from MEC, Hydro Flask, Outdoor Research, Sea To Summit and Scarpa for hiking trails and sleeping under stars.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
