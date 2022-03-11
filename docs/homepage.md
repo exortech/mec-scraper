@@ -908,5 +908,6 @@
 | 3/11/2022, 3:34:48 AM | **New Promo #4:** See what’s new - Just in. Top picks from MEC, Hydro Flask, Outdoor Research, Sea To Summit and Scarpa for hiking trails and sleeping under stars.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
 | 3/11/2022, 3:44:07 AM | **New Promo #4:** See what’s new - Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
 | 3/11/2022, 4:21:03 AM | **New Promo #4:** See what’s new - Just in. Top picks from MEC, Hydro Flask, Outdoor Research, Sea To Summit and Scarpa for hiking trails and sleeping under stars.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
+| 3/11/2022, 4:51:22 AM | **New Promo #4:** See what’s new - Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
