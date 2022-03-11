@@ -8094,6 +8094,18 @@
 					"cta": "See what’s new"
 				}
 			]
+		},
+		"1646999047882": {
+			"ts": 1646999047882,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+					"text": "Just in. Top picks from Marmot, Exped and Big Agnes for hiking trails and sleeping under stars.  ",
+					"cta": "See what’s new"
+				}
+			]
 		}
 	}
 }
