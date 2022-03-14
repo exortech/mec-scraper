@@ -1,0 +1,33 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h4b/h28/10105401016350/004-HikeRun-Homepage-D2.png?w=800&h=800&auto=format&q=60",
+		"headline": "New gear for new views",
+		"tagline": "Hiking essentials for an early season walk in the woods and exploring trails all year long."
+	},
+	"promos": [
+		{
+			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg",
+			"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+			"cta": "Shop waterproof collection"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h67/hfc/10108650323998/21-004-Rain-D4-Promobox-RunCollection-EN.jpg",
+			"text": "Find your rhythm with new running tech and layers that wick, stretch and support your stride. ",
+			"cta": "Shop run collection"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg",
+			"text": "Crank up your training routine and prepare for dry rock and sending weather.",
+			"cta": "Shop climbing"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hf1/h2f/10101730672670/006-NewGear-D1-Promobox-EN.jpg",
+			"text": "Just in. Top picks from MEC, Hydro Flask, Outdoor Research, Sea To Summit and Scarpa for hiking trails and sleeping under stars. ",
+			"cta": "See what’s new"
+		}
+	]
+}
