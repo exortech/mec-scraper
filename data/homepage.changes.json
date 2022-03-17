@@ -8272,6 +8272,22 @@
 					"cta": "Shop climbing"
 				}
 			]
+		},
+		"1647535709079": {
+			"ts": 1647535709079,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h4b/h28/10105401016350/004-HikeRun-Homepage-D2.png?w=800&h=800&auto=format&q=60",
+				"headline": "New gear for new views",
+				"tagline": "Hiking essentials for an early season walk in the woods and exploring trails all year long."
+			},
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h61/h0f/10105396723742/22-001-Rain-D4-Promobox-MEC-Label-rainwear-ENv1.jpg",
+					"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+					"cta": "Shop MEC Label rainwear"
+				}
+			]
 		}
 	}
 }

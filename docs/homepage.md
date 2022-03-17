@@ -923,5 +923,7 @@
 | 3/17/2022, 8:42:17 AM | **New Promo #2:** Shop waterproof collection - Technical fabrics made to hike in the rain or pedal through puddles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg' width='200' /> |
 | 3/17/2022, 8:42:17 AM | **New Promo #3:** Shop run collection - Find your rhythm with new running tech and layers that wick, stretch and support your stride.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h67/hfc/10108650323998/21-004-Rain-D4-Promobox-RunCollection-EN.jpg' width='200' /> |
 | 3/17/2022, 8:42:17 AM | **New Promo #4:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
+| 3/17/2022, 9:48:29 AM | **New Hero:** New gear for new views - Hiking essentials for an early season walk in the woods and exploring trails all year long. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h4b/h28/10105401016350/004-HikeRun-Homepage-D2.png?w=800&h=800&auto=format&q=60' width='200' /> |
+| 3/17/2022, 9:48:29 AM | **New Promo #2:** Shop MEC Label rainwear - Technical fabrics made to hike in the rain or pedal through puddles. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h61/h0f/10105396723742/22-001-Rain-D4-Promobox-MEC-Label-rainwear-ENv1.jpg' width='200' /> |
 
 [Back to main page](index.md)
