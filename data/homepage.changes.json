@@ -8238,6 +8238,40 @@
 					"cta": "See what’s new"
 				}
 			]
+		},
+		"1647531737811": {
+			"ts": 1647531737811,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h6c/h12/10108662775838/006-NewGear-D7-Homepage.png?w=800&h=800&auto=format&q=60",
+				"headline": "New gear in the forecast",
+				"tagline": "Hot gear for warming days. Get a first look at the latest camping gear, cycling kit and spring footwear."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h64/h7b/10108661399582/21-012-ClearanceCabin-Promobox-D14-EN-V1.jpg",
+					"text": "The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more. ",
+					"cta": "Dig the deals"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg",
+					"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+					"cta": "Shop waterproof collection"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h67/hfc/10108650323998/21-004-Rain-D4-Promobox-RunCollection-EN.jpg",
+					"text": "Find your rhythm with new running tech and layers that wick, stretch and support your stride. ",
+					"cta": "Shop run collection"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg",
+					"text": "Crank up your training routine and prepare for dry rock and sending weather.",
+					"cta": "Shop climbing"
+				}
+			]
 		}
 	}
 }
