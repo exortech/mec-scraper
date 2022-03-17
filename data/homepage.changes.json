@@ -8288,6 +8288,18 @@
 					"cta": "Shop MEC Label rainwear"
 				}
 			]
+		},
+		"1647542958783": {
+			"ts": 1647542958783,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h45/he6/10108662841374/21-003-Climb-D2-Promobox-EN.jpg",
+					"text": "Harnesses, chalk bags and wearable rock shoes, find climbing gear to get started climbing indoors.",
+					"cta": "Shop indoor climb"
+				}
+			]
 		}
 	}
 }
