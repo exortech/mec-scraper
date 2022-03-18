@@ -8570,6 +8570,18 @@
 					"cta": "Dig the deals"
 				}
 			]
+		},
+		"1647629353614": {
+			"ts": 1647629353614,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h4a/ha2/10108672245790/22-002-Bike-D1-Promobox-EN.jpg",
+					"text": "Breeze through traffic and commute in style. Find lights, fenders, racks plus ultra-reflective clothing.",
+					"cta": "Shop commuter cycling"
+				}
+			]
 		}
 	}
 }
