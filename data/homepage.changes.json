@@ -8546,6 +8546,18 @@
 					"cta": "Dig the deals"
 				}
 			]
+		},
+		"1647616401126": {
+			"ts": 1647616401126,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h64/h7b/10108661399582/21-012-ClearanceCabin-Promobox-D14-EN-V1.jpg",
+					"text": "The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more. ",
+					"cta": "Dig the deals"
+				}
+			]
 		}
 	}
 }
