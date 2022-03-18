@@ -8372,6 +8372,18 @@
 					"cta": "Shop indoor climb"
 				}
 			]
+		},
+		"1647578472461": {
+			"ts": 1647578472461,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg",
+					"text": "Crank up your training routine and prepare for dry rock and sending weather.",
+					"cta": "Shop climbing"
+				}
+			]
 		}
 	}
 }
