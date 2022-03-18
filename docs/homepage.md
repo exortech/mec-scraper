@@ -943,5 +943,7 @@
 | 3/18/2022, 6:18:55 AM | **New Promo #4:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
 | 3/18/2022, 6:34:40 AM | **New Promo #4:** Shop indoor climb - Harnesses, chalk bags and wearable rock shoes, find climbing gear to get started climbing indoors. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h45/he6/10108662841374/21-003-Climb-D2-Promobox-EN.jpg' width='200' /> |
 | 3/18/2022, 6:44:10 AM | **New Promo #4:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
+| 3/18/2022, 7:12:21 AM | **New Promo #1:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h07/h3a/10108666118174/21-012-ClearanceCabin-Promobox-D14-EN-V1-1.jpg' width='200' /> |
+| 3/18/2022, 7:12:21 AM | **New Promo #4:** Shop indoor climb - Harnesses, chalk bags and wearable rock shoes, find climbing gear to get started climbing indoors. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h45/he6/10108662841374/21-003-Climb-D2-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
