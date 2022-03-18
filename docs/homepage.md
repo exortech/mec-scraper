@@ -951,5 +951,6 @@
 | 3/18/2022, 8:34:04 AM | **New Promo #1:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h07/h3a/10108666118174/21-012-ClearanceCabin-Promobox-D14-EN-V1-1.jpg' width='200' /> |
 | 3/18/2022, 11:49:13 AM | **New Promo #3:** Shop commuter cycling - Breeze through traffic and commute in style. Find lights, fenders, racks plus ultra-reflective clothing. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h4a/ha2/10108672245790/22-002-Bike-D1-Promobox-EN.jpg' width='200' /> |
 | 3/18/2022, 11:57:03 AM | **New Promo #1:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h43/hce/10108671197214/21-012-ClearanceCabin-Promobox-D14-EN-V1-1bop.jpg' width='200' /> |
+| 3/18/2022, 12:11:28 PM | **New Promo #1:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h07/h3a/10108666118174/21-012-ClearanceCabin-Promobox-D14-EN-V1-1.jpg' width='200' /> |
 
 [Back to main page](index.md)
