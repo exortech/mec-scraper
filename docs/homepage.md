@@ -941,5 +941,6 @@
 | 3/18/2022, 4:25:08 AM | **New Promo #4:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
 | 3/18/2022, 5:21:25 AM | **New Promo #4:** Shop indoor climb - Harnesses, chalk bags and wearable rock shoes, find climbing gear to get started climbing indoors. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h45/he6/10108662841374/21-003-Climb-D2-Promobox-EN.jpg' width='200' /> |
 | 3/18/2022, 6:18:55 AM | **New Promo #4:** Shop climbing - Crank up your training routine and prepare for dry rock and sending weather. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb2/hd0/10108651405342/21-003-Climb-D1-Promobox-EN.jpg' width='200' /> |
+| 3/18/2022, 6:34:40 AM | **New Promo #4:** Shop indoor climb - Harnesses, chalk bags and wearable rock shoes, find climbing gear to get started climbing indoors. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h45/he6/10108662841374/21-003-Climb-D2-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
