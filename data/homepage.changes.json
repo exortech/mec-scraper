@@ -8642,6 +8642,40 @@
 					"cta": "Dig the deals"
 				}
 			]
+		},
+		"1648134851546": {
+			"ts": 1648134851546,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/hfb/h33/10112286720030/0021-004-Hike-D13-PLPHeader.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Hiking gear that leads the way",
+				"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg",
+					"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+					"cta": "Shop waterproof collection"
+				},
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h4a/ha2/10108672245790/22-002-Bike-D1-Promobox-EN.jpg",
+					"text": "Breeze through traffic and commute in style. Find lights, fenders, racks plus ultra-reflective clothing.",
+					"cta": "Shop commuter cycling"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h1e/hae/10112286785566/21-003-Climb-D3-Promobox-EN.jpg",
+					"text": "Get your gear selections dialed early and increase your chances of success.",
+					"cta": "Shop alpine and ice climbing"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h43/hce/10108671197214/21-012-ClearanceCabin-Promobox-D14-EN-V1-1bop.jpg",
+					"text": "The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more. ",
+					"cta": "Dig the deals"
+				}
+			]
 		}
 	}
 }
