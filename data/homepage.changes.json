@@ -8715,6 +8715,18 @@
 				"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
 			},
 			"promos": []
+		},
+		"1648248859979": {
+			"ts": 1648248859979,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg",
+					"text": "Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures.",
+					"cta": "Shop travel gear"
+				}
+			]
 		}
 	}
 }
