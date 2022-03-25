@@ -8694,6 +8694,18 @@
 				"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
 			},
 			"promos": []
+		},
+		"1648219560946": {
+			"ts": 1648219560946,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 1,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc3/h94/10112292978718/22-002-Bike-D3-Promobox-EN.jpg",
+					"text": "Outfit you and your bike for touring and long-distance exploring.",
+					"cta": "Shop cycle touring"
+				}
+			]
 		}
 	}
 }

@@ -962,5 +962,6 @@
 | 3/24/2022, 8:14:11 AM | **New Promo #4:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h43/hce/10108671197214/21-012-ClearanceCabin-Promobox-D14-EN-V1-1bop.jpg' width='200' /> |
 | 3/25/2022, 6:38:37 AM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/25/2022, 7:29:03 AM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hfb/h33/10112286720030/0021-004-Hike-D13-PLPHeader.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 3/25/2022, 7:46:00 AM | **New Promo #2:** Shop cycle touring - Outfit you and your bike for touring and long-distance exploring. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc3/h94/10112292978718/22-002-Bike-D3-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
