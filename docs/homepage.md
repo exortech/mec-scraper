@@ -960,5 +960,6 @@
 | 3/24/2022, 8:14:11 AM | **New Promo #2:** Shop commuter cycling - Breeze through traffic and commute in style. Find lights, fenders, racks plus ultra-reflective clothing. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h4a/ha2/10108672245790/22-002-Bike-D1-Promobox-EN.jpg' width='200' /> |
 | 3/24/2022, 8:14:11 AM | **New Promo #3:** Shop alpine and ice climbing - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1e/hae/10112286785566/21-003-Climb-D3-Promobox-EN.jpg' width='200' /> |
 | 3/24/2022, 8:14:11 AM | **New Promo #4:** Dig the deals - The little home of big deals is open and full of deep discounts on Arc’teryx, Patagonia, The North Face and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h43/hce/10108671197214/21-012-ClearanceCabin-Promobox-D14-EN-V1-1bop.jpg' width='200' /> |
+| 3/25/2022, 6:38:37 AM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
