@@ -967,5 +967,6 @@
 | 3/25/2022, 3:54:19 PM | **New Promo #4:** Shop travel gear - Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg' width='200' /> |
 | 3/28/2022, 12:44:18 PM | **New Promo #3:** Shop travel gear - Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg' width='200' /> |
 | 3/28/2022, 12:44:18 PM | **New Promo #4:** Shop alpine and ice climbing - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1e/hae/10112286785566/21-003-Climb-D3-Promobox-EN.jpg' width='200' /> |
+| 3/28/2022, 3:54:08 PM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hd9/he2/10112295239710/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
