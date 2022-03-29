@@ -1,0 +1,33 @@
+{
+	"hero": {
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60",
+		"headline": "Hiking gear that leads the way",
+		"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
+	},
+	"promos": [
+		{
+			"idx": 0,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/haa/h4c/10105401638942/22-001-Rain-D7-Promobox-Rainwear-collection-EN.jpg",
+			"text": "Technical fabrics made to hike in the rain or pedal through puddles.",
+			"cta": "Shop waterproof collection"
+		},
+		{
+			"idx": 1,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc3/h94/10112292978718/22-002-Bike-D3-Promobox-EN.jpg",
+			"text": "Outfit you and your bike for touring and long-distance exploring.",
+			"cta": "Shop cycle touring"
+		},
+		{
+			"idx": 2,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg",
+			"text": "Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures.",
+			"cta": "Shop travel gear"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h1e/hae/10112286785566/21-003-Climb-D3-Promobox-EN.jpg",
+			"text": "Get your gear selections dialed early and increase your chances of success.",
+			"cta": "Shop alpine and ice climbing"
+		}
+	]
+}
