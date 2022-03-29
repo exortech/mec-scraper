@@ -975,5 +975,6 @@
 | 3/28/2022, 9:56:37 PM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/28/2022, 10:13:45 PM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hd9/he2/10112295239710/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 | 3/28/2022, 10:39:00 PM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
+| 3/28/2022, 10:46:53 PM | **New Hero:** Hiking gear that leads the way - Meet our latest line-up: durable, technical and made with the earth in mind. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/hd9/he2/10112295239710/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
