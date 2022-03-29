@@ -8862,6 +8862,15 @@
 				"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
 			},
 			"promos": []
+		},
+		"1648540483096": {
+			"ts": 1648540483096,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h44/hb0/10112290717726/004-Hike-HomepageHero-D13.jpg?w=800&h=800&auto=format&q=60",
+				"headline": "Hiking gear that leads the way",
+				"tagline": "Meet our latest line-up: durable, technical and made with the earth in mind."
+			},
+			"promos": []
 		}
 	}
 }
