@@ -998,5 +998,6 @@
 | 3/31/2022, 1:54:11 PM | **New Promo #3:** Shop indoor climb - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 3:32:32 PM | **New Promo #3:** Shop indoor climb - Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 3:44:07 PM | **New Promo #3:** Shop indoor climb - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
+| 3/31/2022, 3:54:20 PM | **New Promo #3:** Shop indoor climb - Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
