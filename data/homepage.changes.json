@@ -8989,6 +8989,18 @@
 					"cta": "Shop indoor climb"
 				}
 			]
+		},
+		"1648756452922": {
+			"ts": 1648756452922,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg",
+					"text": "Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness.",
+					"cta": "Shop indoor climb"
+				}
+			]
 		}
 	}
 }
