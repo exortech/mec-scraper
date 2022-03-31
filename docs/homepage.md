@@ -995,5 +995,6 @@
 | 3/31/2022, 12:44:09 PM | **New Promo #3:** Shop indoor climb - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 12:54:12 PM | **New Promo #3:** Shop indoor climb - Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 1:32:20 PM | **New Promo #1:** Shop backcountry camping - Tents, sleeping bags and sleeping pads to stay warm as campsites thaw. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h6d/h78/10112299270174/007-Camp-D1-Promobox-EarlySeason-EN.png' width='200' /> |
+| 3/31/2022, 1:54:11 PM | **New Promo #3:** Shop indoor climb - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
