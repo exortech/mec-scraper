@@ -989,5 +989,6 @@
 | 3/31/2022, 7:56:50 AM | **New Promo #4:** Shop travel gear - Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 8:15:19 AM | **New Promo #3:** Shop indoor climb - Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 | 3/31/2022, 10:42:49 AM | **New Promo #3:** Shop indoor climb - Get your gear selections dialed early and increase your chances of success. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
+| 3/31/2022, 11:38:39 AM | **New Promo #3:** Shop indoor climb - Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
