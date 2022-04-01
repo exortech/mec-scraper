@@ -9085,6 +9085,18 @@
 					"cta": "Shop indoor climb"
 				}
 			]
+		},
+		"1648781988688": {
+			"ts": 1648781988688,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg",
+					"text": "Get your gear selections dialed early and increase your chances of success.",
+					"cta": "Shop indoor climb"
+				}
+			]
 		}
 	}
 }
