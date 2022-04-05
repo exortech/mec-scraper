@@ -19,15 +19,15 @@
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg",
-			"text": "Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness.",
-			"cta": "Shop indoor climb"
-		},
-		{
-			"idx": 3,
 			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg",
 			"text": "Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures.",
 			"cta": "Shop travel gear"
+		},
+		{
+			"idx": 3,
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hab/he8/10112297533470/21-003-Climb-D5-Promobox-EN.jpg",
+			"text": "Training session to hard redpoint, find indoor gear to hone your climbing strength and fitness.",
+			"cta": "Shop indoor climb"
 		}
 	]
 }
