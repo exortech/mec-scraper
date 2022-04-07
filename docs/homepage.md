@@ -1018,5 +1018,6 @@
 | 4/7/2022, 10:06:00 AM | **New Promo #2:** Shop trail run - Take wing with the latest trail shoes, featherweight packs and technical layers for running offroad miles.   <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hc1/h7a/10112307167262/22-RunS22-D1-PromoBox-D1-EN.jpg' width='200' /> |
 | 4/7/2022, 10:06:00 AM | **New Promo #3:** Shop Outdoor Research - Snag savings for hiking trails and sleeping out under the stars. Select items for a limited time. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h37/h4c/10112306970654/21-012-Clearance-Promobox-D15-EN.jpg' width='200' /> |
 | 4/7/2022, 10:06:00 AM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1f/h17/10112306839582/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
+| 4/7/2022, 10:28:11 AM | **New Promo #1:** Shop gear for gravel rides - Everything you need to ride remote, rugged roads. See GT carbon bike, 7Mesh clothing and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h14/h64/10112308903966/22-002-Bike-Gravel-D7-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
