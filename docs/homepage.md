@@ -1027,5 +1027,6 @@
 | 4/8/2022, 11:52:17 AM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1f/h17/10112306839582/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
 | 4/8/2022, 12:23:54 PM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h70/hbb/10112312115230/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
 | 4/8/2022, 12:44:09 PM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1f/h17/10112306839582/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
+| 4/8/2022, 12:54:08 PM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0c/h58/10112314638366/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
