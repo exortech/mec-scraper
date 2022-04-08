@@ -9349,6 +9349,18 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1649445834372": {
+			"ts": 1649445834372,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h70/hbb/10112312115230/21-012-Clearance-Promobox-D18-EN.jpg",
+					"text": "Garmin tech to stay connected, on route and on track with your training. Limited time only.",
+					"cta": "Shop Garmin deals"
+				}
+			]
 		}
 	}
 }
