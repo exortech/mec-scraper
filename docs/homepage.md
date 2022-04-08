@@ -1022,5 +1022,6 @@
 | 4/7/2022, 11:38:08 AM | **New Hero:** Billion-star accommodation - Lightweight tents and luxe sleeping systems for first-time backpackers or seasoned thru-hikers. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h7d/h64/10112310640670/007-Camp-D3-Homepage-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 4/7/2022, 2:30:11 PM | **New Hero:** Amp up your camp - Find all the latest gear to make your wildest outdoor dreams come true. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h14/h7a/10112311099422/007-Camp-D3-Homepage-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 | 4/8/2022, 9:51:44 AM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h70/hbb/10112312115230/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
+| 4/8/2022, 10:37:55 AM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h1f/h17/10112306839582/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
