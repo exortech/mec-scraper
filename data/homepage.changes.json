@@ -9301,6 +9301,18 @@
 				"tagline": "Find all the latest gear to make your wildest outdoor dreams come true."
 			},
 			"promos": []
+		},
+		"1649436704023": {
+			"ts": 1649436704023,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h70/hbb/10112312115230/21-012-Clearance-Promobox-D18-EN.jpg",
+					"text": "Garmin tech to stay connected, on route and on track with your training. Limited time only.",
+					"cta": "Shop Garmin deals"
+				}
+			]
 		}
 	}
 }
