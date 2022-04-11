@@ -9385,6 +9385,30 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1649706262020": {
+			"ts": 1649706262020,
+			"hero": null,
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg",
+					"text": "Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures.",
+					"cta": "Shop travel gear"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0c/h58/10112314638366/21-012-Clearance-Promobox-D18-EN.jpg",
+					"text": "Garmin tech to stay connected, on route and on track with your training. Limited time only.",
+					"cta": "Shop Garmin deals"
+				},
+				{
+					"idx": 3,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/h4c/10112306970654/21-012-Clearance-Promobox-D15-EN.jpg",
+					"text": "Snag savings for hiking trails and sleeping out under the stars. Select items for a limited time.",
+					"cta": "Shop Outdoor Research"
+				}
+			]
 		}
 	}
 }
