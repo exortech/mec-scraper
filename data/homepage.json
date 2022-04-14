@@ -1,33 +1,33 @@
 {
 	"hero": {
-		"img": "https://mec.imgix.net/medias/sys_master/images/images/h14/h7a/10112311099422/007-Camp-D3-Homepage-EN.png?w=800&h=800&auto=format&q=60",
-		"headline": "Amp up your camp",
-		"tagline": "Find all the latest gear to make your wildest outdoor dreams come true."
+		"img": "https://mec.imgix.net/medias/sys_master/images/images/h6c/h3e/10115241639966/036-LongWeekend-Homepagehero-D2-EN.png?w=800&h=800&auto=format&q=60",
+		"headline": "Save up to 40%",
+		"tagline": "Fast-flowing spring deals to get set for all the good long weekends ahead."
 	},
 	"promos": [
 		{
 			"idx": 0,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/he9/h0b/10112294486046/22-039-Travel-D1-Promobox-EN.jpg",
-			"text": "Convertible bags and season-spanning clothes for long-awaited trips or close-to-home adventures.",
-			"cta": "Shop travel gear"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hb6/h6f/10115239084062/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg",
+			"text": "Iconic, homegrown faves. Save on select clothing styles for men, women and kids. Ends April 20.",
+			"cta": "Shop MEC Label sale"
 		},
 		{
 			"idx": 1,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/hc1/h7a/10112307167262/22-RunS22-D1-PromoBox-D1-EN.jpg",
-			"text": "Take wing with the latest trail shoes, featherweight packs and technical layers for running offroad miles.  ",
-			"cta": "Shop trail run"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h3b/h75/10115239215134/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg",
+			"text": "Get up to 40% off Reima clothing, plus save on MEC Heritage Collection, Sunday Afternoons hats and more. ",
+			"cta": "Shop kids’ deals"
 		},
 		{
 			"idx": 2,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0c/h58/10112314638366/21-012-Clearance-Promobox-D18-EN.jpg",
-			"text": "Garmin tech to stay connected, on route and on track with your training. Limited time only.",
-			"cta": "Shop Garmin deals"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0c/hf9/10115239346206/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg",
+			"text": "Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more.",
+			"cta": "Shop camp deals"
 		},
 		{
 			"idx": 3,
-			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h37/h4c/10112306970654/21-012-Clearance-Promobox-D15-EN.jpg",
-			"text": "Snag savings for hiking trails and sleeping out under the stars. Select items for a limited time.",
-			"cta": "Shop Outdoor Research"
+			"img": "https://cdn.mec.ca/medias/sys_master/images/images/h0c/h58/10112314638366/21-012-Clearance-Promobox-D18-EN.jpg",
+			"text": "Garmin tech to stay connected, on route and on track with your training. Limited time only.",
+			"cta": "Shop Garmin deals"
 		}
 	]
 }
