@@ -9443,6 +9443,15 @@
 					"cta": "Shop Garmin deals"
 				}
 			]
+		},
+		"1649961393396": {
+			"ts": 1649961393396,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h6c/h3e/10115241639966/036-LongWeekend-Homepagehero-D2-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Save up to 40%",
+				"tagline": "Fast-flowing spring deals to get set for all the good weekends ahead."
+			},
+			"promos": []
 		}
 	}
 }

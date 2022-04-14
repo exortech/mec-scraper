@@ -1036,5 +1036,6 @@
 | 4/14/2022, 7:48:19 AM | **New Promo #2:** Shop kids’ deals - Get up to 40% off Reima clothing, plus save on MEC Heritage Collection, Sunday Afternoons hats and more.  <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h3b/h75/10115239215134/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg' width='200' /> |
 | 4/14/2022, 7:48:19 AM | **New Promo #3:** Shop camp deals - Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0c/hf9/10115239346206/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg' width='200' /> |
 | 4/14/2022, 7:48:19 AM | **New Promo #4:** Shop Garmin deals - Garmin tech to stay connected, on route and on track with your training. Limited time only. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0c/h58/10112314638366/21-012-Clearance-Promobox-D18-EN.jpg' width='200' /> |
+| 4/14/2022, 11:36:33 AM | **New Hero:** Save up to 40% - Fast-flowing spring deals to get set for all the good weekends ahead. <br /><img src='https://mec.imgix.net/medias/sys_master/images/images/h6c/h3e/10115241639966/036-LongWeekend-Homepagehero-D2-EN.png?w=800&h=800&auto=format&q=60' width='200' /> |
 
 [Back to main page](index.md)
