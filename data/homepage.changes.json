@@ -9818,6 +9818,28 @@
 					"cta": "Shop camp deals"
 				}
 			]
+		},
+		"1650007849847": {
+			"ts": 1650007849847,
+			"hero": {
+				"img": "https://mec.imgix.net/medias/sys_master/images/images/h6c/h3e/10115241639966/036-LongWeekend-Homepagehero-D2-EN.png?w=800&h=800&auto=format&q=60",
+				"headline": "Save up to 40%",
+				"tagline": "Fast-flowing spring deals to get set for all the good weekends ahead."
+			},
+			"promos": [
+				{
+					"idx": 0,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hfd/h1a/10115247734814/036-LongWeekend-SpringSale-D3-Promobox-ENv1.jpg",
+					"text": "Iconic, homegrown faves. Save on select clothing styles for men, women and kids. Ends April 20.",
+					"cta": "Shop MEC Label sale"
+				},
+				{
+					"idx": 2,
+					"img": "https://cdn.mec.ca/medias/sys_master/images/images/hdf/he4/10115247374366/036-LongWeekend-SpringSale-D3-Promobox-ENv1.jpg",
+					"text": "Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more.",
+					"cta": "Shop camp deals"
+				}
+			]
 		}
 	}
 }
