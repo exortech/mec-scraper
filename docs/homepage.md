@@ -1135,5 +1135,7 @@
 | 4/15/2022, 7:12:34 AM | **New Promo #3:** Shop camp deals - Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0c/hf9/10115239346206/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg' width='200' /> |
 | 4/15/2022, 7:29:31 AM | **New Promo #1:** Shop MEC Label sale - Iconic, homegrown faves. Save on select clothing styles for men, women and kids. Ends April 20. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hfd/h1a/10115247734814/036-LongWeekend-SpringSale-D3-Promobox-ENv1.jpg' width='200' /> |
 | 4/15/2022, 7:29:31 AM | **New Promo #3:** Shop camp deals - Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hdf/he4/10115247374366/036-LongWeekend-SpringSale-D3-Promobox-ENv1.jpg' width='200' /> |
+| 4/15/2022, 7:48:41 AM | **New Promo #1:** Shop MEC Label sale - Iconic, homegrown faves. Save on select clothing styles for men, women and kids. Ends April 20. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/hb6/h6f/10115239084062/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg' width='200' /> |
+| 4/15/2022, 7:48:41 AM | **New Promo #3:** Shop camp deals - Happy camper alert: save on sleeping kit, camp kitchen gear, clothing and more. <br /><img src='https://cdn.mec.ca/medias/sys_master/images/images/h0c/hf9/10115239346206/036-LongWeekend-SpringSale-D3-Promobox-EN.jpg' width='200' /> |
 
 [Back to main page](index.md)
